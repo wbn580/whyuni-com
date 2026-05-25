@@ -2,7 +2,7 @@
 title: "Best Apps for Comparing Universities: Mobile Tools for Study Abroad Research"
 description: "A 2023 survey by the *Times Higher Education* found that 68% of prospective international students begin their university research on a mobile device, yet on…"
 category: "Best"
-pubDatetime: 2026-05-04T19:24:32Z
+pubDatetime: "2026-05-04T19:24:32Z"
 publishDate: '2026-05-04T19:24:32Z'
 readingTime: 11
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Canada University Cities: Toronto, Vancouver, or Montreal for International Students?"
 description: "Every year, roughly 800,000 international students hold active study permits in Canada—a number that has more than tripled since 2015, according to Immigrati…"
 category: "Canada"
-pubDatetime: 2026-05-02T19:24:03Z
+pubDatetime: "2026-05-02T19:24:03Z"
 publishDate: '2026-05-02T19:24:03Z'
 readingTime: 10
 tags: ["featured"]

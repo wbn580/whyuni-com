@@ -2,7 +2,7 @@
 title: "How to Evaluate a University Beyond Rankings for Study Abroad"
 description: "Every year, over 1.1 million international students choose to study abroad, according to the OECD's 'Education at a Glance 2023' report, yet the majority sti…"
 category: "How"
-pubDatetime: 2026-04-30T19:23:29Z
+pubDatetime: "2026-04-30T19:23:29Z"
 publishDate: '2026-04-30T19:23:29Z'
 readingTime: 11
 tags: ["featured"]

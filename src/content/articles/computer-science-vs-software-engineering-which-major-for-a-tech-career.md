@@ -2,7 +2,7 @@
 title: "Computer Science vs Software Engineering: Which Major for a Tech Career?"
 description: "Every September, roughly 60,000 first-year students in the United States declare a major in computer and information sciences, according to the National Cent…"
 category: "Computer"
-pubDatetime: 2026-04-16T19:20:05Z
+pubDatetime: "2026-04-16T19:20:05Z"
 publishDate: '2026-04-16T19:20:05Z'
 readingTime: 9
 tags: ["featured"]

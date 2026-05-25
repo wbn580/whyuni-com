@@ -2,7 +2,7 @@
 title: "全球顶尖工程学院对比：MIT、斯坦福、帝国理工谁更适合你？"
 description: "When you are 17 years old, standing at the edge of a decision that will shape the next four decades of your professional life, the choice between MIT, Stanfo…"
 category: "全球顶尖工程学院对比：M"
-pubDatetime: 2026-04-09T19:18:17Z
+pubDatetime: "2026-04-09T19:18:17Z"
 publishDate: '2026-04-09T19:18:17Z'
 readingTime: 3
 tags: ["featured"]

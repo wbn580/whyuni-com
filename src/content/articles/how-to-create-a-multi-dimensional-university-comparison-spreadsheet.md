@@ -2,7 +2,7 @@
 title: "How to Create a Multi-Dimensional University Comparison Spreadsheet"
 description: "Seventy-eight percent of U.S. college freshmen in 2023 said they were “frequently” stressed about paying for school, according to the UCLA Higher Education R…"
 category: "How"
-pubDatetime: 2026-05-03T19:24:28Z
+pubDatetime: "2026-05-03T19:24:28Z"
 publishDate: '2026-05-03T19:24:28Z'
 readingTime: 9
 tags: ["featured"]

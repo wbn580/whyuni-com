@@ -2,7 +2,7 @@
 title: "留学经历在求职市场中的真实价值：HR到底怎么看海归？"
 description: "The résumé lands on the desk. The HR manager scans the education section: *University of Melbourne, B.Com.*, then *University College London, M.Sc. Economics…"
 category: "留学经历在求职市场中的真"
-pubDatetime: 2026-03-11T19:09:44Z
+pubDatetime: "2026-03-11T19:09:44Z"
 publishDate: '2026-03-11T19:09:44Z'
 readingTime: 3
 tags: ["featured"]

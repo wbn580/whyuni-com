@@ -2,7 +2,7 @@
 title: "High-Potential Academic Fields: Which Disciplines Will Boom in the Next Decade?"
 description: "By the end of 2023, the global market for artificial intelligence was valued at roughly $196.6 billion, according to Grand View Research, yet the conversatio…"
 category: "High-Potential"
-pubDatetime: 2026-05-07T19:25:32Z
+pubDatetime: "2026-05-07T19:25:32Z"
 publishDate: '2026-05-07T19:25:32Z'
 readingTime: 8
 tags: ["featured"]

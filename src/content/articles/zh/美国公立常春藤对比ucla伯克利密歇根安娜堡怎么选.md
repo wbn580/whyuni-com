@@ -2,7 +2,7 @@
 title: "美国公立常春藤对比：UCLA、伯克利、密歇根安娜堡怎么选？"
 description: "When the University of California, Los Angeles (UCLA) received 174,914 applications for its 2024 fall freshman class—the highest of any four-year university …"
 category: "美国公立常春藤对比：UC"
-pubDatetime: 2026-04-03T19:16:12Z
+pubDatetime: "2026-04-03T19:16:12Z"
 publishDate: '2026-04-03T19:16:12Z'
 readingTime: 3
 tags: ["featured"]

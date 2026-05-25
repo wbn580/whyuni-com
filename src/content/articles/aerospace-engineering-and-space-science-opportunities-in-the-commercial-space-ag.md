@@ -2,7 +2,7 @@
 title: "Aerospace Engineering and Space Science: Opportunities in the Commercial Space Age"
 description: "In 2022, the global space economy reached $546 billion, according to the Space Foundation’s *The Space Report 2023*, and by 2024 the private sector accounted…"
 category: "Aerospace"
-pubDatetime: 2026-05-14T19:27:12Z
+pubDatetime: "2026-05-14T19:27:12Z"
 publishDate: '2026-05-14T19:27:12Z'
 readingTime: 11
 tags: ["featured"]

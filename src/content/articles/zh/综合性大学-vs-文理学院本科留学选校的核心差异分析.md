@@ -2,7 +2,7 @@
 title: "综合性大学 vs 文理学院：本科留学选校的核心差异分析"
 description: "In the 2023–2024 academic year, U.S. universities hosted 1,057,188 international students, according to the Institute of International Education’s *Open Door…"
 category: "综合性大学 vs 文理学"
-pubDatetime: 2026-03-16T19:11:09Z
+pubDatetime: "2026-03-16T19:11:09Z"
 publishDate: '2026-03-16T19:11:09Z'
 readingTime: 3
 tags: ["featured"]

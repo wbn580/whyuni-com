@@ -2,7 +2,7 @@
 title: "What Courses Do Graduate Admissions Officers Look For?"
 description: "A single transcript line can shift an entire admissions decision. In 2023, the Council of Graduate Schools reported that 62% of U.S. master’s programs and 71…"
 category: "What"
-pubDatetime: 2026-04-21T19:21:28Z
+pubDatetime: "2026-04-21T19:21:28Z"
 publishDate: '2026-04-21T19:21:28Z'
 readingTime: 8
 tags: ["featured"]

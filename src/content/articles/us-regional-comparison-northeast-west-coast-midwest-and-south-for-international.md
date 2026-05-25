@@ -2,7 +2,7 @@
 title: "US Regional Comparison: Northeast, West Coast, Midwest, and South for International Students"
 description: "Of the 1.1 million international students enrolled at U.S. colleges in the 2022–23 academic year, more than half clustered in just four states: California, N…"
 category: "US"
-pubDatetime: 2026-04-30T19:23:44Z
+pubDatetime: "2026-04-30T19:23:44Z"
 publishDate: '2026-04-30T19:23:44Z'
 readingTime: 8
 tags: ["featured"]

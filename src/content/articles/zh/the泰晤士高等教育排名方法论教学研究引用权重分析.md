@@ -2,7 +2,7 @@
 title: "THE泰晤士高等教育排名方法论：教学、研究、引用权重分析"
 description: "In 2024, Times Higher Education updated its World University Rankings methodology, and for the first time in over a decade, the weight given to **citations**…"
 category: "THE泰晤士高等教育排名"
-pubDatetime: 2026-04-06T19:17:17Z
+pubDatetime: "2026-04-06T19:17:17Z"
 publishDate: '2026-04-06T19:17:17Z'
 readingTime: 3
 tags: ["featured"]

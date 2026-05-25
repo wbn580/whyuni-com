@@ -2,7 +2,7 @@
 title: "美国顶尖理工学院对比：MIT、加州理工、佐治亚理工怎么选？"
 description: "Every year, roughly 40,000 students apply to the Massachusetts Institute of Technology (MIT), and the institute admits fewer than 5 percent of them — 4.5 per…"
 category: "美国顶尖理工学院对比：M"
-pubDatetime: 2026-04-04T19:16:31Z
+pubDatetime: "2026-04-04T19:16:31Z"
 publishDate: '2026-04-04T19:16:31Z'
 readingTime: 3
 tags: ["featured"]

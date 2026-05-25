@@ -2,7 +2,7 @@
 title: "公立大学 vs 私立大学：留学选校时如何抉择？"
 description: "The decision between a public university and a private institution is often framed as a binary choice: the sprawling, state-funded research behemoth versus t…"
 category: "公立大学 vs 私立大学"
-pubDatetime: 2026-03-16T19:11:06Z
+pubDatetime: "2026-03-16T19:11:06Z"
 publishDate: '2026-03-16T19:11:06Z'
 readingTime: 3
 tags: ["featured"]

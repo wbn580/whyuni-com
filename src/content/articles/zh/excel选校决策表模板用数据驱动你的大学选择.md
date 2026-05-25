@@ -2,7 +2,7 @@
 title: "Excel选校决策表模板：用数据驱动你的大学选择"
 description: "The average American college applicant submits applications to seven schools, according to the 2023 report from the National Association for College Admissio…"
 category: "Excel选校决策表模板"
-pubDatetime: 2026-03-19T19:12:05Z
+pubDatetime: "2026-03-19T19:12:05Z"
 publishDate: '2026-03-19T19:12:05Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Mining University Websites: Finding Critical Information Beyond Rankings"
 description: "In 2024, the QS World University Rankings evaluated over 5,000 institutions to produce a list of just 1,500. A single position in the top 100 can shift a uni…"
 category: "Mining"
-pubDatetime: 2026-05-06T19:25:12Z
+pubDatetime: "2026-05-06T19:25:12Z"
 publishDate: '2026-05-06T19:25:12Z'
 readingTime: 13
 tags: ["featured"]

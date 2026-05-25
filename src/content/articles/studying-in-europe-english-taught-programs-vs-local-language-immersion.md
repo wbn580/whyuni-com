@@ -2,7 +2,7 @@
 title: "Studying in Europe: English-Taught Programs vs Local Language Immersion"
 description: "The decision to study in Europe presents a fork in the road that is as much about identity as it is about education. You can choose a path paved with English…"
 category: "Studying"
-pubDatetime: 2026-05-01T19:23:57Z
+pubDatetime: "2026-05-01T19:23:57Z"
 publishDate: '2026-05-01T19:23:57Z'
 readingTime: 8
 tags: ["featured"]

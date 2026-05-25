@@ -2,7 +2,7 @@
 title: "计算机科学专业全球排名对比：MIT、斯坦福、CMU谁更强？"
 description: "Few numbers in higher education are as obsessively tracked as the computer science rankings that separate MIT, Stanford, and Carnegie Mellon. In the 2025 QS …"
 category: "计算机科学专业全球排名对"
-pubDatetime: 2026-02-23T19:05:28Z
+pubDatetime: "2026-02-23T19:05:28Z"
 publishDate: '2026-02-23T19:05:28Z'
 readingTime: 3
 tags: ["featured"]

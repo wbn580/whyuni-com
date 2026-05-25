@@ -2,7 +2,7 @@
 title: "Overall Ranking vs Subject Ranking: Which Matters More for Graduate School?"
 description: "In March 2023, the Council of Graduate Schools reported that 72% of master’s programs and 68% of doctoral programs in the United States cited “institutional …"
 category: "Overall"
-pubDatetime: 2026-04-07T19:17:36Z
+pubDatetime: "2026-04-07T19:17:36Z"
 publishDate: '2026-04-07T19:17:36Z'
 readingTime: 10
 tags: ["featured"]

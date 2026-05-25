@@ -2,7 +2,7 @@
 title: "Are Summer Courses Worth It? Accelerated Graduation vs Burnout Risk"
 description: "Every June, as final exam papers are handed in, a familiar calculation begins in dorm rooms across the country. The math is seductively simple: enroll in one…"
 category: "Are"
-pubDatetime: 2026-04-22T19:21:48Z
+pubDatetime: "2026-04-22T19:21:48Z"
 publishDate: '2026-04-22T19:21:48Z'
 readingTime: 9
 tags: ["featured"]

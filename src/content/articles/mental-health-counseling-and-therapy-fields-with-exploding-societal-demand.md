@@ -2,7 +2,7 @@
 title: "Mental Health Counseling and Therapy: Fields with Exploding Societal Demand"
 description: "In 2020, the world crossed a stark threshold: the World Health Organization estimated that **970 million people globally** were living with a mental disorder…"
 category: "Mental"
-pubDatetime: 2026-05-11T19:26:27Z
+pubDatetime: "2026-05-11T19:26:27Z"
 publishDate: '2026-05-11T19:26:27Z'
 readingTime: 9
 tags: ["featured"]

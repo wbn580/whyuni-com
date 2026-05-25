@@ -2,7 +2,7 @@
 title: "研究型大学 vs 教学型大学：不同学习目标如何匹配？"
 description: "Every autumn, roughly 2.4 million first-year students enter U.S. degree-granting postsecondary institutions, according to the National Center for Education S…"
 category: "研究型大学 vs 教学型"
-pubDatetime: 2026-03-16T19:11:10Z
+pubDatetime: "2026-03-16T19:11:10Z"
 publishDate: '2026-03-16T19:11:10Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Cybersecurity Career Outlook: The High-Demand Field Born from Digital Transformation"
 description: "In 2023, the global average cost of a data breach reached $4.45 million, according to IBM’s *Cost of a Data Breach Report 2023*, a 15% increase over the prio…"
 category: "Cybersecurity"
-pubDatetime: 2026-05-08T19:25:48Z
+pubDatetime: "2026-05-08T19:25:48Z"
 publishDate: '2026-05-08T19:25:48Z'
 readingTime: 8
 tags: ["featured"]

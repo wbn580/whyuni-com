@@ -2,7 +2,7 @@
 title: "THE World University Rankings Methodology: Teaching, Research, and Citations"
 description: "Every September, when the Times Higher Education (THE) World University Rankings land, a familiar anxiety ripples through admissions forums and high‑school g…"
 category: "THE"
-pubDatetime: 2026-05-22T19:29:27Z
+pubDatetime: "2026-05-22T19:29:27Z"
 publishDate: '2026-05-22T19:29:27Z'
 readingTime: 9
 tags: ["featured"]

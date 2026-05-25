@@ -2,7 +2,7 @@
 title: "Journalism and Communication Schools: Columbia, USC Annenberg, and LSE"
 description: "The elevator pitch is a lie. It tells you that Columbia, USC Annenberg, and LSE are three schools on a single ladder, differentiated only by the color of the…"
 category: "Journalism"
-pubDatetime: 2026-05-22T19:29:40Z
+pubDatetime: "2026-05-22T19:29:40Z"
 publishDate: '2026-05-22T19:29:40Z'
 readingTime: 11
 tags: ["featured"]

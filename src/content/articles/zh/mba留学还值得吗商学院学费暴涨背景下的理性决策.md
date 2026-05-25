@@ -2,7 +2,7 @@
 title: "MBA留学还值得吗？商学院学费暴涨背景下的理性决策"
 description: "In 2025, the sticker price for a two-year MBA at a top-10 U.S. business school now exceeds $240,000 in tuition alone, with total cost of attendance—including…"
 category: "MBA留学还值得吗？商学"
-pubDatetime: 2026-03-15T19:10:51Z
+pubDatetime: "2026-03-15T19:10:51Z"
 publishDate: '2026-03-15T19:10:51Z'
 readingTime: 3
 tags: ["featured"]

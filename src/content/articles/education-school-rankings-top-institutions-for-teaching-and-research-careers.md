@@ -2,7 +2,7 @@
 title: "Education School Rankings: Top Institutions for Teaching and Research Careers"
 description: "In 2023, the OECD reported that 14.6 million students were enrolled in education-related degree programs across its member countries, with nearly one in five…"
 category: "Education"
-pubDatetime: 2026-04-10T19:18:25Z
+pubDatetime: "2026-04-10T19:18:25Z"
 publishDate: '2026-04-10T19:18:25Z'
 readingTime: 14
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Study Abroad Immigration Pathways: Which Countries Offer Clear Routes to Residency?"
 description: "In 2023, Canada welcomed over 1.4 million new permanent residents and temporary permit holders, with international students accounting for roughly 30% of tha…"
 category: "Study"
-pubDatetime: 2026-04-26T19:22:41Z
+pubDatetime: "2026-04-26T19:22:41Z"
 publishDate: '2026-04-26T19:22:41Z'
 readingTime: 11
 tags: ["featured"]

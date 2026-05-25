@@ -2,7 +2,7 @@
 title: "Political Science Rankings: Comparative Politics vs International Relations Focus"
 description: "Every autumn, roughly 45,000 undergraduates in the United States alone declare a major in political science, according to the National Center for Education S…"
 category: "Political"
-pubDatetime: 2026-04-14T19:19:32Z
+pubDatetime: "2026-04-14T19:19:32Z"
 publishDate: '2026-04-14T19:19:32Z'
 readingTime: 11
 tags: ["featured"]

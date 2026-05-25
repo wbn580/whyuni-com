@@ -2,7 +2,7 @@
 title: "Public Policy Schools: Harvard Kennedy, Columbia SIPA, and LSE Compared"
 description: "Every fall, roughly 3,800 applicants compete for fewer than 600 seats in the Master in Public Policy program at Harvard Kennedy School, yielding an acceptanc…"
 category: "Public"
-pubDatetime: 2026-05-21T19:29:06Z
+pubDatetime: "2026-05-21T19:29:06Z"
 publishDate: '2026-05-21T19:29:06Z'
 readingTime: 11
 tags: ["featured"]

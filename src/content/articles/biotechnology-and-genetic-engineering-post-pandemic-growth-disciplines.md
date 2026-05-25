@@ -2,7 +2,7 @@
 title: "Biotechnology and Genetic Engineering: Post-Pandemic Growth Disciplines"
 description: "By March 2025, the global biotechnology market had reached a valuation of approximately $1.55 trillion, according to a report from Grand View Research, with …"
 category: "Biotechnology"
-pubDatetime: 2026-05-09T19:26:06Z
+pubDatetime: "2026-05-09T19:26:06Z"
 publishDate: '2026-05-09T19:26:06Z'
 readingTime: 10
 tags: ["featured"]

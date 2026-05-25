@@ -2,7 +2,7 @@
 title: "Psychology Program Rankings: Matching Research Strengths to Your Interests"
 description: "In the autumn of 2023, the American Psychological Association reported that over 92,000 students graduated with a bachelor’s degree in psychology in the Unit…"
 category: "Psychology"
-pubDatetime: 2026-04-09T19:18:14Z
+pubDatetime: "2026-04-09T19:18:14Z"
 publishDate: '2026-04-09T19:18:14Z'
 readingTime: 10
 tags: ["featured"]

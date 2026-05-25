@@ -2,7 +2,7 @@
 title: "One-Year Master's Degrees: Are They Respected by Employers?"
 description: "A decade ago, the one-year master’s degree was a niche offering, largely confined to business schools in the United Kingdom and a handful of specialized prog…"
 category: "One-Year"
-pubDatetime: 2026-04-27T19:22:46Z
+pubDatetime: "2026-04-27T19:22:46Z"
 publishDate: '2026-04-27T19:22:46Z'
 readingTime: 11
 tags: ["featured"]

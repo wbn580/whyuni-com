@@ -2,7 +2,7 @@
 title: "Food Science and Food Safety: Critical Disciplines Amid Global Food Challenges"
 description: "Every year, 600 million people—roughly 1 in 10 individuals on the planet—fall ill after consuming contaminated food, according to the World Health Organizati…"
 category: "Food"
-pubDatetime: 2026-05-12T19:26:39Z
+pubDatetime: "2026-05-12T19:26:39Z"
 publishDate: '2026-05-12T19:26:39Z'
 readingTime: 10
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "中外合作办学 vs 直接出国留学：性价比与体验差异分析"
 description: "The decision of where to spend one’s undergraduate years has never been more layered for Chinese students. For the cohort of roughly 1.02 million students wh…"
 category: "中外合作办学 vs 直接"
-pubDatetime: 2026-03-14T19:10:36Z
+pubDatetime: "2026-03-14T19:10:36Z"
 publishDate: '2026-03-14T19:10:36Z'
 readingTime: 3
 tags: ["featured"]

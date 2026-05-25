@@ -2,7 +2,7 @@
 title: "Music Conservatories: Juilliard, Royal Academy, and Berklee Analyzed"
 description: "A 17-year-old violinist from Seoul, a 19-year-old jazz pianist from São Paulo, and an 18-year-old singer-songwriter from London all face the same question: w…"
 category: "Music"
-pubDatetime: 2026-05-22T19:29:31Z
+pubDatetime: "2026-05-22T19:29:31Z"
 publishDate: '2026-05-22T19:29:31Z'
 readingTime: 9
 tags: ["featured"]

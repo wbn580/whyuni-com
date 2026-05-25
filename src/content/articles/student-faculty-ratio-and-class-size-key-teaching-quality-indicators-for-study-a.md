@@ -2,7 +2,7 @@
 title: "Student-Faculty Ratio and Class Size: Key Teaching Quality Indicators for Study Abroad"
 description: "A single number can mislead more than a hundred words. In 2023, the Organisation for Economic Co-operation and Development (OECD) reported that the average s…"
 category: "Student-Faculty"
-pubDatetime: 2026-05-03T19:24:19Z
+pubDatetime: "2026-05-03T19:24:19Z"
 publishDate: '2026-05-03T19:24:19Z'
 readingTime: 9
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "网课 vs 线下课怎么选？后疫情时代选课新思路"
 description: "In February 2020, the Organisation for Economic Co-operation and Development recorded that 1.5 billion learners across 195 countries were abruptly shut out o…"
 category: "网课 vs 线下课怎么选"
-pubDatetime: 2026-03-09T19:09:24Z
+pubDatetime: "2026-03-09T19:09:24Z"
 publishDate: '2026-03-09T19:09:24Z'
 readingTime: 3
 tags: ["featured"]

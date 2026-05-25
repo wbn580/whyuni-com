@@ -2,7 +2,7 @@
 title: "Global Medical Schools: Harvard, Oxford, and Johns Hopkins Selection Guide"
 description: "Every year, roughly 22,000 applicants compete for approximately 1,000 first-year seats across Harvard Medical School, Oxford’s medical program, and Johns Hop…"
 category: "Global"
-pubDatetime: 2026-05-19T19:28:45Z
+pubDatetime: "2026-05-19T19:28:45Z"
 publishDate: '2026-05-19T19:28:45Z'
 readingTime: 10
 tags: ["featured"]

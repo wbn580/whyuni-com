@@ -2,7 +2,7 @@
 title: "Sports Management and Sports Science: New Directions in Professionalized Athletics"
 description: "The most visible sign of professional sports’ transformation isn’t on the field—it’s in the front office and the training room. In 2023, the global sports ma…"
 category: "Sports"
-pubDatetime: 2026-05-12T19:26:47Z
+pubDatetime: "2026-05-12T19:26:47Z"
 publishDate: '2026-05-12T19:26:47Z'
 readingTime: 10
 tags: ["featured"]

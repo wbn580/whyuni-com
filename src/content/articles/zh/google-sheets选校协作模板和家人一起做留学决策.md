@@ -2,7 +2,7 @@
 title: "Google Sheets选校协作模板：和家人一起做留学决策"
 description: "The first time you open a blank spreadsheet with your parents to discuss university choices, it feels less like planning and more like a negotiation. You typ…"
 category: "Google Sheet"
-pubDatetime: 2026-03-20T19:12:22Z
+pubDatetime: "2026-03-20T19:12:22Z"
 publishDate: '2026-03-20T19:12:22Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Statistics vs Data Science vs Business Analytics: Which Path for Data Careers?"
 description: "In 2023, the U.S. Bureau of Labor Statistics projected that employment in data-related occupations would grow by 35% through 2031, adding nearly 600,000 new …"
 category: "Statistics"
-pubDatetime: 2026-04-15T19:20:05Z
+pubDatetime: "2026-04-15T19:20:05Z"
 publishDate: '2026-04-15T19:20:05Z'
 readingTime: 9
 tags: ["featured"]

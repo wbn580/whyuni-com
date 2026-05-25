@@ -2,7 +2,7 @@
 title: "Excel Template for University Decision-Making: Data-Driven College Choice"
 description: "Every year, roughly 2.4 million first-time, full-time students enroll in four-year degree-granting institutions across the United States, according to the Na…"
 category: "Excel"
-pubDatetime: 2026-05-03T19:24:30Z
+pubDatetime: "2026-05-03T19:24:30Z"
 publishDate: '2026-05-03T19:24:30Z'
 readingTime: 11
 tags: ["featured"]

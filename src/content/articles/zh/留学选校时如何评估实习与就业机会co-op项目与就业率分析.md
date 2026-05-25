@@ -2,7 +2,7 @@
 title: "留学选校时如何评估实习与就业机会？Co-op项目与就业率分析"
 description: "The typical university prospectus lists placement rates with the same cheerful opacity as a restaurant menu lists calories: present but carefully framed. In …"
 category: "留学选校时如何评估实习与"
-pubDatetime: 2026-03-18T19:11:51Z
+pubDatetime: "2026-03-18T19:11:51Z"
 publishDate: '2026-03-18T19:11:51Z'
 readingTime: 3
 tags: ["featured"]

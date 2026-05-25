@@ -2,7 +2,7 @@
 title: "Undergraduate Business Programs: Wharton, Sloan, and London Business School"
 description: "In the fall of 2023, the University of Pennsylvania’s Wharton School received 6,192 applications for its undergraduate program and admitted just 1,292 studen…"
 category: "Undergraduate"
-pubDatetime: 2026-05-20T19:28:57Z
+pubDatetime: "2026-05-20T19:28:57Z"
 publishDate: '2026-05-20T19:28:57Z'
 readingTime: 10
 tags: ["featured"]

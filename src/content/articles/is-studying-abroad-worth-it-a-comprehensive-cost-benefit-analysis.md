@@ -2,7 +2,7 @@
 title: "Is Studying Abroad Worth It? A Comprehensive Cost-Benefit Analysis"
 description: "In 2023, the Organisation for Economic Co-operation and Development (OECD) reported that international students in its member countries contributed an estima…"
 category: "Is"
-pubDatetime: 2026-04-24T19:22:03Z
+pubDatetime: "2026-04-24T19:22:03Z"
 publishDate: '2026-04-24T19:22:03Z'
 readingTime: 8
 tags: ["featured"]

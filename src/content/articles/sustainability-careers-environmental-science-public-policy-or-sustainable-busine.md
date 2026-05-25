@@ -2,7 +2,7 @@
 title: "Sustainability Careers: Environmental Science, Public Policy, or Sustainable Business?"
 description: "In 2023, the global green transition generated roughly **10.3 million new direct jobs** in renewable energy alone, according to the International Renewable E…"
 category: "Sustainability"
-pubDatetime: 2026-04-16T19:20:12Z
+pubDatetime: "2026-04-16T19:20:12Z"
 publishDate: '2026-04-16T19:20:12Z'
 readingTime: 9
 tags: ["featured"]

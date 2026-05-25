@@ -2,7 +2,7 @@
 title: "Google Sheets Collaboration Template: Making Study Abroad Decisions with Family"
 description: "Every year, roughly 1.1 million international students choose to study abroad, according to the OECD’s 2023 *Education at a Glance* report, yet a significant…"
 category: "Google"
-pubDatetime: 2026-05-07T19:25:40Z
+pubDatetime: "2026-05-07T19:25:40Z"
 publishDate: '2026-05-07T19:25:40Z'
 readingTime: 7
 tags: ["featured"]

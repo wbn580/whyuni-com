@@ -2,7 +2,7 @@
 title: "How Internships Shape Major Decisions: The Value of Pre-College Work Experience"
 description: "Each June, as high school seniors and transfer applicants sort through acceptance letters, a quieter decision looms: what to actually study. The National Cen…"
 category: "How"
-pubDatetime: 2026-05-16T19:27:49Z
+pubDatetime: "2026-05-16T19:27:49Z"
 publishDate: '2026-05-16T19:27:49Z'
 readingTime: 8
 tags: ["featured"]

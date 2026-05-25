@@ -2,7 +2,7 @@
 title: "Public vs Private Universities: How to Choose for International Study"
 description: "In 2023, the United States hosted 1,057,188 international students, according to the Institute of International Education's *Open Doors Report*, while the UK…"
 category: "Public"
-pubDatetime: 2026-04-30T19:23:37Z
+pubDatetime: "2026-04-30T19:23:37Z"
 publishDate: '2026-04-30T19:23:37Z'
 readingTime: 12
 tags: ["featured"]

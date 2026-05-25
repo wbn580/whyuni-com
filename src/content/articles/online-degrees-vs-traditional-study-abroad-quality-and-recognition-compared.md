@@ -2,7 +2,7 @@
 title: "Online Degrees vs Traditional Study Abroad: Quality and Recognition Compared"
 description: "In 2023, the United States enrolled over 1.5 million international students, a figure that has steadily climbed back toward pre-pandemic peaks, according to …"
 category: "Online"
-pubDatetime: 2026-04-28T19:23:12Z
+pubDatetime: "2026-04-28T19:23:12Z"
 publishDate: '2026-04-28T19:23:12Z'
 readingTime: 12
 tags: ["featured"]

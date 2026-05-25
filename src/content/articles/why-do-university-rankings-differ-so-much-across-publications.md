@@ -2,7 +2,7 @@
 title: "Why Do University Rankings Differ So Much Across Publications?"
 description: "A high school senior in Beijing pulls up QS World University Rankings on her phone and sees the University of Melbourne at number 14. Her friend in Shanghai,…"
 category: "Why"
-pubDatetime: 2026-04-07T19:17:37Z
+pubDatetime: "2026-04-07T19:17:37Z"
 publishDate: '2026-04-07T19:17:37Z'
 readingTime: 12
 tags: ["featured"]

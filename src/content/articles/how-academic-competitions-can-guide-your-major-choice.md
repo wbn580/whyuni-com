@@ -2,7 +2,7 @@
 title: "How Academic Competitions Can Guide Your Major Choice"
 description: "In the spring of 2024, the International Biology Olympiad (IBO) drew 293 contestants from 79 countries, yet fewer than 12 percent of those high-school medali…"
 category: "How"
-pubDatetime: 2026-05-16T19:27:46Z
+pubDatetime: "2026-05-16T19:27:46Z"
 publishDate: '2026-05-16T19:27:46Z'
 readingTime: 10
 tags: ["featured"]

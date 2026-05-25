@@ -2,7 +2,7 @@
 title: "全球顶尖传媒学院对比：哥大、南加大、LSE传媒专业分析"
 description: "In the fall of 2023, Columbia University’s Journalism School reported that 94.7% of its master’s graduates had secured employment or a fellowship within six …"
 category: "全球顶尖传媒学院对比：哥"
-pubDatetime: 2026-04-07T19:17:38Z
+pubDatetime: "2026-04-07T19:17:38Z"
 publishDate: '2026-04-07T19:17:38Z'
 readingTime: 3
 tags: ["featured"]

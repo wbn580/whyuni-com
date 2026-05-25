@@ -2,7 +2,7 @@
 title: "Acceptance Rates and Competitiveness: Gauging Admission Difficulty for International Students"
 description: "In 2023, the Institute of International Education (IIE) reported that international student enrollment in U.S. higher education reached a record high of over…"
 category: "Acceptance"
-pubDatetime: 2026-05-03T19:24:29Z
+pubDatetime: "2026-05-03T19:24:29Z"
 publishDate: '2026-05-03T19:24:29Z'
 readingTime: 8
 tags: ["featured"]

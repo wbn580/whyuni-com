@@ -2,7 +2,7 @@
 title: "International Graduate Salary Report: Return on Investment by Country and Major"
 description: "A 22-year-old graduating with a bachelor’s degree in the United States in 2023 carried a median debt of $30,000, yet the median starting salary for that coho…"
 category: "International"
-pubDatetime: 2026-04-24T19:22:14Z
+pubDatetime: "2026-04-24T19:22:14Z"
 publishDate: '2026-04-24T19:22:14Z'
 readingTime: 12
 tags: ["featured"]

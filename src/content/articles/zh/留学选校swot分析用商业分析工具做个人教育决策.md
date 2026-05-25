@@ -2,7 +2,7 @@
 title: "留学选校SWOT分析：用商业分析工具做个人教育决策"
 description: "Every September, approximately 1.2 million Chinese students depart for universities abroad, according to the Ministry of Education’s 2023 statistical bulleti…"
 category: "留学选校SWOT分析：用"
-pubDatetime: 2026-03-21T19:12:33Z
+pubDatetime: "2026-03-21T19:12:33Z"
 publishDate: '2026-03-21T19:12:33Z'
 readingTime: 3
 tags: ["featured"]

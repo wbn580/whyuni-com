@@ -2,7 +2,7 @@
 title: "Decision Tree Models for University Selection: Simplifying Complex Choices"
 description: "Every year, roughly 2.5 million first-year students across OECD countries submit applications to universities, yet a 2023 study by the OECD’s Education at a …"
 category: "Decision"
-pubDatetime: 2026-05-06T19:25:28Z
+pubDatetime: "2026-05-06T19:25:28Z"
 publishDate: '2026-05-06T19:25:28Z'
 readingTime: 11
 tags: ["featured"]

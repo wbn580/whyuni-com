@@ -2,7 +2,7 @@
 title: "How to Balance Course Difficulty and GPA: Are Challenging Courses Worth the Risk?"
 description: "Every December, thousands of high school seniors and first-year college students sit down to plan their next semester’s course load, and a quiet dread settle…"
 category: "How"
-pubDatetime: 2026-04-23T19:21:57Z
+pubDatetime: "2026-04-23T19:21:57Z"
 publishDate: '2026-04-23T19:21:57Z'
 readingTime: 12
 tags: ["featured"]

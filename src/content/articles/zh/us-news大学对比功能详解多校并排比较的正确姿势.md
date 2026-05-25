@@ -2,7 +2,7 @@
 title: "US News大学对比功能详解：多校并排比较的正确姿势"
 description: "The American university selection process, for an 18-year-old staring at a browser with fifteen tabs open, often collapses into a single, agonizing question:…"
 category: "US News大学对比功"
-pubDatetime: 2026-03-20T19:12:18Z
+pubDatetime: "2026-03-20T19:12:18Z"
 publishDate: '2026-03-20T19:12:18Z'
 readingTime: 3
 tags: ["featured"]

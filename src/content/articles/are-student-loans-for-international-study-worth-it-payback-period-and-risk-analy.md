@@ -2,7 +2,7 @@
 title: "Are Student Loans for International Study Worth It? Payback Period and Risk Analysis"
 description: "In 2025, the total cost of a four-year undergraduate degree in the United States for an international student, including tuition, fees, and living expenses, …"
 category: "Are"
-pubDatetime: 2026-04-26T19:22:29Z
+pubDatetime: "2026-04-26T19:22:29Z"
 publishDate: '2026-04-26T19:22:29Z'
 readingTime: 11
 tags: ["featured"]

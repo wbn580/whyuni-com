@@ -2,7 +2,7 @@
 title: "综合排名 vs 专业排名：申请研究生到底哪个更重要？"
 description: "Every fall, tens of thousands of graduate-school applicants confront a single, nagging question: when the time comes to commit, should I prioritize the insti…"
 category: "综合排名 vs 专业排名"
-pubDatetime: 2026-02-22T19:05:03Z
+pubDatetime: "2026-02-22T19:05:03Z"
 publishDate: '2026-02-22T19:05:03Z'
 readingTime: 3
 tags: ["featured"]

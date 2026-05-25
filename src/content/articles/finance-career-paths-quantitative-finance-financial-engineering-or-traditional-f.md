@@ -2,7 +2,7 @@
 title: "Finance Career Paths: Quantitative Finance, Financial Engineering, or Traditional Finance?"
 description: "A single spreadsheet can hold a career. You open it, and the columns stretch sideways into columns you cannot name: Greeks, stochastic volatility, CDS spread…"
 category: "Finance"
-pubDatetime: 2026-04-17T19:20:28Z
+pubDatetime: "2026-04-17T19:20:28Z"
 publishDate: '2026-04-17T19:20:28Z'
 readingTime: 10
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Mathematics Program Rankings: Pure Mathematics vs Applied Mathematics Tracks"
 description: "In 2024, the **National Center for Education Statistics (NCES)** reported that 52,872 bachelor’s degrees in mathematics and statistics were conferred in the …"
 category: "Mathematics"
-pubDatetime: 2026-04-13T19:19:15Z
+pubDatetime: "2026-04-13T19:19:15Z"
 publishDate: '2026-04-13T19:19:15Z'
 readingTime: 13
 tags: ["featured"]

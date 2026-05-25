@@ -2,7 +2,7 @@
 title: "Interest vs Employability: A Decision Framework for Choosing Your Major"
 description: "The most agonizing question for a 17-year-old staring at a university application portal is rarely “Can I get in?” It’s “What should I study?” And beneath th…"
 category: "Interest"
-pubDatetime: 2026-04-18T19:20:34Z
+pubDatetime: "2026-04-18T19:20:34Z"
 publishDate: '2026-04-18T19:20:34Z'
 readingTime: 11
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "FinTech Career Prospects: New Opportunities at the Intersection of Finance and Tech"
 description: "In the autumn of 2023, the global FinTech sector attracted $113.7 billion in total funding across 4,548 deals, according to KPMG’s *Pulse of Fintech* report—…"
 category: "FinTech"
-pubDatetime: 2026-05-10T19:26:15Z
+pubDatetime: "2026-05-10T19:26:15Z"
 publishDate: '2026-05-10T19:26:15Z'
 readingTime: 10
 tags: ["featured"]

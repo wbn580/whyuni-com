@@ -2,7 +2,7 @@
 title: "Making the Most of University Open Days: Questions to Ask About Your Major"
 description: "You arrive on campus with a glossy brochure in hand and the vague sense that you should be asking something more incisive than “Is the cafeteria good?” Unive…"
 category: "Making"
-pubDatetime: 2026-05-15T19:27:30Z
+pubDatetime: "2026-05-15T19:27:30Z"
 publishDate: '2026-05-15T19:27:30Z'
 readingTime: 13
 tags: ["featured"]

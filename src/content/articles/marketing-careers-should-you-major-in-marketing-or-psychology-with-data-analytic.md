@@ -2,7 +2,7 @@
 title: "Marketing Careers: Should You Major in Marketing or Psychology with Data Analytics?"
 description: "The last time you scrolled through a brand’s Instagram feed and felt an urge to buy something you didn’t need, you were on the receiving end of a carefully e…"
 category: "Marketing"
-pubDatetime: 2026-04-15T19:19:55Z
+pubDatetime: "2026-04-15T19:19:55Z"
 publishDate: '2026-04-15T19:19:55Z'
 readingTime: 9
 tags: ["featured"]

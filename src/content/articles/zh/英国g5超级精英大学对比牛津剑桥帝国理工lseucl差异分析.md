@@ -2,7 +2,7 @@
 title: "英国G5超级精英大学对比：牛津、剑桥、帝国理工、LSE、UCL差异分析"
 description: "For a seventeen-year-old staring at the UCAS application portal, the five names clustered at the top of the page—Oxford, Cambridge, Imperial, LSE, UCL—blur i…"
 category: "英国G5超级精英大学对比"
-pubDatetime: 2026-04-04T19:16:44Z
+pubDatetime: "2026-04-04T19:16:44Z"
 publishDate: '2026-04-04T19:16:44Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "通识教育课程怎么选？让GPA和知识面双赢的选课策略"
 description: "Every fall, roughly 1.9 million first-time undergraduates enter four-year institutions in the United States, and for nearly all of them, the first academic h…"
 category: "通识教育课程怎么选？让G"
-pubDatetime: 2026-03-07T19:08:29Z
+pubDatetime: "2026-03-07T19:08:29Z"
 publishDate: '2026-03-07T19:08:29Z'
 readingTime: 3
 tags: ["featured"]

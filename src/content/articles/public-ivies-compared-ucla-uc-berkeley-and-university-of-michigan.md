@@ -2,7 +2,7 @@
 title: "Public Ivies Compared: UCLA, UC Berkeley, and University of Michigan"
 description: "In 2024, the University of California, Los Angeles received 146,250 applications for its fall freshman class, admitting only 8.6 percent of them, according t…"
 category: "Public"
-pubDatetime: 2026-05-17T19:28:21Z
+pubDatetime: "2026-05-17T19:28:21Z"
 publishDate: '2026-05-17T19:28:21Z'
 readingTime: 10
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Giving Up a Top Domestic University for Study Abroad: Comparing Life Trajectories"
 description: "In 2019, a study by the OECD found that 4.5 million tertiary students were enrolled outside their country of citizenship, a number that had more than doubled…"
 category: "Giving"
-pubDatetime: 2026-04-26T19:22:33Z
+pubDatetime: "2026-04-26T19:22:33Z"
 publishDate: '2026-04-26T19:22:33Z'
 readingTime: 9
 tags: ["featured"]

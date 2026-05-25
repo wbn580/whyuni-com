@@ -2,7 +2,7 @@
 title: "Health Informatics and Digital Health: Core Disciplines in Healthcare Transformation"
 description: "The United States Bureau of Labor Statistics projects that employment in medical and health services management—the broad category under which health informa…"
 category: "Health"
-pubDatetime: 2026-05-09T19:26:08Z
+pubDatetime: "2026-05-09T19:26:08Z"
 publishDate: '2026-05-09T19:26:08Z'
 readingTime: 11
 tags: ["featured"]

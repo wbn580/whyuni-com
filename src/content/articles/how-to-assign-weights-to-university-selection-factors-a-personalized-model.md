@@ -2,7 +2,7 @@
 title: "How to Assign Weights to University Selection Factors: A Personalized Model"
 description: "The decision of where to spend four years and a sum that, for many families, rivals the price of a home, has never been more data-rich—and, paradoxically, le…"
 category: "How"
-pubDatetime: 2026-05-08T19:25:58Z
+pubDatetime: "2026-05-08T19:25:58Z"
 publishDate: '2026-05-08T19:25:58Z'
 readingTime: 11
 tags: ["featured"]

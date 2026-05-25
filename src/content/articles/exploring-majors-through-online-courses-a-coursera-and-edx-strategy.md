@@ -2,7 +2,7 @@
 title: "Exploring Majors Through Online Courses: A Coursera and edX Strategy"
 description: "In the spring of 2020, as university campuses across the globe shuttered their gates, a quiet migration began. Enrollment on Coursera surged by 640% compared…"
 category: "Exploring"
-pubDatetime: 2026-05-14T19:27:20Z
+pubDatetime: "2026-05-14T19:27:20Z"
 publishDate: '2026-05-14T19:27:20Z'
 readingTime: 10
 tags: ["featured"]

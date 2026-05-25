@@ -2,7 +2,7 @@
 title: "Course Schedule Conflicts: Practical Solutions for Timetable Clashes"
 description: "A single course conflict can unravel an entire semester’s plan. According to the National Center for Education Statistics (NCES, 2023, *Digest of Education S…"
 category: "Course"
-pubDatetime: 2026-04-23T19:22:02Z
+pubDatetime: "2026-04-23T19:22:02Z"
 publishDate: '2026-04-23T19:22:02Z'
 readingTime: 9
 tags: ["featured"]

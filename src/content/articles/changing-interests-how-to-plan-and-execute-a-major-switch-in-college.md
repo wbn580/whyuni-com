@@ -2,7 +2,7 @@
 title: "Changing Interests? How to Plan and Execute a Major Switch in College"
 description: "In the fall of 2020, the U.S. National Center for Education Statistics reported that roughly **30 percent** of undergraduate students who entered a four-year…"
 category: "Changing"
-pubDatetime: 2026-05-17T19:27:53Z
+pubDatetime: "2026-05-17T19:27:53Z"
 publishDate: '2026-05-17T19:27:53Z'
 readingTime: 9
 tags: ["featured"]

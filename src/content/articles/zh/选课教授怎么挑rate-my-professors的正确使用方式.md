@@ -2,7 +2,7 @@
 title: "选课教授怎么挑？Rate My Professors的正确使用方式"
 description: "On the first day of course registration at a large U.S. public university, a student has roughly 4.7 seconds to decide between two sections of Organic Chemis…"
 category: "选课教授怎么挑？Rate"
-pubDatetime: 2026-03-08T19:09:15Z
+pubDatetime: "2026-03-08T19:09:15Z"
 publishDate: '2026-03-08T19:09:15Z'
 readingTime: 3
 tags: ["featured"]

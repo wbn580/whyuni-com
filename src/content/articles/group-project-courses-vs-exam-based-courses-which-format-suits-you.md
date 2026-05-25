@@ -2,7 +2,7 @@
 title: "Group Project Courses vs Exam-Based Courses: Which Format Suits You?"
 description: "By the time you finish your second year of university, roughly **73% of your final grade** across a typical Western undergraduate degree will have come from …"
 category: "Group"
-pubDatetime: 2026-04-24T19:22:07Z
+pubDatetime: "2026-04-24T19:22:07Z"
 publishDate: '2026-04-24T19:22:07Z'
 readingTime: 11
 tags: ["featured"]

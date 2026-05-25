@@ -2,7 +2,7 @@
 title: "Geography Program Rankings: Human Geography vs Physical Geography Tracks"
 description: "In 2023, the U.S. Bureau of Labor Statistics projected that employment for geographers would grow by 7% from 2022 to 2032, a pace faster than the average for…"
 category: "Geography"
-pubDatetime: 2026-04-13T19:19:23Z
+pubDatetime: "2026-04-13T19:19:23Z"
 publishDate: '2026-04-13T19:19:23Z'
 readingTime: 9
 tags: ["featured"]

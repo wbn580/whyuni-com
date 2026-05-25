@@ -2,7 +2,7 @@
 title: "Digital Marketing and E-Commerce Analytics: Sustained Growth in a Post-Pandemic World"
 description: "Global e-commerce sales reached $5.8 trillion in 2023, according to the United Nations Conference on Trade and Development (UNCTAD), a figure that has more t…"
 category: "Digital"
-pubDatetime: 2026-05-11T19:26:36Z
+pubDatetime: "2026-05-11T19:26:36Z"
 publishDate: '2026-05-11T19:26:36Z'
 readingTime: 9
 tags: ["featured"]

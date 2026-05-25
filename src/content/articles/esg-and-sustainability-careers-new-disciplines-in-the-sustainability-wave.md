@@ -2,7 +2,7 @@
 title: "ESG and Sustainability Careers: New Disciplines in the Sustainability Wave"
 description: "By the end of 2023, global assets managed under ESG (Environmental, Social, Governance) mandates had surpassed **$30 trillion**—a figure that, according to t…"
 category: "ESG"
-pubDatetime: 2026-05-09T19:26:14Z
+pubDatetime: "2026-05-09T19:26:14Z"
 publishDate: '2026-05-09T19:26:14Z'
 readingTime: 8
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Creative Computing and Digital Humanities: Emerging Interdisciplinary Fields"
 description: "In 2019, the U.S. Bureau of Labor Statistics projected that employment in computer and information technology occupations would grow 13 percent from 2020 to …"
 category: "Creative"
-pubDatetime: 2026-05-12T19:26:54Z
+pubDatetime: "2026-05-12T19:26:54Z"
 publishDate: '2026-05-12T19:26:54Z'
 readingTime: 10
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Renewable Energy Careers: Energy Engineering, Materials Science, or Environmental Economics?"
 description: "The International Energy Agency projects that by 2030, global renewable energy capacity will need to reach 11,000 gigawatts to stay on track for net-zero emi…"
 category: "Renewable"
-pubDatetime: 2026-04-16T19:20:15Z
+pubDatetime: "2026-04-16T19:20:15Z"
 publishDate: '2026-04-16T19:20:15Z'
 readingTime: 10
 tags: ["featured"]

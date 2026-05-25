@@ -2,7 +2,7 @@
 title: "Sino-Foreign Joint Programs vs Direct Study Abroad: Value and Experience Differences"
 description: "In 2023, the Chinese Ministry of Education reported that over 2,300 Sino-foreign joint educational programs and institutions were operating nationwide, enrol…"
 category: "Sino-Foreign"
-pubDatetime: 2026-04-29T19:23:28Z
+pubDatetime: "2026-04-29T19:23:28Z"
 publishDate: '2026-04-29T19:23:28Z'
 readingTime: 10
 tags: ["featured"]

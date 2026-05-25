@@ -2,7 +2,7 @@
 title: "How to Choose College Courses That Satisfy Requirements and Boost Your Resume"
 description: "The average American university student pays $14,670 per year in tuition at a public four-year institution and faces a 41.6 percent six-year graduation rate,…"
 category: "How"
-pubDatetime: 2026-04-20T19:21:02Z
+pubDatetime: "2026-04-20T19:21:02Z"
 publishDate: '2026-04-20T19:21:02Z'
 readingTime: 10
 tags: ["featured"]

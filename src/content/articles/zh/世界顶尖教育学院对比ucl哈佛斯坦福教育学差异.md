@@ -2,7 +2,7 @@
 title: "世界顶尖教育学院对比：UCL、哈佛、斯坦福教育学差异"
 description: "The 2024 QS World University Rankings by Subject placed the UCL Institute of Education (IOE) first in Education for the eleventh consecutive year, a streak u…"
 category: "世界顶尖教育学院对比：U"
-pubDatetime: 2026-04-06T19:17:02Z
+pubDatetime: "2026-04-06T19:17:02Z"
 publishDate: '2026-04-06T19:17:02Z'
 readingTime: 3
 tags: ["featured"]

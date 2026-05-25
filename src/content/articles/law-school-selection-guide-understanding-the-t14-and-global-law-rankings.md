@@ -2,7 +2,7 @@
 title: "Law School Selection Guide: Understanding the T14 and Global Law Rankings"
 description: "Every September, roughly 60,000 applicants submit LSAT scores to the Law School Admission Council, yet fewer than 1,800 of them will enter the first-year cla…"
 category: "Law"
-pubDatetime: 2026-04-09T19:18:15Z
+pubDatetime: "2026-04-09T19:18:15Z"
 publishDate: '2026-04-09T19:18:15Z'
 readingTime: 12
 tags: ["featured"]

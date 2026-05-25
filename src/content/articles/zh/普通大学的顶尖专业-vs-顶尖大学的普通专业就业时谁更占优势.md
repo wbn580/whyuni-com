@@ -2,7 +2,7 @@
 title: "普通大学的顶尖专业 vs 顶尖大学的普通专业，就业时谁更占优势？"
 description: "In the spring of 2023, a data scientist at a mid-tier state university in the American Midwest published a working paper that cut cleanly through the fog of …"
 category: "普通大学的顶尖专业 vs"
-pubDatetime: 2026-03-01T19:07:05Z
+pubDatetime: "2026-03-01T19:07:05Z"
 publishDate: '2026-03-01T19:07:05Z'
 readingTime: 3
 tags: ["featured"]

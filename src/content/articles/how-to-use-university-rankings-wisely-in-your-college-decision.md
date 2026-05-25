@@ -2,7 +2,7 @@
 title: "How to Use University Rankings Wisely in Your College Decision"
 description: "Every October, when the QS World University Rankings and the Times Higher Education (THE) World University Rankings release their latest league tables, milli…"
 category: "How"
-pubDatetime: 2026-04-08T19:17:40Z
+pubDatetime: "2026-04-08T19:17:40Z"
 publishDate: '2026-04-08T19:17:40Z'
 readingTime: 13
 tags: ["featured"]

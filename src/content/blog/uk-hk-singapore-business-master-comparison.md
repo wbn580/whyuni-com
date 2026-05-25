@@ -6,7 +6,7 @@ publishDate: '2026-05-22T00:00:00Z'
 modDatetime: '2026-05-22T00:00:00Z'
 slug: uk-hk-singapore-business-master-comparison
 ogImage: 'https://img.ulec.com.cn/留学-大学决策/uk-hk-singapore-business-master-comparison-2026-1880x1253.jpg'
-tags: []
+tags:
   - '留学决策'
   - '商科硕士'
   - '英国留学'

@@ -2,7 +2,7 @@
 title: "Architecture Schools: MIT, UCL Bartlett, and TU Delft Compared"
 description: "In 2025, the QS World University Rankings placed the Massachusetts Institute of Technology (MIT) first globally for Architecture & Built Environment, Univers…"
 category: "Architecture"
-pubDatetime: 2026-05-21T19:29:14Z
+pubDatetime: "2026-05-21T19:29:14Z"
 publishDate: '2026-05-21T19:29:14Z'
 readingTime: 11
 tags: ["featured"]

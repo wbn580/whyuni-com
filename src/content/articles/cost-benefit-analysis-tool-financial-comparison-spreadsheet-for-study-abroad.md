@@ -2,7 +2,7 @@
 title: "Cost-Benefit Analysis Tool: Financial Comparison Spreadsheet for Study Abroad"
 description: "A single spreadsheet cell can change the course of a life. In 2023, the average annual tuition fee for an international undergraduate in the United States re…"
 category: "Cost-Benefit"
-pubDatetime: 2026-05-07T19:25:33Z
+pubDatetime: "2026-05-07T19:25:33Z"
 publishDate: '2026-05-07T19:25:33Z'
 readingTime: 10
 tags: ["featured"]

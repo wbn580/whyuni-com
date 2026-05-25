@@ -2,7 +2,7 @@
 title: "Physics Department Rankings: Fundamental Research vs Applied Physics Programs"
 description: "In 2024, the United States awarded 8,987 bachelor’s degrees in physics, according to the American Institute of Physics (AIP, 2024 *Physics Bachelor’s Degree …"
 category: "Physics"
-pubDatetime: 2026-04-14T19:19:49Z
+pubDatetime: "2026-04-14T19:19:49Z"
 publishDate: '2026-04-14T19:19:49Z'
 readingTime: 11
 tags: ["featured"]

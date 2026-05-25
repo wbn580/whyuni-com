@@ -2,7 +2,7 @@
 title: "Comprehensive Universities vs Liberal Arts Colleges: Key Differences for Undergraduates"
 description: "On a Tuesday morning in September, a first-year student at a large public research university might file into a lecture hall with 350 other students, the pro…"
 category: "Comprehensive"
-pubDatetime: 2026-04-30T19:23:33Z
+pubDatetime: "2026-04-30T19:23:33Z"
 publishDate: '2026-04-30T19:23:33Z'
 readingTime: 10
 tags: ["featured"]

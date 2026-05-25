@@ -2,7 +2,7 @@
 title: "Ivy League Comparison: Harvard, Yale, and Princeton—Which Is Right for You?"
 description: "In the fall of 2022, Harvard College admitted just 3.19% of its 61,220 applicants, the lowest rate in its history; across the same cycle, Yale accepted 4.46%…"
 category: "Ivy"
-pubDatetime: 2026-05-17T19:27:59Z
+pubDatetime: "2026-05-17T19:27:59Z"
 publishDate: '2026-05-17T19:27:59Z'
 readingTime: 10
 tags: ["featured"]

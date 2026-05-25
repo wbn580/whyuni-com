@@ -2,7 +2,7 @@
 title: "欧洲顶尖商学院对比：LBS、INSEAD、HEC Paris差异分析"
 description: "Every year, roughly 12,000 applicants worldwide target the three most selective business schools in Europe — London Business School (LBS), INSEAD, and HEC Pa…"
 category: "欧洲顶尖商学院对比：LB"
-pubDatetime: 2026-04-05T19:16:58Z
+pubDatetime: "2026-04-05T19:16:58Z"
 publishDate: '2026-04-05T19:16:58Z'
 readingTime: 3
 tags: ["featured"]

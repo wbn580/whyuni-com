@@ -2,7 +2,7 @@
 title: "Asia Study Destinations: Singapore, Hong Kong, Japan, or South Korea?"
 description: "In 2024, more than 1.8 million international students were enrolled across the top four non-Anglophone study destinations in Asia—Singapore, Hong Kong, Japan…"
 category: "Asia"
-pubDatetime: 2026-05-02T19:24:03Z
+pubDatetime: "2026-05-02T19:24:03Z"
 publishDate: '2026-05-02T19:24:03Z'
 readingTime: 9
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Sociology Department Rankings: Research-Intensive vs Teaching-Focused Programs"
 description: "A sociology department’s ranking in *U.S. News & World Report* or the QS World University Rankings often hinges on a single, opaque metric: research output. …"
 category: "Sociology"
-pubDatetime: 2026-04-11T19:18:44Z
+pubDatetime: "2026-04-11T19:18:44Z"
 publishDate: '2026-04-11T19:18:44Z'
 readingTime: 9
 tags: ["featured"]

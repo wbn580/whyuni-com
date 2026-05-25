@@ -2,7 +2,7 @@
 title: "Big City vs College Town: How Location Shapes Your Study Abroad Experience"
 description: "The choice between a sprawling global metropolis and a quiet college town is perhaps the most underrated variable in the study abroad equation. While ranking…"
 category: "Big"
-pubDatetime: 2026-04-29T19:23:27Z
+pubDatetime: "2026-04-29T19:23:27Z"
 publishDate: '2026-04-29T19:23:27Z'
 readingTime: 11
 tags: ["featured"]

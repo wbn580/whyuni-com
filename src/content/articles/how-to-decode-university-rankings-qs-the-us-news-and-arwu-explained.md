@@ -2,7 +2,7 @@
 title: "How to Decode University Rankings: QS, THE, US News, and ARWU Explained"
 description: "Every autumn, hundreds of thousands of 17- to 22-year-olds open a browser tab and type “best universities in the world” into a search bar, hoping that a sing…"
 category: "How"
-pubDatetime: 2026-04-06T19:17:28Z
+pubDatetime: "2026-04-06T19:17:28Z"
 publishDate: '2026-04-06T19:17:28Z'
 readingTime: 9
 tags: ["featured"]

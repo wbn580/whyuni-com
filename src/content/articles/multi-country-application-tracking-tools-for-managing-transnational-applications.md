@@ -2,7 +2,7 @@
 title: "Multi-Country Application Tracking: Tools for Managing Transnational Applications"
 description: "In 2023, 1.9 million students crossed borders for tertiary education, a number that the OECD projects will reach 8 million globally by 2025—a 50% increase fr…"
 category: "Multi-Country"
-pubDatetime: 2026-05-07T19:25:34Z
+pubDatetime: "2026-05-07T19:25:34Z"
 publishDate: '2026-05-07T19:25:34Z'
 readingTime: 9
 tags: ["featured"]

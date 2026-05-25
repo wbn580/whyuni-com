@@ -2,7 +2,7 @@
 title: "Electives That Impress Employers: Which Courses Add Value to Your Degree?"
 description: "A university transcript is a map of intellectual territory, and for too many students, the elective columns read like a detour through the easiest available …"
 category: "Electives"
-pubDatetime: 2026-04-20T19:21:19Z
+pubDatetime: "2026-04-20T19:21:19Z"
 publishDate: '2026-04-20T19:21:19Z'
 readingTime: 13
 tags: ["featured"]

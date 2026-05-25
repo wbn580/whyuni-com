@@ -2,7 +2,7 @@
 title: "Is a PhD Abroad Worth It? The Opportunity Cost of an Academic Career"
 description: "In 2022, the U.S. National Science Foundation reported that the median time to earn a doctorate across all fields was 5.8 years, with life sciences stretchin…"
 category: "Is"
-pubDatetime: 2026-04-28T19:23:02Z
+pubDatetime: "2026-04-28T19:23:02Z"
 publishDate: '2026-04-28T19:23:02Z'
 readingTime: 10
 tags: ["featured"]

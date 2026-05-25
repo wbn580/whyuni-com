@@ -2,7 +2,7 @@
 title: "Data Science and Big Data Analytics: Why Demand Continues to Surge"
 description: "In 2023, the global data sphere reached 120 zettabytes, according to the International Data Corporation (IDC, *Global DataSphere Forecast*, 2023), and by 202…"
 category: "Data"
-pubDatetime: 2026-05-08T19:25:47Z
+pubDatetime: "2026-05-08T19:25:47Z"
 publishDate: '2026-05-08T19:25:47Z'
 readingTime: 11
 tags: ["featured"]

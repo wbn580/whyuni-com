@@ -2,7 +2,7 @@
 title: "World's Leading Art Schools: RCA, Parsons, and RISD Analyzed"
 description: "In September 2023, the Royal College of Art (RCA) reported that 42.7% of its incoming postgraduate cohort came from outside the United Kingdom, drawn from 68…"
 category: "World's"
-pubDatetime: 2026-05-20T19:28:51Z
+pubDatetime: "2026-05-20T19:28:51Z"
 publishDate: '2026-05-20T19:28:51Z'
 readingTime: 13
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "想进咨询行业？这些大学和专业是麦肯锡、BCG的目标校"
 description: "In the fall of 2023, McKinsey & Company received over 200,000 applications for approximately 6,000 entry-level consultant positions globally—an acceptance ra…"
 category: "想进咨询行业？这些大学和"
-pubDatetime: 2026-03-02T19:07:31Z
+pubDatetime: "2026-03-02T19:07:31Z"
 publishDate: '2026-03-02T19:07:31Z'
 readingTime: 3
 tags: ["featured"]

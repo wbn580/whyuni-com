@@ -2,7 +2,7 @@
 title: "牛津 vs 剑桥：两所英国顶尖大学的全面对比"
 description: "A seventeen-year-old sitting in a Shanghai study lounge, refreshing the UCAS portal for the fifth time that hour, faces a question that has tormented applica…"
 category: "牛津 vs 剑桥：两所英"
-pubDatetime: 2026-04-03T19:16:30Z
+pubDatetime: "2026-04-03T19:16:30Z"
 publishDate: '2026-04-03T19:16:30Z'
 readingTime: 3
 tags: ["featured"]

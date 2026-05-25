@@ -2,7 +2,7 @@
 title: "环境、社会与治理（ESG）专业：可持续发展浪潮下的新学科"
 description: "In September 2023, the global asset management industry crossed a threshold that would have seemed improbable just a decade earlier: assets held under strate…"
 category: "环境、社会与治理（ESG"
-pubDatetime: 2026-03-25T19:13:51Z
+pubDatetime: "2026-03-25T19:13:51Z"
 publishDate: '2026-03-25T19:13:51Z'
 readingTime: 3
 tags: ["featured"]

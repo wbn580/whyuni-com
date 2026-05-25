@@ -2,7 +2,7 @@
 title: "How to Evaluate Internship and Job Opportunities When Choosing a University Abroad"
 description: "In 2025, a university degree is no longer a guaranteed passport to a career. The OECD’s *Education at a Glance 2024* report found that across member countrie…"
 category: "How"
-pubDatetime: 2026-05-02T19:24:11Z
+pubDatetime: "2026-05-02T19:24:11Z"
 publishDate: '2026-05-02T19:24:11Z'
 readingTime: 11
 tags: ["featured"]

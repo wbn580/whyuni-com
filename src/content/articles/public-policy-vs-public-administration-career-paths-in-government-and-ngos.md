@@ -2,7 +2,7 @@
 title: "Public Policy vs Public Administration: Career Paths in Government and NGOs"
 description: "A few years ago, I sat in a graduate seminar listening to a former deputy secretary describe the difference between her two favorite graduate degrees. “Publi…"
 category: "Public"
-pubDatetime: 2026-04-19T19:20:58Z
+pubDatetime: "2026-04-19T19:20:58Z"
 publishDate: '2026-04-19T19:20:58Z'
 readingTime: 11
 tags: ["featured"]

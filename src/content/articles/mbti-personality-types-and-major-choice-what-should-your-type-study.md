@@ -2,7 +2,7 @@
 title: "MBTI Personality Types and Major Choice: What Should Your Type Study?"
 description: "In 2023, the Myers-Briggs Type Indicator (MBTI) was taken by over 2.5 million people globally, according to the Myers-Briggs Foundation’s annual report, maki…"
 category: "MBTI"
-pubDatetime: 2026-05-12T19:26:54Z
+pubDatetime: "2026-05-12T19:26:54Z"
 publishDate: '2026-05-12T19:26:54Z'
 readingTime: 7
 tags: ["featured"]

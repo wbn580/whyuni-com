@@ -2,7 +2,7 @@
 title: "Art and Design School Rankings: Why Overall Rankings Are Misleading"
 description: "Every autumn, thousands of high school seniors and transfer students open the QS World University Rankings by Subject to decide where to apply for art and de…"
 category: "Art"
-pubDatetime: 2026-04-11T19:18:41Z
+pubDatetime: "2026-04-11T19:18:41Z"
 publishDate: '2026-04-11T19:18:41Z'
 readingTime: 9
 tags: ["featured"]

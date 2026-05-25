@@ -2,7 +2,7 @@
 title: "Volunteering and Major Choice: Discovering Academic Passions Through Service"
 description: "In October 2022, the U.S. Bureau of Labor Statistics reported that 23.2% of Americans aged 16 to 24 participated in formal volunteering activities each year,…"
 category: "Volunteering"
-pubDatetime: 2026-05-18T19:28:23Z
+pubDatetime: "2026-05-18T19:28:23Z"
 publishDate: '2026-05-18T19:28:23Z'
 readingTime: 13
 tags: ["featured"]

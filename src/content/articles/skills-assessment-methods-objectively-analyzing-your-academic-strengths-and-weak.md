@@ -2,7 +2,7 @@
 title: "Skills Assessment Methods: Objectively Analyzing Your Academic Strengths and Weaknesses"
 description: "Every seventeen-year-old I’ve spoken to this year has the same problem: they know their GPA, they know their test scores, but they cannot tell you, with any …"
 category: "Skills"
-pubDatetime: 2026-05-13T19:26:56Z
+pubDatetime: "2026-05-13T19:26:56Z"
 publishDate: '2026-05-13T19:26:56Z'
 readingTime: 10
 tags: ["featured"]

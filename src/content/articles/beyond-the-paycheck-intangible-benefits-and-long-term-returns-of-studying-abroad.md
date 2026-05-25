@@ -2,7 +2,7 @@
 title: "Beyond the Paycheck: Intangible Benefits and Long-Term Returns of Studying Abroad"
 description: "In 2023, the Organisation for Economic Co-operation and Development (OECD) reported that international students contributed over $41 billion to the U.S. econ…"
 category: "Beyond"
-pubDatetime: 2026-04-25T19:22:24Z
+pubDatetime: "2026-04-25T19:22:24Z"
 publishDate: '2026-04-25T19:22:24Z'
 readingTime: 10
 tags: ["featured"]

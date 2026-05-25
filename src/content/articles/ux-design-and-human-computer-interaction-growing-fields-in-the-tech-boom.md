@@ -2,7 +2,7 @@
 title: "UX Design and Human-Computer Interaction: Growing Fields in the Tech Boom"
 description: "In 2023, the U.S. Bureau of Labor Statistics projected that employment for web developers and digital designers—a category that heavily encompasses UX profes…"
 category: "UX"
-pubDatetime: 2026-05-10T19:26:21Z
+pubDatetime: "2026-05-10T19:26:21Z"
 publishDate: '2026-05-10T19:26:21Z'
 readingTime: 10
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Spent $50K on a Degree, Earning $10K a Year: When Is Studying Abroad Not Worth It?"
 description: "The math is brutal, and it rarely gets mentioned in the glossy prospectus. According to the OECD’s *Education at a Glance 2023* report, the average annual tu…"
 category: "Spent"
-pubDatetime: 2026-04-25T19:22:20Z
+pubDatetime: "2026-04-25T19:22:20Z"
 publishDate: '2026-04-25T19:22:20Z'
 readingTime: 11
 tags: ["featured"]

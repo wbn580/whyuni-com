@@ -2,7 +2,7 @@
 title: "留学后留在国外工作 vs 回国发展：长期收益对比分析"
 description: "A 2018 survey by the OECD found that, among Chinese students who studied abroad between 2010 and 2015, approximately 47% returned to China within five years …"
 category: "留学后留在国外工作 vs"
-pubDatetime: 2026-03-12T19:10:08Z
+pubDatetime: "2026-03-12T19:10:08Z"
 publishDate: '2026-03-12T19:10:08Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "双专业 vs 主修加辅修：学业负担与求职优势如何权衡？"
 description: "The first Tuesday of sophomore year, the registrar’s office at most North American universities silently locks a decision into place. A student enrolled in a…"
 category: "双专业 vs 主修加辅修"
-pubDatetime: 2026-03-06T19:08:28Z
+pubDatetime: "2026-03-06T19:08:28Z"
 publishDate: '2026-03-06T19:08:28Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "两年制 vs 一年制硕士：时间成本与学习深度的权衡"
 description: "The decision between a one-year and a two-year master’s program is rarely about the calendar alone. It is a quiet referendum on how you value time, depth, an…"
 category: "两年制 vs 一年制硕士"
-pubDatetime: 2026-03-12T19:10:16Z
+pubDatetime: "2026-03-12T19:10:16Z"
 publishDate: '2026-03-12T19:10:16Z'
 readingTime: 3
 tags: ["featured"]

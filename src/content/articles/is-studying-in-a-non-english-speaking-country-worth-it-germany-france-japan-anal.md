@@ -2,7 +2,7 @@
 title: "Is Studying in a Non-English-Speaking Country Worth It? Germany, France, Japan Analyzed"
 description: "In 2023, the Organisation for Economic Co-operation and Development (OECD) reported that the number of international students enrolled in tertiary education …"
 category: "Is"
-pubDatetime: 2026-04-27T19:22:50Z
+pubDatetime: "2026-04-27T19:22:50Z"
 publishDate: '2026-04-27T19:22:50Z'
 readingTime: 12
 tags: ["featured"]

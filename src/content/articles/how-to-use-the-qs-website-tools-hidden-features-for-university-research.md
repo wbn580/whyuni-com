@@ -2,7 +2,7 @@
 title: "How to Use the QS Website Tools: Hidden Features for University Research"
 description: "Every year, over 1.9 million prospective students visit the QS World University Rankings website, according to QS’s own 2023 user analytics report, yet the v…"
 category: "How"
-pubDatetime: 2026-05-04T19:24:36Z
+pubDatetime: "2026-05-04T19:24:36Z"
 publishDate: '2026-05-04T19:24:36Z'
 readingTime: 10
 tags: ["featured"]

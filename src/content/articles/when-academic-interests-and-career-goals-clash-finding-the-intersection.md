@@ -2,7 +2,7 @@
 title: "When Academic Interests and Career Goals Clash: Finding the Intersection"
 description: "The tension between what you love to study and what you need to earn a living has never been more acute for 17-to-22-year-olds making college decisions. A 20…"
 category: "When"
-pubDatetime: 2026-05-15T19:27:22Z
+pubDatetime: "2026-05-15T19:27:22Z"
 publishDate: '2026-05-15T19:27:22Z'
 readingTime: 8
 tags: ["featured"]

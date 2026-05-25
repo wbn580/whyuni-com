@@ -2,7 +2,7 @@
 title: "SWOT Analysis for University Choice: Applying Business Tools to Education Decisions"
 description: "In the spring of 2024, as university acceptance letters landed in inboxes across the globe, a quiet shift was taking place in how students evaluated their op…"
 category: "SWOT"
-pubDatetime: 2026-05-05T19:25:06Z
+pubDatetime: "2026-05-05T19:25:06Z"
 publishDate: '2026-05-05T19:25:06Z'
 readingTime: 12
 tags: ["featured"]

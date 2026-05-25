@@ -2,7 +2,7 @@
 title: "Is Attending a Top University for an Unpopular Major Worth It?"
 description: "Every fall, roughly 2.4 million first-time undergraduates enroll in degree-granting postsecondary institutions across the United States, according to the Nat…"
 category: "Is"
-pubDatetime: 2026-04-15T19:19:51Z
+pubDatetime: "2026-04-15T19:19:51Z"
 publishDate: '2026-04-15T19:19:51Z'
 readingTime: 13
 tags: ["featured"]

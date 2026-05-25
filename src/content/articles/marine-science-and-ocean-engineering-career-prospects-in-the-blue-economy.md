@@ -2,7 +2,7 @@
 title: "Marine Science and Ocean Engineering: Career Prospects in the Blue Economy"
 description: "In 2022, the global ocean economy—often called the Blue Economy—was valued at roughly USD 2.5 trillion in annual gross value added, according to the OECD’s *…"
 category: "Marine"
-pubDatetime: 2026-05-13T19:27:06Z
+pubDatetime: "2026-05-13T19:27:06Z"
 publishDate: '2026-05-13T19:27:06Z'
 readingTime: 8
 tags: ["featured"]

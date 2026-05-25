@@ -2,7 +2,7 @@
 title: "Architecture School Rankings: Design-Oriented vs Technology-Oriented Programs"
 description: "Every year, roughly 12,000 architecture degrees are awarded in the United States alone, yet the students holding them emerge from programs with fundamentally…"
 category: "Architecture"
-pubDatetime: 2026-04-11T19:18:53Z
+pubDatetime: "2026-04-11T19:18:53Z"
 publishDate: '2026-04-11T19:18:53Z'
 readingTime: 11
 tags: ["featured"]

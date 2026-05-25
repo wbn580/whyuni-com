@@ -2,7 +2,7 @@
 title: "Journalism in the Digital Age: Traditional Journalism or Digital Media and Communication?"
 description: "The decision to study journalism has never been more difficult—or more consequential. In 2023, the U.S. Bureau of Labor Statistics reported that employment i…"
 category: "Journalism"
-pubDatetime: 2026-04-21T19:21:20Z
+pubDatetime: "2026-04-21T19:21:20Z"
 publishDate: '2026-04-21T19:21:20Z'
 readingTime: 10
 tags: ["featured"]

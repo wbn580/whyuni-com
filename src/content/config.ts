@@ -4,16 +4,17 @@ import { glob } from 'astro/loaders';
 const articles = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
   schema: z.object({
-    title: z.string(),
     description: z.string(),
-    category: z.string(),
-    publishDate: z.string(),
-    pubDatetime: z.string(),
-    modDatetime: z.string(),
+    title: z.string(),
     readingTime: z.number().optional(),
-    tags: z.array(z.string()).default([]),
     ogImage: z.string().optional(),
-  }),
+    category: z.string(),
+    modDatetime: z.string(),
+    tags: z.array(z.string()).default([]),
+    pubDatetime: z.string(),
+    publishDate: z.string(),
+
+  },
 });
 
 export const collections = { articles };

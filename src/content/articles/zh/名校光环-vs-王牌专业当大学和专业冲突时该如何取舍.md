@@ -2,7 +2,7 @@
 title: "名校光环 vs 王牌专业：当大学和专业冲突时该如何取舍？"
 description: "The high school senior, staring at two acceptance letters, faces a decision that will quietly shape the next forty years of their life: the name of a storied…"
 category: "名校光环 vs 王牌专业"
-pubDatetime: 2026-02-28T19:06:45Z
+pubDatetime: "2026-02-28T19:06:45Z"
 publishDate: '2026-02-28T19:06:45Z'
 readingTime: 3
 tags: ["featured"]

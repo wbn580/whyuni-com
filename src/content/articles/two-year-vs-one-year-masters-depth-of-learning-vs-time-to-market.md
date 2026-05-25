@@ -2,7 +2,7 @@
 title: "Two-Year vs One-Year Master's: Depth of Learning vs Time to Market"
 description: "The student who finishes a master’s degree in twelve months and the one who finishes in twenty-four are, on paper, the same graduate. In reality, they have l…"
 category: "Two-Year"
-pubDatetime: 2026-04-27T19:22:55Z
+pubDatetime: "2026-04-27T19:22:55Z"
 publishDate: '2026-04-27T19:22:55Z'
 readingTime: 12
 tags: ["featured"]

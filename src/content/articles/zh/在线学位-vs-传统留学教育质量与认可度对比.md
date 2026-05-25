@@ -2,7 +2,7 @@
 title: "在线学位 vs 传统留学：教育质量与认可度对比"
 description: "In 2023, the global online education market reached an estimated $185.2 billion, according to a report by Global Market Insights, with projections suggesting…"
 category: "在线学位 vs 传统留学"
-pubDatetime: 2026-03-14T19:10:42Z
+pubDatetime: "2026-03-14T19:10:42Z"
 publishDate: '2026-03-14T19:10:42Z'
 readingTime: 3
 tags: ["featured"]

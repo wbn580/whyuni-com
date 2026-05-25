@@ -2,7 +2,7 @@
 title: "Top Asian Universities: Tokyo, NUS, HKU, and Tsinghua—How to Choose?"
 description: "In 2025, the University of Tokyo accepted just 3,058 undergraduates out of over 97,000 applicants, an admissions rate of 3.1% that makes it one of the most s…"
 category: "Top"
-pubDatetime: 2026-05-18T19:28:28Z
+pubDatetime: "2026-05-18T19:28:28Z"
 publishDate: '2026-05-18T19:28:28Z'
 readingTime: 11
 tags: ["featured"]

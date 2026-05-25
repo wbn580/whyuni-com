@@ -2,7 +2,7 @@
 title: "Best University Comparison Tools: Websites and Apps for Smarter Decisions"
 description: "In the fall of 2023, the Organisation for Economic Co-operation and Development (OECD) released its annual *Education at a Glance* report, revealing that acr…"
 category: "Best"
-pubDatetime: 2026-05-05T19:25:02Z
+pubDatetime: "2026-05-05T19:25:02Z"
 publishDate: '2026-05-05T19:25:02Z'
 readingTime: 10
 tags: ["featured"]

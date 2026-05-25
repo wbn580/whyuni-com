@@ -2,7 +2,7 @@
 title: "Using LinkedIn for University Research: Alumni Career Path Analysis"
 description: "In the spring of 2023, a survey by the National Association of Colleges and Employers (NACE) found that **73.4% of 2023 graduates** who had completed at leas…"
 category: "Using"
-pubDatetime: 2026-05-05T19:24:51Z
+pubDatetime: "2026-05-05T19:24:51Z"
 publishDate: '2026-05-05T19:24:51Z'
 readingTime: 12
 tags: ["featured"]

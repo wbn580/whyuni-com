@@ -2,7 +2,7 @@
 title: "Top Program at an Average University vs Average Program at a Top University"
 description: "The choice sounds simple on paper, yet it paralyzes thousands of applicants every admissions cycle: do you enroll in the top-ranked program at a university t…"
 category: "Top"
-pubDatetime: 2026-04-17T19:20:23Z
+pubDatetime: "2026-04-17T19:20:23Z"
 publishDate: '2026-04-17T19:20:23Z'
 readingTime: 11
 tags: ["featured"]

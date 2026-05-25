@@ -2,7 +2,7 @@
 title: "Human Resources Career Paths: Psychology, Management, or Labor Relations?"
 description: "The Bureau of Labor Statistics projects that employment of human resources specialists will grow by 8% from 2023 to 2033, more than double the average for al…"
 category: "Human"
-pubDatetime: 2026-04-18T19:20:38Z
+pubDatetime: "2026-04-18T19:20:38Z"
 publishDate: '2026-04-18T19:20:38Z'
 readingTime: 10
 tags: ["featured"]

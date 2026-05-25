@@ -2,7 +2,7 @@
 title: "First-Year Course Selection Mistakes: 5 Types of Classes to Avoid in Semester One"
 description: "The first semester of university is a high-stakes experiment in academic time allocation, and the data suggests most students fail it. According to the 2023 …"
 category: "First-Year"
-pubDatetime: 2026-04-19T19:20:56Z
+pubDatetime: "2026-04-19T19:20:56Z"
 publishDate: '2026-04-19T19:20:56Z'
 readingTime: 7
 tags: ["featured"]

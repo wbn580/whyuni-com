@@ -2,7 +2,7 @@
 title: "Supply Chain Management Education: Logistics, Operations Management, or Industrial Engineering?"
 description: "Every year, roughly 135,000 students in the United States graduate with a business-related bachelor’s degree, yet fewer than 6,000 of them specialize in logi…"
 category: "Supply"
-pubDatetime: 2026-04-18T19:20:36Z
+pubDatetime: "2026-04-18T19:20:36Z"
 publishDate: '2026-04-18T19:20:36Z'
 readingTime: 10
 tags: ["featured"]

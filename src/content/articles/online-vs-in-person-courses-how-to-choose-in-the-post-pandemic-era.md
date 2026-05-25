@@ -2,7 +2,7 @@
 title: "Online vs In-Person Courses: How to Choose in the Post-Pandemic Era"
 description: "In the spring of 2020, roughly 1.6 billion learners across more than 190 countries found themselves abruptly shifted from physical classrooms to digital inte…"
 category: "Online"
-pubDatetime: 2026-04-22T19:21:41Z
+pubDatetime: "2026-04-22T19:21:41Z"
 publishDate: '2026-04-22T19:21:41Z'
 readingTime: 11
 tags: ["featured"]

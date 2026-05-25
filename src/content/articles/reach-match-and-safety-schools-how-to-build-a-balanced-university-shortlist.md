@@ -2,7 +2,7 @@
 title: "Reach, Match, and Safety Schools: How to Build a Balanced University Shortlist"
 description: "In the fall of 2023, the U.S. Department of Education reported that over 19.5 million students were enrolled in degree-granting postsecondary institutions, y…"
 category: "Reach,"
-pubDatetime: 2026-04-28T19:23:18Z
+pubDatetime: "2026-04-28T19:23:18Z"
 publishDate: '2026-04-28T19:23:18Z'
 readingTime: 9
 tags: ["featured"]

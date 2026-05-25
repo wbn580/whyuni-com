@@ -2,7 +2,7 @@
 title: "Is an MBA Abroad Still Worth It? The ROI Question Amid Rising Tuition"
 description: "A decade ago, the decision to pursue an MBA abroad felt almost like a financial sure bet: two years of study, a six-figure salary on the other side, and a gl…"
 category: "Is"
-pubDatetime: 2026-04-28T19:23:14Z
+pubDatetime: "2026-04-28T19:23:14Z"
 publishDate: '2026-04-28T19:23:14Z'
 readingTime: 11
 tags: ["featured"]

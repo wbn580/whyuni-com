@@ -2,7 +2,7 @@
 title: "Feeling Underwhelmed by Introductory Courses? Advanced Alternatives to Consider"
 description: "The first lecture of your college career arrives with the promise of revelation—a professor at the podium, a syllabus thick with promise—and then, within for…"
 category: "Feeling"
-pubDatetime: 2026-04-24T19:22:03Z
+pubDatetime: "2026-04-24T19:22:03Z"
 publishDate: '2026-04-24T19:22:03Z'
 readingTime: 12
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Campus Culture Assessment: The Soft Factors Often Overlooked in University Selection"
 description: "Every year, hundreds of thousands of 17- to 22-year-old applicants pore over university rankings, comparing QS scores, Times Higher Education citations, and …"
 category: "Campus"
-pubDatetime: 2026-05-01T19:23:46Z
+pubDatetime: "2026-05-01T19:23:46Z"
 publishDate: '2026-05-01T19:23:46Z'
 readingTime: 10
 tags: ["featured"]

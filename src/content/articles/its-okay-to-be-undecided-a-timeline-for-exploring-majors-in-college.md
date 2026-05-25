@@ -2,7 +2,7 @@
 title: "It's Okay to Be Undecided: A Timeline for Exploring Majors in College"
 description: "The pressure to declare a major before stepping onto a college campus is a peculiar modern invention. According to the U.S. National Center for Education Sta…"
 category: "It's"
-pubDatetime: 2026-05-18T19:28:24Z
+pubDatetime: "2026-05-18T19:28:24Z"
 publishDate: '2026-05-18T19:28:24Z'
 readingTime: 8
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "留学选校App推荐：手机上的大学对比工具盘点"
 description: "The first time a student opens the QS World University Rankings app, the sheer volume of data can feel overwhelming: 1,500 institutions ranked across 54 dist…"
 category: "留学选校App推荐：手机"
-pubDatetime: 2026-03-21T19:12:41Z
+pubDatetime: "2026-03-21T19:12:41Z"
 publishDate: '2026-03-21T19:12:41Z'
 readingTime: 3
 tags: ["featured"]

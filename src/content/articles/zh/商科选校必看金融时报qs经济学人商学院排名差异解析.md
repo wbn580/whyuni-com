@@ -2,7 +2,7 @@
 title: "商科选校必看：金融时报、QS、经济学人商学院排名差异解析"
 description: "Every September, a 17-year-old in Shanghai or São Paulo opens three browser tabs: QS World University Rankings, *Financial Times* Global MBA Ranking, and *Th…"
 category: "商科选校必看：金融时报、"
-pubDatetime: 2026-02-22T19:05:03Z
+pubDatetime: "2026-02-22T19:05:03Z"
 publishDate: '2026-02-22T19:05:03Z'
 readingTime: 3
 tags: ["featured"]

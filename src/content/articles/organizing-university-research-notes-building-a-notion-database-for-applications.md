@@ -2,7 +2,7 @@
 title: "Organizing University Research Notes: Building a Notion Database for Applications"
 description: "The average applicant submits applications to between 6 and 8 universities, according to the 2023 U.S. News Best Colleges survey of 1,500 institutions, yet t…"
 category: "Organizing"
-pubDatetime: 2026-05-06T19:25:23Z
+pubDatetime: "2026-05-06T19:25:23Z"
 publishDate: '2026-05-06T19:25:23Z'
 readingTime: 10
 tags: ["featured"]

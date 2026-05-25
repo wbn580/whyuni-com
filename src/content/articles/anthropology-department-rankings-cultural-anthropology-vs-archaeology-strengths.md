@@ -2,7 +2,7 @@
 title: "Anthropology Department Rankings: Cultural Anthropology vs Archaeology Strengths"
 description: "In 2023, the U.S. Bureau of Labor Statistics projected that employment for anthropologists and archaeologists would grow by 4% from 2022 to 2032, roughly on …"
 category: "Anthropology"
-pubDatetime: 2026-04-13T19:19:22Z
+pubDatetime: "2026-04-13T19:19:22Z"
 publishDate: '2026-04-13T19:19:22Z'
 readingTime: 9
 tags: ["featured"]

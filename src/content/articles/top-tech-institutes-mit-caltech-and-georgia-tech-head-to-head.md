@@ -2,7 +2,7 @@
 title: "Top Tech Institutes: MIT, Caltech, and Georgia Tech Head-to-Head"
 description: "On a late September morning in 2024, the California Institute of Technology announced that its 2023-2024 undergraduate acceptance rate had dropped to **2.7%*…"
 category: "Top"
-pubDatetime: 2026-05-19T19:28:35Z
+pubDatetime: "2026-05-19T19:28:35Z"
 publishDate: '2026-05-19T19:28:35Z'
 readingTime: 10
 tags: ["featured"]

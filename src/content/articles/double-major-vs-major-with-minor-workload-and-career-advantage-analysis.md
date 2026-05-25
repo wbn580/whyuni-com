@@ -2,7 +2,7 @@
 title: "Double Major vs Major with Minor: Workload and Career Advantage Analysis"
 description: "The decision to pursue a double major versus a major with a minor is one of the most consequential academic choices a university student will make, yet it is…"
 category: "Double"
-pubDatetime: 2026-04-21T19:21:19Z
+pubDatetime: "2026-04-21T19:21:19Z"
 publishDate: '2026-04-21T19:21:19Z'
 readingTime: 13
 tags: ["featured"]

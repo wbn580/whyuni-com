@@ -2,7 +2,7 @@
 title: "The Three Dimensions of Study Abroad Selection: Ranking, Location, and Career Resources"
 description: "Every year, roughly 1.6 million students leave their home countries to pursue a degree abroad, according to the OECD’s 2023 Education at a Glance report, yet…"
 category: "The"
-pubDatetime: 2026-04-29T19:23:22Z
+pubDatetime: "2026-04-29T19:23:22Z"
 publishDate: '2026-04-29T19:23:22Z'
 readingTime: 11
 tags: ["featured"]

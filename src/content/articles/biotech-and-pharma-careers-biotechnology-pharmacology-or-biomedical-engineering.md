@@ -2,7 +2,7 @@
 title: "Biotech and Pharma Careers: Biotechnology, Pharmacology, or Biomedical Engineering?"
 description: "In the fall of 2023, the U.S. Bureau of Labor Statistics projected that employment in life, physical, and social science occupations—a category that includes…"
 category: "Biotech"
-pubDatetime: 2026-04-16T19:20:08Z
+pubDatetime: "2026-04-16T19:20:08Z"
 publishDate: '2026-04-16T19:20:08Z'
 readingTime: 8
 tags: ["featured"]

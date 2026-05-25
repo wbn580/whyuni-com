@@ -2,7 +2,7 @@
 title: "Data Science Program Comparison: How to Rank Emerging Interdisciplinary Fields"
 description: "The most difficult decision in choosing a data science program is not whether the university is ranked in the top 50 globally—it is whether the curriculum it…"
 category: "Data"
-pubDatetime: 2026-04-12T19:19:08Z
+pubDatetime: "2026-04-12T19:19:08Z"
 publishDate: '2026-04-12T19:19:08Z'
 readingTime: 8
 tags: ["featured"]

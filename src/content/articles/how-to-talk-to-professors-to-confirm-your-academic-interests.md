@@ -2,7 +2,7 @@
 title: "How to Talk to Professors to Confirm Your Academic Interests"
 description: "Every year, roughly 1.3 million international undergraduates enroll in U.S. degree programs alone, according to the 2023 Open Doors Report published by the I…"
 category: "How"
-pubDatetime: 2026-05-15T19:27:44Z
+pubDatetime: "2026-05-15T19:27:44Z"
 publishDate: '2026-05-15T19:27:44Z'
 readingTime: 11
 tags: ["featured"]

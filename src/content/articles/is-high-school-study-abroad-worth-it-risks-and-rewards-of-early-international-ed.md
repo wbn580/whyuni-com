@@ -2,7 +2,7 @@
 title: "Is High School Study Abroad Worth It? Risks and Rewards of Early International Education"
 description: "The first time a 16-year-old touches down at Heathrow or LAX with a single suitcase and a host family’s address, the stakes feel existential. That moment—the…"
 category: "Is"
-pubDatetime: 2026-04-27T19:22:54Z
+pubDatetime: "2026-04-27T19:22:54Z"
 publishDate: '2026-04-27T19:22:54Z'
 readingTime: 9
 tags: ["featured"]

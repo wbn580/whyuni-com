@@ -2,7 +2,7 @@
 title: "Supply Chain Management and Logistics: Opportunities Amid Global Supply Chain Restructuring"
 description: "The global supply chain is not merely recovering from the shocks of the last five years—it is being physically redrawn. According to the OECD’s 2024 *Trade P…"
 category: "Supply"
-pubDatetime: 2026-05-10T19:26:15Z
+pubDatetime: "2026-05-10T19:26:15Z"
 publishDate: '2026-05-10T19:26:15Z'
 readingTime: 10
 tags: ["featured"]

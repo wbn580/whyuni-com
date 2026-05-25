@@ -2,7 +2,7 @@
 title: "Interdisciplinary Course Selection: Key Courses for Building a Versatile Skill Set"
 description: "A 2018 report from the Georgetown University Center on Education and the Workforce found that by 2020, roughly 65 percent of all jobs in the United States wo…"
 category: "Interdisciplinary"
-pubDatetime: 2026-04-25T19:22:23Z
+pubDatetime: "2026-04-25T19:22:23Z"
 publishDate: '2026-04-25T19:22:23Z'
 readingTime: 12
 tags: ["featured"]

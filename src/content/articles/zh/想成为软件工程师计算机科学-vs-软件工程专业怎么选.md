@@ -2,7 +2,7 @@
 title: "想成为软件工程师？计算机科学 vs 软件工程专业怎么选？"
 description: "The choice between Computer Science (CS) and Software Engineering (SE) has become one of the most consequential decisions for students aiming at a career in …"
 category: "想成为软件工程师？计算机"
-pubDatetime: 2026-03-04T19:07:54Z
+pubDatetime: "2026-03-04T19:07:54Z"
 publishDate: '2026-03-04T19:07:54Z'
 readingTime: 3
 tags: ["featured"]

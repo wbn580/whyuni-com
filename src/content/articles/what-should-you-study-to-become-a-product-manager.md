@@ -2,7 +2,7 @@
 title: "What Should You Study to Become a Product Manager?"
 description: "In 2023, the Product Management (PM) role was the third most in-demand job in the technology sector, with LinkedIn reporting over 2.5 million job postings gl…"
 category: "What"
-pubDatetime: 2026-04-19T19:20:48Z
+pubDatetime: "2026-04-19T19:20:48Z"
 publishDate: '2026-04-19T19:20:48Z'
 readingTime: 8
 tags: ["featured"]

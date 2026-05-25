@@ -2,7 +2,7 @@
 title: "Australia's Group of Eight: Sydney, Melbourne, ANU—Which Leads?"
 description: "A 17-year-old from Jakarta, a 20-year-old from Mumbai, and an 18-year-old from Shanghai walk into a decision: which of Australia’s elite Group of Eight unive…"
 category: "Australia's"
-pubDatetime: 2026-05-17T19:28:21Z
+pubDatetime: "2026-05-17T19:28:21Z"
 publishDate: '2026-05-17T19:28:21Z'
 readingTime: 12
 tags: ["featured"]

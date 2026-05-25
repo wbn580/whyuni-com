@@ -2,7 +2,7 @@
 title: "Connecting Extracurriculars to Majors: From Hobbies to Academic Direction"
 description: "A 2019 study by the National Association of Colleges and Employers (NACE) found that **91.2% of employers** prefer to hire candidates with demonstrated 'evid…"
 category: "Connecting"
-pubDatetime: 2026-05-14T19:27:13Z
+pubDatetime: "2026-05-14T19:27:13Z"
 publishDate: '2026-05-14T19:27:13Z'
 readingTime: 10
 tags: ["featured"]

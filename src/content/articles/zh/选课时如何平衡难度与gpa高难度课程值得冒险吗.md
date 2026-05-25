@@ -2,7 +2,7 @@
 title: "选课时如何平衡难度与GPA？高难度课程值得冒险吗？"
 description: "Every semester, tens of thousands of undergraduates face the same quiet dilemma: should they enroll in the notoriously difficult “Weed-Out” organic chemistry…"
 category: "选课时如何平衡难度与GP"
-pubDatetime: 2026-03-09T19:09:16Z
+pubDatetime: "2026-03-09T19:09:16Z"
 publishDate: '2026-03-09T19:09:16Z'
 readingTime: 3
 tags: ["featured"]

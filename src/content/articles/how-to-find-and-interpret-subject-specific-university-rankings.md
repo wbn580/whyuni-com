@@ -2,7 +2,7 @@
 title: "How to Find and Interpret Subject-Specific University Rankings"
 description: "A university’s overall rank—whether it sits at #22 globally or #147—tells you almost nothing about whether it will teach you computer science better than a s…"
 category: "How"
-pubDatetime: 2026-04-08T19:17:40Z
+pubDatetime: "2026-04-08T19:17:40Z"
 publishDate: '2026-04-08T19:17:40Z'
 readingTime: 11
 tags: ["featured"]

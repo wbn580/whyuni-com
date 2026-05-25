@@ -2,7 +2,7 @@
 title: "Research Universities vs Teaching Universities: Matching Your Learning Goals"
 description: "A 2024 survey by the American Association of Colleges and Universities (AAC&U) found that 82% of employers believe a student’s ability to apply knowledge to …"
 category: "Research"
-pubDatetime: 2026-04-30T19:23:33Z
+pubDatetime: "2026-04-30T19:23:33Z"
 publishDate: '2026-04-30T19:23:33Z'
 readingTime: 10
 tags: ["featured"]

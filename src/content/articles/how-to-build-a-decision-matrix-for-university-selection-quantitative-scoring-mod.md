@@ -2,7 +2,7 @@
 title: "How to Build a Decision Matrix for University Selection: Quantitative Scoring Models"
 description: "The night before the deadline, you have three university offers open across your browser tabs, each with a different tuition figure, a different city, a diff…"
 category: "How"
-pubDatetime: 2026-05-04T19:24:47Z
+pubDatetime: "2026-05-04T19:24:47Z"
 publishDate: '2026-05-04T19:24:47Z'
 readingTime: 9
 tags: ["featured"]

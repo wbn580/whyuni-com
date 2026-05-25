@@ -2,7 +2,7 @@
 title: "How to Reverse-Engineer Your Major Choice from Career Goals"
 description: "A 2019 survey by the National Association of Colleges and Employers (NACE) found that 91.2% of employers prioritize critical thinking and problem-solving ski…"
 category: "How"
-pubDatetime: 2026-04-18T19:20:30Z
+pubDatetime: "2026-04-18T19:20:30Z"
 publishDate: '2026-04-18T19:20:30Z'
 readingTime: 10
 tags: ["featured"]

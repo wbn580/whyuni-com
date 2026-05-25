@@ -2,7 +2,7 @@
 title: "AI Career Pathways: Computer Science, Cognitive Science, or Robotics?"
 description: "A seventeen-year-old staring at a university application portal this autumn faces a choice that barely existed a decade ago: Computer Science, Cognitive Scie…"
 category: "AI"
-pubDatetime: 2026-04-17T19:20:24Z
+pubDatetime: "2026-04-17T19:20:24Z"
 publishDate: '2026-04-17T19:20:24Z'
 readingTime: 12
 tags: ["featured"]

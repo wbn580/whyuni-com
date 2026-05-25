@@ -2,7 +2,7 @@
 title: "How to Plan a Gap Year for Academic and Career Exploration"
 description: "In 2022, the U.S. Department of Education reported that roughly 30% of first-time, full-time students at four-year institutions did not return for their soph…"
 category: "How"
-pubDatetime: 2026-05-15T19:27:25Z
+pubDatetime: "2026-05-15T19:27:25Z"
 publishDate: '2026-05-15T19:27:25Z'
 readingTime: 9
 tags: ["featured"]

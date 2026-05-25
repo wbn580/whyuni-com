@@ -2,7 +2,7 @@
 title: "Application Timeline Management: Tools for Tracking Multiple University Deadlines"
 description: "Every October, roughly 2.1 million students across the United States submit applications to four-year institutions, according to the National Center for Educ…"
 category: "Application"
-pubDatetime: 2026-05-06T19:25:09Z
+pubDatetime: "2026-05-06T19:25:09Z"
 publishDate: '2026-05-06T19:25:09Z'
 readingTime: 8
 tags: ["featured"]

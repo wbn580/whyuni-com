@@ -2,7 +2,7 @@
 title: "Ivy League Schools Compared: Distinctive Features, Strengths, and Application Strategies"
 description: "The eight institutions that constitute the Ivy League—Brown, Columbia, Cornell, Dartmouth, Harvard, Penn, Princeton, and Yale—collectively hold endowments ex…"
 category: "Ivy"
-pubDatetime: 2026-05-19T19:28:50Z
+pubDatetime: "2026-05-19T19:28:50Z"
 publishDate: '2026-05-19T19:28:50Z'
 readingTime: 10
 tags: ["featured"]

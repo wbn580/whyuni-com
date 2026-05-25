@@ -2,7 +2,7 @@
 title: "Staying Abroad vs Returning Home: Long-Term Earnings and Career Growth Compared"
 description: "The decision to stay abroad after graduation or return home has become one of the most consequential forks in the road for international students. It is not …"
 category: "Staying"
-pubDatetime: 2026-04-26T19:22:40Z
+pubDatetime: "2026-04-26T19:22:40Z"
 publishDate: '2026-04-26T19:22:40Z'
 readingTime: 11
 tags: ["featured"]

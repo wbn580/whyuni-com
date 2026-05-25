@@ -2,7 +2,7 @@
 title: "Job Shadowing and Career Exploration: Practical Methods for High School Students"
 description: "A high school student who spends 40 hours shadowing a professional in a chosen field is 3.8 times more likely to report high confidence in their career direc…"
 category: "Job"
-pubDatetime: 2026-05-14T19:27:21Z
+pubDatetime: "2026-05-14T19:27:21Z"
 publishDate: '2026-05-14T19:27:21Z'
 readingTime: 9
 tags: ["featured"]

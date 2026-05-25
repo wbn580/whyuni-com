@@ -2,7 +2,7 @@
 title: "Virtual Campus Tour Tools: Alternatives When You Can't Visit in Person"
 description: "A 2019 study by the National Association for College Admission Counseling (NACAC) found that 58% of first-time freshmen had not visited their eventual colleg…"
 category: "Virtual"
-pubDatetime: 2026-05-07T19:25:41Z
+pubDatetime: "2026-05-07T19:25:41Z"
 publishDate: '2026-05-07T19:25:41Z'
 readingTime: 10
 tags: ["featured"]

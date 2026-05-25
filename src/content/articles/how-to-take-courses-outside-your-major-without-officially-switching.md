@@ -2,7 +2,7 @@
 title: "How to Take Courses Outside Your Major Without Officially Switching"
 description: "At the University of Michigan, roughly 47% of undergraduates graduate with more than one major or minor, according to the university’s 2023–2024 enrollment d…"
 category: "How"
-pubDatetime: 2026-04-19T19:20:48Z
+pubDatetime: "2026-04-19T19:20:48Z"
 publishDate: '2026-04-19T19:20:48Z'
 readingTime: 9
 tags: ["featured"]

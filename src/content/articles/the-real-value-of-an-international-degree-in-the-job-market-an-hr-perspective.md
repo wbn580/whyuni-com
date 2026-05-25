@@ -2,7 +2,7 @@
 title: "The Real Value of an International Degree in the Job Market: An HR Perspective"
 description: "Every year, roughly 1.1 million international students enroll in U.S. universities alone, according to the 2023 Open Doors Report from the Institute of Inter…"
 category: "The"
-pubDatetime: 2026-04-25T19:22:27Z
+pubDatetime: "2026-04-25T19:22:27Z"
 publishDate: '2026-04-25T19:22:27Z'
 readingTime: 11
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Linguistics Program Rankings: Theoretical vs Applied Linguistics Departments"
 description: "Every December, roughly 4,700 students worldwide submit applications to graduate programs in linguistics, yet fewer than 38% of them will enroll in a departm…"
 category: "Linguistics"
-pubDatetime: 2026-04-13T19:19:20Z
+pubDatetime: "2026-04-13T19:19:20Z"
 publishDate: '2026-04-13T19:19:20Z'
 readingTime: 10
 tags: ["featured"]

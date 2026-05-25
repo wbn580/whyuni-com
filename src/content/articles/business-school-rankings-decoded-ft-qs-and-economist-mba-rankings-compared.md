@@ -2,7 +2,7 @@
 title: "Business School Rankings Decoded: FT, QS, and Economist MBA Rankings Compared"
 description: "A 22-year-old applicant staring at the *Financial Times* Global MBA Ranking 2024—where INSEAD holds the #2 spot, Wharton #1, and the average post-MBA salary …"
 category: "Business"
-pubDatetime: 2026-04-09T19:17:54Z
+pubDatetime: "2026-04-09T19:17:54Z"
 publishDate: '2026-04-09T19:17:54Z'
 readingTime: 10
 tags: ["featured"]

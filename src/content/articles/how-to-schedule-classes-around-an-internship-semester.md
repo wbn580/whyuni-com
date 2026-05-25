@@ -2,7 +2,7 @@
 title: "How to Schedule Classes Around an Internship Semester"
 description: "The first time a student tries to overlay a full-time internship onto a university timetable, the arithmetic usually fails. Internship semesters are now a ne…"
 category: "How"
-pubDatetime: 2026-04-22T19:21:36Z
+pubDatetime: "2026-04-22T19:21:36Z"
 publishDate: '2026-04-22T19:21:36Z'
 readingTime: 10
 tags: ["featured"]

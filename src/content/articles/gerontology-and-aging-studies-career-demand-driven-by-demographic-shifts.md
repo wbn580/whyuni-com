@@ -2,7 +2,7 @@
 title: "Gerontology and Aging Studies: Career Demand Driven by Demographic Shifts"
 description: "By 2050, the global population aged 65 and older will reach 1.6 billion, according to the United Nations Department of Economic and Social Affairs (2023 *Wor…"
 category: "Gerontology"
-pubDatetime: 2026-05-11T19:26:30Z
+pubDatetime: "2026-05-11T19:26:30Z"
 publishDate: '2026-05-11T19:26:30Z'
 readingTime: 9
 tags: ["featured"]

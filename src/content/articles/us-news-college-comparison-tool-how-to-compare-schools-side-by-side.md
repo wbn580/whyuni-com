@@ -2,7 +2,7 @@
 title: "US News College Comparison Tool: How to Compare Schools Side by Side"
 description: "Every fall, roughly 2.4 million first-time freshmen enter American higher education, yet fewer than 40 percent of them will graduate from the institution whe…"
 category: "US"
-pubDatetime: 2026-05-04T19:24:42Z
+pubDatetime: "2026-05-04T19:24:42Z"
 publishDate: '2026-05-04T19:24:42Z'
 readingTime: 12
 tags: ["featured"]

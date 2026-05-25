@@ -2,7 +2,7 @@
 title: "Academic Reading for Interest Exploration: Using Papers and Books to Find Your Direction"
 description: "A seventeen-year-old in Singapore, a nineteen-year-old in São Paulo, and a twenty-year-old in rural Minnesota walk into the same library (digital, of course)…"
 category: "Academic"
-pubDatetime: 2026-05-16T19:27:46Z
+pubDatetime: "2026-05-16T19:27:46Z"
 publishDate: '2026-05-16T19:27:46Z'
 readingTime: 10
 tags: ["featured"]

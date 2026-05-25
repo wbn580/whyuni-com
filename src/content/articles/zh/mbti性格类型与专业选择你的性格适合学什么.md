@@ -2,7 +2,7 @@
 title: "MBTI性格类型与专业选择：你的性格适合学什么？"
 description: "Seventeen-year-olds in the United States who take the Myers-Briggs Type Indicator (MBTI) are most commonly classified as ENFP or INFP—nearly 16% of the teste…"
 category: "MBTI性格类型与专业选"
-pubDatetime: 2026-03-30T19:15:00Z
+pubDatetime: "2026-03-30T19:15:00Z"
 publishDate: '2026-03-30T19:15:00Z'
 readingTime: 3
 tags: ["featured"]

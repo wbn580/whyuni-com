@@ -2,7 +2,7 @@
 title: "QS Ranking Methodology: What Do the 6 Indicators Actually Measure?"
 description: "Every year, millions of students consult the QS World University Rankings, treating its numbered list as a definitive guide to institutional quality. Yet few…"
 category: "QS"
-pubDatetime: 2026-05-21T19:29:19Z
+pubDatetime: "2026-05-21T19:29:19Z"
 publishDate: '2026-05-21T19:29:19Z'
 readingTime: 9
 tags: ["featured"]

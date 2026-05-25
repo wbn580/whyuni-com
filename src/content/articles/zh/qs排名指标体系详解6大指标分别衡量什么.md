@@ -2,7 +2,7 @@
 title: "QS排名指标体系详解：6大指标分别衡量什么？"
 description: "Every year, hundreds of thousands of students pore over the QS World University Rankings, hoping to decode which institution deserves their tuition and the n…"
 category: "QS排名指标体系详解：6"
-pubDatetime: 2026-04-08T19:17:39Z
+pubDatetime: "2026-04-08T19:17:39Z"
 publishDate: '2026-04-08T19:17:39Z'
 readingTime: 3
 tags: ["featured"]

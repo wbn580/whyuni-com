@@ -2,7 +2,7 @@
 title: "Top Law Schools Worldwide: Harvard, Yale, Oxford, and Cambridge Compared"
 description: "A 17-year-old sitting in a high school library in Singapore, a 21-year-old finishing a philosophy degree in Berlin, and a 22-year-old paralegal in Toronto al…"
 category: "Top"
-pubDatetime: 2026-05-20T19:28:59Z
+pubDatetime: "2026-05-20T19:28:59Z"
 publishDate: '2026-05-20T19:28:59Z'
 readingTime: 11
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "加拿大U15研究型大学对比：多伦多、UBC、麦吉尔选校分析"
 description: "When you ask an admissions officer at the University of Toronto whether their campus feels like a “city within a city,” they might smile and point to the 90,…"
 category: "加拿大U15研究型大学对"
-pubDatetime: 2026-04-05T19:16:55Z
+pubDatetime: "2026-04-05T19:16:55Z"
 publishDate: '2026-04-05T19:16:55Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "小组项目多的课程 vs 考试为主的课程怎么选？"
 description: "Every spring, thousands of 18-year-olds open their university course catalogues and confront a choice that feels deceptively simple: should I take the class …"
 category: "小组项目多的课程 vs "
-pubDatetime: 2026-03-09T19:09:16Z
+pubDatetime: "2026-03-09T19:09:16Z"
 publishDate: '2026-03-09T19:09:16Z'
 readingTime: 3
 tags: ["featured"]

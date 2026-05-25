@@ -2,7 +2,7 @@
 title: "Study Abroad ROI: Which Destination Offers the Best Value—US, UK, Australia, or Canada?"
 description: "A seventeen-year-old staring down a university application portal confronts a question that feels almost impossibly abstract: what is an education worth? The…"
 category: "Study"
-pubDatetime: 2026-04-25T19:22:19Z
+pubDatetime: "2026-04-25T19:22:19Z"
 publishDate: '2026-04-25T19:22:19Z'
 readingTime: 11
 tags: ["featured"]

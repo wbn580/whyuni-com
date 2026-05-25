@@ -2,7 +2,7 @@
 title: "Key Data Points Often Overlooked in University Comparisons: Graduation Rate, Retention, Debt"
 description: "Every November, high school seniors across the United States refresh the U.S. News & World Report rankings, scanning for the familiar prestige signals: selec…"
 category: "Key"
-pubDatetime: 2026-05-05T19:25:02Z
+pubDatetime: "2026-05-05T19:25:02Z"
 publishDate: '2026-05-05T19:25:02Z'
 readingTime: 10
 tags: ["featured"]

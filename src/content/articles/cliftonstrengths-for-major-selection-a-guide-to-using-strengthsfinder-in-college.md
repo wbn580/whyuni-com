@@ -2,7 +2,7 @@
 title: "CliftonStrengths for Major Selection: A Guide to Using StrengthsFinder in College Planning"
 description: "Each year, roughly **2.1 million** first-time undergraduates in the United States enter college without a declared major, according to the National Center fo…"
 category: "CliftonStrengths"
-pubDatetime: 2026-05-14T19:27:13Z
+pubDatetime: "2026-05-14T19:27:13Z"
 publishDate: '2026-05-14T19:27:13Z'
 readingTime: 10
 tags: ["featured"]

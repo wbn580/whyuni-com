@@ -2,7 +2,7 @@
 title: "Prestigious University or Top-Ranked Program: How to Decide When They Conflict"
 description: "Every November, tens of thousands of 17-year-olds open a university offer letter and face a choice that feels almost cruel: a famous-name institution with a …"
 category: "Prestigious"
-pubDatetime: 2026-04-14T19:19:48Z
+pubDatetime: "2026-04-14T19:19:48Z"
 publishDate: '2026-04-14T19:19:48Z'
 readingTime: 12
 tags: ["featured"]

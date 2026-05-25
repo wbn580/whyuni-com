@@ -2,7 +2,7 @@
 title: "How Important Is the Alumni Network? Evaluating Connections When Choosing a University"
 description: "Every year, roughly 2.1 million students cross borders to pursue higher education, according to the OECD’s 2023 *Education at a Glance* report, and among the…"
 category: "How"
-pubDatetime: 2026-05-02T19:23:58Z
+pubDatetime: "2026-05-02T19:23:58Z"
 publishDate: '2026-05-02T19:23:58Z'
 readingTime: 12
 tags: ["featured"]

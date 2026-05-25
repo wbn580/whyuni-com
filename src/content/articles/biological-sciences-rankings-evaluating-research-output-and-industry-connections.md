@@ -2,7 +2,7 @@
 title: "Biological Sciences Rankings: Evaluating Research Output and Industry Connections"
 description: "In the 2024 QS World University Rankings by Subject, Biological Sciences encompassed over 600 institutions globally, with the top 50 accounting for roughly 4…"
 category: "Biological"
-pubDatetime: 2026-04-11T19:18:55Z
+pubDatetime: "2026-04-11T19:18:55Z"
 publishDate: '2026-04-11T19:18:55Z'
 readingTime: 10
 tags: ["featured"]

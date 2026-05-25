@@ -2,7 +2,7 @@
 title: "Canada's U15 Research Universities: Toronto, UBC, and McGill Compared"
 description: "In 2023, the University of Toronto reported a total research income of over CAD 1.4 billion, a figure that surpasses the combined research budgets of several…"
 category: "Canada's"
-pubDatetime: 2026-05-18T19:28:23Z
+pubDatetime: "2026-05-18T19:28:23Z"
 publishDate: '2026-05-18T19:28:23Z'
 readingTime: 9
 tags: ["featured"]

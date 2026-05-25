@@ -2,7 +2,7 @@
 title: "Can't Get Into a Popular Course? Waitlist Strategies and Backup Plans"
 description: "Every fall, roughly 1.5 million first-year students enter U.S. four-year institutions, and according to the National Association for College Admission Counse…"
 category: "Can't"
-pubDatetime: 2026-04-21T19:21:28Z
+pubDatetime: "2026-04-21T19:21:28Z"
 publishDate: '2026-04-21T19:21:28Z'
 readingTime: 10
 tags: ["featured"]

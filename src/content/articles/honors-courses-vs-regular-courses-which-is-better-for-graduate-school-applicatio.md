@@ -2,7 +2,7 @@
 title: "Honors Courses vs Regular Courses: Which Is Better for Graduate School Applications?"
 description: "Every fall, hundreds of thousands of first-year students in the United States sit down with their academic advisors and face a quiet fork in the road: should…"
 category: "Honors"
-pubDatetime: 2026-04-23T19:21:50Z
+pubDatetime: "2026-04-23T19:21:50Z"
 publishDate: '2026-04-23T19:21:50Z'
 readingTime: 10
 tags: ["featured"]

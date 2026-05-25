@@ -2,7 +2,7 @@
 title: "Gaming Industry Careers: Computer Science, Digital Media, or Interaction Design?"
 description: "The global games market generated an estimated $184.0 billion in revenue in 2023, according to a Newzoo report, a figure that surpasses the combined box-offi…"
 category: "Gaming"
-pubDatetime: 2026-04-16T19:20:17Z
+pubDatetime: "2026-04-16T19:20:17Z"
 publishDate: '2026-04-16T19:20:17Z'
 readingTime: 9
 tags: ["featured"]

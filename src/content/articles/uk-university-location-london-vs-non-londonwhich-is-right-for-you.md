@@ -2,7 +2,7 @@
 title: "UK University Location: London vs Non-London—Which Is Right for You?"
 description: "The decision of where to study in the United Kingdom often narrows to a single, sharp fork: London or everywhere else. For a 17‑year‑old weighing offers, the…"
 category: "UK"
-pubDatetime: 2026-05-01T19:23:57Z
+pubDatetime: "2026-05-01T19:23:57Z"
 publishDate: '2026-05-01T19:23:57Z'
 readingTime: 10
 tags: ["featured"]

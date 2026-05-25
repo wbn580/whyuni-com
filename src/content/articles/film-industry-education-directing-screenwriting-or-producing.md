@@ -2,7 +2,7 @@
 title: "Film Industry Education: Directing, Screenwriting, or Producing?"
 description: "The decision to study film at university has never been a purely academic one. It is a wager on a notoriously fickle industry. According to the U.S. Bureau o…"
 category: "Film"
-pubDatetime: 2026-04-20T19:21:00Z
+pubDatetime: "2026-04-20T19:21:00Z"
 publishDate: '2026-04-20T19:21:00Z'
 readingTime: 11
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "选校笔记整理方法：Notion、Obsidian选校数据库搭建教程"
 description: "The first time I tried to compare universities, I opened seventeen browser tabs, copied fragments from QS rankings into a Notes app, and emerged two hours la…"
 category: "选校笔记整理方法：Not"
-pubDatetime: 2026-03-22T19:12:53Z
+pubDatetime: "2026-03-22T19:12:53Z"
 publishDate: '2026-03-22T19:12:53Z'
 readingTime: 3
 tags: ["featured"]

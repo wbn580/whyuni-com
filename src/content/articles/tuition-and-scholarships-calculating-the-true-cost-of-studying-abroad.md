@@ -2,7 +2,7 @@
 title: "Tuition and Scholarships: Calculating the True Cost of Studying Abroad"
 description: "In 2023, the average annual tuition for an international undergraduate student in the United States reached $28,570 at public four-year institutions and a st…"
 category: "Tuition"
-pubDatetime: 2026-05-02T19:24:17Z
+pubDatetime: "2026-05-02T19:24:17Z"
 publishDate: '2026-05-02T19:24:17Z'
 readingTime: 10
 tags: ["featured"]

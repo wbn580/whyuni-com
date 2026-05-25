@@ -2,7 +2,7 @@
 title: "Engineering School Selection: Which Ranking System Should You Trust?"
 description: "Every September, a 17-year-old in São Paulo, a 19-year-old in Seoul, and an 18-year-old in Lagos each open the same three browser tabs: QS World University R…"
 category: "Engineering"
-pubDatetime: 2026-04-09T19:17:53Z
+pubDatetime: "2026-04-09T19:17:53Z"
 publishDate: '2026-04-09T19:17:53Z'
 readingTime: 9
 tags: ["featured"]

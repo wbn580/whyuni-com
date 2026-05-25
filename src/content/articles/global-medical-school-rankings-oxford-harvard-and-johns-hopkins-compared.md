@@ -2,7 +2,7 @@
 title: "Global Medical School Rankings: Oxford, Harvard, and Johns Hopkins Compared"
 description: "A pre-medical student at a university in Shanghai recently asked me a question that cuts to the core of the global medical education dilemma: “If I get into …"
 category: "Global"
-pubDatetime: 2026-04-10T19:18:33Z
+pubDatetime: "2026-04-10T19:18:33Z"
 publishDate: '2026-04-10T19:18:33Z'
 readingTime: 9
 tags: ["featured"]

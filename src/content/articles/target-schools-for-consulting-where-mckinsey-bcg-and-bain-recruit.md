@@ -2,7 +2,7 @@
 title: "Target Schools for Consulting: Where McKinsey, BCG, and Bain Recruit"
 description: "Every autumn, a quiet migration begins on elite campuses across North America and Europe. Students in business-casual attire fill campus career centers, not …"
 category: "Target"
-pubDatetime: 2026-04-17T19:20:22Z
+pubDatetime: "2026-04-17T19:20:22Z"
 publishDate: '2026-04-17T19:20:22Z'
 readingTime: 9
 tags: ["featured"]

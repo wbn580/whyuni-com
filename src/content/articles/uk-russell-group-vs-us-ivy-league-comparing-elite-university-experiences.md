@@ -2,7 +2,7 @@
 title: "UK Russell Group vs US Ivy League: Comparing Elite University Experiences"
 description: "A seventeen-year-old sitting in a Beijing or Shanghai high school library, staring at two acceptance letters—one from University College London, one from Cor…"
 category: "UK"
-pubDatetime: 2026-05-19T19:28:30Z
+pubDatetime: "2026-05-19T19:28:30Z"
 publishDate: '2026-05-19T19:28:30Z'
 readingTime: 13
 tags: ["featured"]

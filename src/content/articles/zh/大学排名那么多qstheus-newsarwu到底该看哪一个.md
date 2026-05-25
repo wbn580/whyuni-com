@@ -2,7 +2,7 @@
 title: "大学排名那么多，QS、THE、US News、ARWU到底该看哪一个？"
 description: "Every October, a wave of anxiety hits high school seniors and their parents: the new QS World University Rankings drop, and suddenly a university that was “s…"
 category: "大学排名那么多，QS、T"
-pubDatetime: 2026-02-23T19:05:22Z
+pubDatetime: "2026-02-23T19:05:22Z"
 publishDate: '2026-02-23T19:05:22Z'
 readingTime: 3
 tags: ["featured"]

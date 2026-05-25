@@ -2,7 +2,7 @@
 title: "Global Engineering Powerhouses: MIT, Stanford, and Imperial College London"
 description: "For a seventeen-year-old weighing where to send an engineering application, the choice between MIT, Stanford, and Imperial College London is less about picki…"
 category: "Global"
-pubDatetime: 2026-05-20T19:29:00Z
+pubDatetime: "2026-05-20T19:29:00Z"
 publishDate: '2026-05-20T19:29:00Z'
 readingTime: 11
 tags: ["featured"]

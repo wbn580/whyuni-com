@@ -2,7 +2,7 @@
 title: "Oxford vs Cambridge: A Comprehensive Comparison of the UK's Top Two Universities"
 description: "Every year, roughly 23,000 students apply to the University of Oxford and 21,000 to the University of Cambridge, yet fewer than one in five will receive an o…"
 category: "Oxford"
-pubDatetime: 2026-05-17T19:28:04Z
+pubDatetime: "2026-05-17T19:28:04Z"
 publishDate: '2026-05-17T19:28:04Z'
 readingTime: 10
 tags: ["featured"]

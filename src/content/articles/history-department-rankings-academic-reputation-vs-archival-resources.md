@@ -2,7 +2,7 @@
 title: "History Department Rankings: Academic Reputation vs Archival Resources"
 description: "Every fall, roughly 1.8 million first-year students enter American four-year universities, and among them, a small but determined fraction—about 1.6 percent,…"
 category: "History"
-pubDatetime: 2026-04-12T19:19:11Z
+pubDatetime: "2026-04-12T19:19:11Z"
 publishDate: '2026-04-12T19:19:11Z'
 readingTime: 10
 tags: ["featured"]

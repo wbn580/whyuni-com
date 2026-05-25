@@ -2,7 +2,7 @@
 title: "Education Schools: UCL Institute of Education, Harvard, and Stanford"
 description: "The UCL Institute of Education (IOE) has held the top spot in the QS World University Rankings by Subject for Education for ten consecutive years, a feat unm…"
 category: "Education"
-pubDatetime: 2026-05-21T19:29:06Z
+pubDatetime: "2026-05-21T19:29:06Z"
 publishDate: '2026-05-21T19:29:06Z'
 readingTime: 11
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "What Your High School Transcript Says About Your Academic Talents"
 description: "Your high school transcript is a story told in numbers and letters, but it is rarely the story students think it is. When admissions officers at the 2,500+ f…"
 category: "What"
-pubDatetime: 2026-05-13T19:27:09Z
+pubDatetime: "2026-05-13T19:27:09Z"
 publishDate: '2026-05-13T19:27:09Z'
 readingTime: 10
 tags: ["featured"]

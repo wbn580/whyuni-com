@@ -2,7 +2,7 @@
 title: "Chemistry Program Rankings: Theoretical vs Applied Chemistry Departments"
 description: "In 2024, the global chemistry job market posted 1.2 million new openings, yet nearly 22 percent of chemistry bachelor’s graduates in OECD countries reported …"
 category: "Chemistry"
-pubDatetime: 2026-04-12T19:18:58Z
+pubDatetime: "2026-04-12T19:18:58Z"
 publishDate: '2026-04-12T19:18:58Z'
 readingTime: 10
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Study Abroad University Selection: How to Define Your Target School Range"
 description: "Every year, approximately 1.6 million students from outside the European Union enroll in degree programs across OECD member countries, with the United States…"
 category: "Study"
-pubDatetime: 2026-04-29T19:23:19Z
+pubDatetime: "2026-04-29T19:23:19Z"
 publishDate: '2026-04-29T19:23:19Z'
 readingTime: 12
 tags: ["featured"]

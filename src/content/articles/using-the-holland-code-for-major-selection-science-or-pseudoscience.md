@@ -2,7 +2,7 @@
 title: "Using the Holland Code for Major Selection: Science or Pseudoscience?"
 description: "Every year, roughly 3.8 million American students take the ACT, and a significant portion of them encounter the Holland Code (RIASEC) assessment embedded wit…"
 category: "Using"
-pubDatetime: 2026-05-13T19:27:06Z
+pubDatetime: "2026-05-13T19:27:06Z"
 publishDate: '2026-05-13T19:27:06Z'
 readingTime: 8
 tags: ["featured"]

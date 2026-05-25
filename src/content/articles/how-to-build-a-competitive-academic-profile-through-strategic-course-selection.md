@@ -2,7 +2,7 @@
 title: "How to Build a Competitive Academic Profile Through Strategic Course Selection"
 description: "A high-school transcript is no longer a simple report card; it is a forensic document that admissions committees read for clues about a student’s intellectua…"
 category: "How"
-pubDatetime: 2026-04-22T19:21:37Z
+pubDatetime: "2026-04-22T19:21:37Z"
 publishDate: '2026-04-22T19:21:37Z'
 readingTime: 12
 tags: ["featured"]

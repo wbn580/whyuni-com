@@ -2,7 +2,7 @@
 title: "荣誉课程 vs 普通课程：申请研究生哪个更有优势？"
 description: "A decade ago, the choice between an Honors curriculum and a standard degree track was often framed as a simple matter of prestige: take the harder classes, g…"
 category: "荣誉课程 vs 普通课程"
-pubDatetime: 2026-03-08T19:09:03Z
+pubDatetime: "2026-03-08T19:09:03Z"
 publishDate: '2026-03-08T19:09:03Z'
 readingTime: 3
 tags: ["featured"]

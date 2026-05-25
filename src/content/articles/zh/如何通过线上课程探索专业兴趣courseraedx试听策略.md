@@ -2,7 +2,7 @@
 title: "如何通过线上课程探索专业兴趣？Coursera、edX试听策略"
 description: "A seventeen-year-old in Jakarta clicks “Enroll for Free” on a Yale course about happiness. A nineteen-year-old in São Paulo works through MIT’s introductory …"
 category: "如何通过线上课程探索专业"
-pubDatetime: 2026-04-01T19:15:40Z
+pubDatetime: "2026-04-01T19:15:40Z"
 publishDate: '2026-04-01T19:15:40Z'
 readingTime: 3
 tags: ["featured"]

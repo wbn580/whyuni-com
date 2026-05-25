@@ -2,7 +2,7 @@
 title: "AI and Machine Learning Careers: Market Demand and Future Prospects"
 description: "Between 2022 and 2032, the U.S. Bureau of Labor Statistics projects that employment for computer and information research scientists—a category that includes…"
 category: "AI"
-pubDatetime: 2026-05-08T19:25:46Z
+pubDatetime: "2026-05-08T19:25:46Z"
 publishDate: '2026-05-08T19:25:46Z'
 readingTime: 12
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "How to Choose the Right Professor: A Guide to Using Rate My Professors Effectively"
 description: "A single four-digit number, 2.3, can alter the course of an undergraduate education. According to a 2022 working paper from the National Bureau of Economic R…"
 category: "How"
-pubDatetime: 2026-04-23T19:21:50Z
+pubDatetime: "2026-04-23T19:21:50Z"
 publishDate: '2026-04-23T19:21:50Z'
 readingTime: 9
 tags: ["featured"]

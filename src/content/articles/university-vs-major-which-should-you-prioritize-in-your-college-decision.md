@@ -2,7 +2,7 @@
 title: "University vs Major: Which Should You Prioritize in Your College Decision?"
 description: "Every autumn, hundreds of thousands of 17- and 18-year-olds sit down to fill out their college applications, and almost every one of them confronts the same …"
 category: "University"
-pubDatetime: 2026-04-14T19:19:32Z
+pubDatetime: "2026-04-14T19:19:32Z"
 publishDate: '2026-04-14T19:19:32Z'
 readingTime: 10
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Urban Planning Education: Design-Focused vs Policy-Focused Programs"
 description: "A 22-year-old architecture undergraduate in Mumbai, a 24-year-old policy analyst in São Paulo, and a 21-year-old geography major in London all share the same…"
 category: "Urban"
-pubDatetime: 2026-04-20T19:21:05Z
+pubDatetime: "2026-04-20T19:21:05Z"
 publishDate: '2026-04-20T19:21:05Z'
 readingTime: 11
 tags: ["featured"]

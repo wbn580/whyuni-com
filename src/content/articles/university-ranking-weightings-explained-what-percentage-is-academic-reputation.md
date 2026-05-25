@@ -2,7 +2,7 @@
 title: "University Ranking Weightings Explained: What Percentage Is Academic Reputation?"
 description: "Every year, hundreds of thousands of students pore over university league tables, searching for the one institution that will unlock their future. Yet the nu…"
 category: "University"
-pubDatetime: 2026-05-21T19:29:21Z
+pubDatetime: "2026-05-21T19:29:21Z"
 publishDate: '2026-05-21T19:29:21Z'
 readingTime: 9
 tags: ["featured"]

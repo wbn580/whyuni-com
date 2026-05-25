@@ -2,7 +2,7 @@
 title: "Environmental Science Rankings: Leading Institutions for Sustainability Research"
 description: "In 2023, the global market for environmental technologies was valued at approximately $1.2 trillion by the International Energy Agency, a figure that undersc…"
 category: "Environmental"
-pubDatetime: 2026-04-11T19:18:36Z
+pubDatetime: "2026-04-11T19:18:36Z"
 publishDate: '2026-04-11T19:18:36Z'
 readingTime: 13
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "世界顶尖建筑学院对比：MIT、UCL巴特莱特、代尔夫特理工分析"
 description: "A seventeen-year-old standing at the threshold of an architecture degree faces a decision that will shape not just their career, but the very way they see th…"
 category: "世界顶尖建筑学院对比：M"
-pubDatetime: 2026-04-06T19:17:03Z
+pubDatetime: "2026-04-06T19:17:03Z"
 publishDate: '2026-04-06T19:17:03Z'
 readingTime: 3
 tags: ["featured"]

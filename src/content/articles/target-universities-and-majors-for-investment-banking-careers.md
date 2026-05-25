@@ -2,7 +2,7 @@
 title: "Target Universities and Majors for Investment Banking Careers"
 description: "In the spring of 2024, the average base salary for a first-year investment banking analyst on Wall Street reached $110,000, with total compensation—including…"
 category: "Target"
-pubDatetime: 2026-04-15T19:19:54Z
+pubDatetime: "2026-04-15T19:19:54Z"
 publishDate: '2026-04-15T19:19:54Z'
 readingTime: 9
 tags: ["featured"]

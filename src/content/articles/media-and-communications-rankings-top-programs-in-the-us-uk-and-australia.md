@@ -2,7 +2,7 @@
 title: "Media and Communications Rankings: Top Programs in the US, UK, and Australia"
 description: "In the 2024 QS World University Rankings by Subject, Media and Communication Studies saw over 300 institutions evaluated globally, with the top ten programs …"
 category: "Media"
-pubDatetime: 2026-04-10T19:18:19Z
+pubDatetime: "2026-04-10T19:18:19Z"
 publishDate: '2026-04-10T19:18:19Z'
 readingTime: 11
 tags: ["featured"]

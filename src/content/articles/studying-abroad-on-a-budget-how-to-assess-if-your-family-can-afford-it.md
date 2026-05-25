@@ -2,7 +2,7 @@
 title: "Studying Abroad on a Budget: How to Assess If Your Family Can Afford It"
 description: "The first question a family asks when a seventeen-year-old announces they want to study abroad is rarely about the quality of the university. It is about the…"
 category: "Studying"
-pubDatetime: 2026-04-23T19:21:52Z
+pubDatetime: "2026-04-23T19:21:52Z"
 publishDate: '2026-04-23T19:21:52Z'
 readingTime: 7
 tags: ["featured"]

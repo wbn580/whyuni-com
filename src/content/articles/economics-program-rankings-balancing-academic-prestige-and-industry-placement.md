@@ -2,7 +2,7 @@
 title: "Economics Program Rankings: Balancing Academic Prestige and Industry Placement"
 description: "Every September, when the latest *QS World University Rankings by Subject* lands, a predictable ritual unfolds in university guidance offices and family WeCh…"
 category: "Economics"
-pubDatetime: 2026-04-10T19:18:33Z
+pubDatetime: "2026-04-10T19:18:33Z"
 publishDate: '2026-04-10T19:18:33Z'
 readingTime: 11
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "How to Handle Interdisciplinary Interests: Designing Your Own Academic Path"
 description: "In 2023, the Organisation for Economic Co-operation and Development (OECD) reported that over 42% of university graduates in member countries work in fields …"
 category: "How"
-pubDatetime: 2026-05-16T19:27:52Z
+pubDatetime: "2026-05-16T19:27:52Z"
 publishDate: '2026-05-16T19:27:52Z'
 readingTime: 9
 tags: ["featured"]

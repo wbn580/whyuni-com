@@ -2,7 +2,7 @@
 title: "英国留学选校：伦敦 vs 非伦敦地区怎么选？"
 description: "The decision of where to study in the United Kingdom often crystallises into a single, binary question: London or everywhere else? For the 605,130 internatio…"
 category: "英国留学选校：伦敦 vs"
-pubDatetime: 2026-03-18T19:11:35Z
+pubDatetime: "2026-03-18T19:11:35Z"
 publishDate: '2026-03-18T19:11:35Z'
 readingTime: 3
 tags: ["featured"]

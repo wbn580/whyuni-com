@@ -2,7 +2,7 @@
 title: "Computer Science Rankings Compared: MIT, Stanford, CMU, and Berkeley Head-to-Head"
 description: "The U.S. News & World Report 2023-2024 rankings place MIT, Stanford, CMU, and Berkeley in a near dead heat for computer science, with MIT and CMU tied at num…"
 category: "Computer"
-pubDatetime: 2026-04-08T19:17:42Z
+pubDatetime: "2026-04-08T19:17:42Z"
 publishDate: '2026-04-08T19:17:42Z'
 readingTime: 10
 tags: ["featured"]

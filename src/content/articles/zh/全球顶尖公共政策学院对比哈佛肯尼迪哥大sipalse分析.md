@@ -2,7 +2,7 @@
 title: "全球顶尖公共政策学院对比：哈佛肯尼迪、哥大SIPA、LSE分析"
 description: "In 2023, 1,297 applicants competed for 240 seats in Harvard Kennedy School’s Master in Public Policy program, an acceptance rate of roughly 18.5 percent, acc…"
 category: "全球顶尖公共政策学院对比"
-pubDatetime: 2026-04-05T19:16:57Z
+pubDatetime: "2026-04-05T19:16:57Z"
 publishDate: '2026-04-05T19:16:57Z'
 readingTime: 3
 tags: ["featured"]

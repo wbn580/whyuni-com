@@ -2,7 +2,7 @@
 title: "Quantum Computing and Information Science: Potential in a Frontier Field"
 description: "On a Tuesday afternoon in a basement laboratory at Delft University of Technology, a single atom of phosphorus, cooled to near absolute zero, spins in two di…"
 category: "Quantum"
-pubDatetime: 2026-05-11T19:26:33Z
+pubDatetime: "2026-05-11T19:26:33Z"
 publishDate: '2026-05-11T19:26:33Z'
 readingTime: 9
 tags: ["featured"]

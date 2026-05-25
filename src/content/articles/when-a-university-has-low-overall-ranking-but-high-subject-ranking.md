@@ -2,7 +2,7 @@
 title: "When a University Has Low Overall Ranking but High Subject Ranking"
 description: "The applicant’s spreadsheet has two columns: “Overall Rank” and “Subject Rank.” The University of Arizona sits at No. 293 in the Times Higher Education World…"
 category: "When"
-pubDatetime: 2026-04-18T19:20:30Z
+pubDatetime: "2026-04-18T19:20:30Z"
 publishDate: '2026-04-18T19:20:30Z'
 readingTime: 9
 tags: ["featured"]

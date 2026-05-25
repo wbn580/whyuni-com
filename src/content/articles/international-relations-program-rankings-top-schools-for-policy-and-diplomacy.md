@@ -2,7 +2,7 @@
 title: "International Relations Program Rankings: Top Schools for Policy and Diplomacy"
 description: "The student bent over a laptop in a university library at 2 a.m., cross-referencing three different browser tabs: one showing the QS World University Ranking…"
 category: "International"
-pubDatetime: 2026-04-12T19:19:09Z
+pubDatetime: "2026-04-12T19:19:09Z"
 publishDate: '2026-04-12T19:19:09Z'
 readingTime: 10
 tags: ["featured"]

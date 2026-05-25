@@ -2,7 +2,7 @@
 title: "Philosophy Program Rankings: Analytic vs Continental Philosophy Strengths"
 description: "Fewer than 200 universities worldwide offer a dedicated undergraduate major in Philosophy, yet the discipline’s internal divide—between the **analytic** trad…"
 category: "Philosophy"
-pubDatetime: 2026-04-13T19:19:17Z
+pubDatetime: "2026-04-13T19:19:17Z"
 publishDate: '2026-04-13T19:19:17Z'
 readingTime: 10
 tags: ["featured"]

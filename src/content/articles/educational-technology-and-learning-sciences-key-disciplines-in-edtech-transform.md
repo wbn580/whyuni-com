@@ -2,7 +2,7 @@
 title: "Educational Technology and Learning Sciences: Key Disciplines in EdTech Transformation"
 description: "In 2023, the global educational technology market was valued at approximately $123.40 billion by HolonIQ, with projections suggesting it will surpass $348 bi…"
 category: "Educational"
-pubDatetime: 2026-05-10T19:26:24Z
+pubDatetime: "2026-05-10T19:26:24Z"
 publishDate: '2026-05-10T19:26:24Z'
 readingTime: 7
 tags: ["featured"]

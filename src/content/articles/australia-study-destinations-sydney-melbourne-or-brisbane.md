@@ -2,7 +2,7 @@
 title: "Australia Study Destinations: Sydney, Melbourne, or Brisbane?"
 description: "In 2024, Australia hosted 717,358 international students across its tertiary education system, according to the Department of Home Affairs, with roughly 40 p…"
 category: "Australia"
-pubDatetime: 2026-05-05T19:24:58Z
+pubDatetime: "2026-05-05T19:24:58Z"
 publishDate: '2026-05-05T19:24:58Z'
 readingTime: 10
 tags: ["featured"]

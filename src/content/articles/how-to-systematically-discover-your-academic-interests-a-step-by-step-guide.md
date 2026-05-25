@@ -2,7 +2,7 @@
 title: "How to Systematically Discover Your Academic Interests: A Step-by-Step Guide"
 description: "In the spring of 2023, the OECD’s Programme for International Student Assessment (PISA) released a special report revealing that only 34% of 15-year-olds acr…"
 category: "How"
-pubDatetime: 2026-05-12T19:26:52Z
+pubDatetime: "2026-05-12T19:26:52Z"
 publishDate: '2026-05-12T19:26:52Z'
 readingTime: 9
 tags: ["featured"]

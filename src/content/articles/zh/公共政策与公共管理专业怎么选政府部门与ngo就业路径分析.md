@@ -2,7 +2,7 @@
 title: "公共政策与公共管理专业怎么选？政府部门与NGO就业路径分析"
 description: "The first time a 17-year-old asks me whether they should study Public Policy or Public Administration, I tell them to look at a number. In 2022, the U.S. Bur…"
 category: "公共政策与公共管理专业怎"
-pubDatetime: 2026-03-05T19:08:10Z
+pubDatetime: "2026-03-05T19:08:10Z"
 publishDate: '2026-03-05T19:08:10Z'
 readingTime: 3
 tags: ["featured"]

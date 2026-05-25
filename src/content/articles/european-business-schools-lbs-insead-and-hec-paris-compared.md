@@ -2,7 +2,7 @@
 title: "European Business Schools: LBS, INSEAD, and HEC Paris Compared"
 description: "When a 22-year-old stands at the gate of a European business school, the decision is rarely about which institution has the shiniest brochure. It is a calcul…"
 category: "European"
-pubDatetime: 2026-05-19T19:28:32Z
+pubDatetime: "2026-05-19T19:28:32Z"
 publishDate: '2026-05-19T19:28:32Z'
 readingTime: 11
 tags: ["featured"]

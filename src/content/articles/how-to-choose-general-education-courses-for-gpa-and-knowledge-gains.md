@@ -2,7 +2,7 @@
 title: "How to Choose General Education Courses for GPA and Knowledge Gains"
 description: "A few weeks into my first semester of university, I sat in a fluorescent-lit lecture hall with 300 other first-year students, staring at a syllabus for a cou…"
 category: "How"
-pubDatetime: 2026-04-20T19:21:18Z
+pubDatetime: "2026-04-20T19:21:18Z"
 publishDate: '2026-04-20T19:21:18Z'
 readingTime: 13
 tags: ["featured"]

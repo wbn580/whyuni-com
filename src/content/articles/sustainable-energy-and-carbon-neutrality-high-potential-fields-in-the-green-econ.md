@@ -2,7 +2,7 @@
 title: "Sustainable Energy and Carbon Neutrality: High-Potential Fields in the Green Economy"
 description: "In 2022, global investment in the energy transition—encompassing renewable energy, electrified transport, carbon capture, and hydrogen—crossed USD 1.1 trilli…"
 category: "Sustainable"
-pubDatetime: 2026-05-09T19:26:00Z
+pubDatetime: "2026-05-09T19:26:00Z"
 publishDate: '2026-05-09T19:26:00Z'
 readingTime: 10
 tags: ["featured"]

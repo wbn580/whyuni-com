@@ -2,7 +2,7 @@
 title: "Robotics Engineering: Career Prospects in Industrial Automation and Smart Manufacturing"
 description: "In 2023, the global industrial robotics market installed 541,302 new units, according to the International Federation of Robotics (IFR, *World Robotics 2024*…"
 category: "Robotics"
-pubDatetime: 2026-05-09T19:26:05Z
+pubDatetime: "2026-05-09T19:26:05Z"
 publishDate: '2026-05-09T19:26:05Z'
 readingTime: 8
 tags: ["featured"]

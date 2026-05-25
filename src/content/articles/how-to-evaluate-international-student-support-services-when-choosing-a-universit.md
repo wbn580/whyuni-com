@@ -2,7 +2,7 @@
 title: "How to Evaluate International Student Support Services When Choosing a University"
 description: "On a crisp September morning in 2022, the University of British Columbia’s International Student Advising office processed 1,847 visa-renewal inquiries in a …"
 category: "How"
-pubDatetime: 2026-05-01T19:23:49Z
+pubDatetime: "2026-05-01T19:23:49Z"
 publishDate: '2026-05-01T19:23:49Z'
 readingTime: 11
 tags: ["featured"]
