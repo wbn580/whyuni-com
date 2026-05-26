@@ -6,6 +6,7 @@ pubDatetime: "2026-05-12T19:26:52Z"
 publishDate: '2026-05-12T19:26:52Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 In the spring of 2023, the OECD’s Programme for International Student Assessment (PISA) released a special report revealing that only 34% of 15-year-olds across its 38 member countries could confidently identify a career path that matched their personal strengths and interests. More striking was a separate longitudinal study by the U.S. National Center for Education Statistics (NCES, 2022), which tracked 12,000 undergraduates over six years and found that nearly 44% of students who entered college with an “undeclared” major ended up switching their field of study at least twice before graduation. These numbers point to a quiet crisis: most young people are expected to choose a direction for their higher education long before they have systematically explored what genuinely engages them. The pressure to declare a major, pick a university, or commit to a career track often arrives years before the self-knowledge required to make that decision wisely. This guide offers a structured, evidence-based method to uncover your academic interests—not by taking a single personality quiz, but by building a repeatable process of curiosity, exposure, and reflection.

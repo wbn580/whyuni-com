@@ -6,6 +6,7 @@ pubDatetime: "2026-03-18T19:11:51Z"
 publishDate: '2026-03-18T19:11:51Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 The typical university prospectus lists placement rates with the same cheerful opacity as a restaurant menu lists calories: present but carefully framed. In Canada, the University of Waterloo reports that 96% of its co-op students receive a job offer within six months of graduation, a figure drawn from its 2023 Co-operative Education Report. Across the Atlantic, the UK’s Higher Education Statistics Agency (HESA, 2022/23 Graduate Outcomes) found that 71.5% of all graduates were in “highly skilled employment” 15 months after finishing their degree—a number that hides wild variation between institutions and disciplines. These two data points, separated by an ocean and a methodology, illustrate the core problem for any 17-to-22-year-old staring at a spreadsheet of acceptance letters: how do you actually weigh a program’s promise of a job against its day-to-day reality of lectures, labs, and tuition bills? The answer requires more than scanning a “graduate employment rate” column. It demands a framework for understanding what co-op programs really deliver, how to read employment statistics without being misled, and where the real leverage lies in a decision that will shape not just your first job but your entire career trajectory. This article will provide that framework, drawing on institutional data, government surveys, and the lived experience of students who have navigated this terrain.

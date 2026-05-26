@@ -6,6 +6,7 @@ pubDatetime: "2026-03-15T19:10:51Z"
 publishDate: '2026-03-15T19:10:51Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 In 2025, the sticker price for a two-year MBA at a top-10 U.S. business school now exceeds $240,000 in tuition alone, with total cost of attendance—including fees, health insurance, and living expenses in cities like New York or Boston—pushing past $320,000 for many programs, according to the Graduate Management Admission Council (GMAC 2024 Application Trends Survey). This represents a 67% increase in average tuition at M7 schools since 2010, far outpacing the 31% cumulative inflation rate over the same period recorded by the U.S. Bureau of Labor Statistics. Meanwhile, the median pre-MBA salary for incoming students at Harvard Business School has held relatively flat at around $115,000, while the post-MBA median base salary for graduates has crept up only 14% in real terms since 2015, according to U.S. News & World Report’s 2024 Best Business Schools rankings. These numbers force a brutal arithmetic: if you pay $320,000 to earn a degree that lifts your salary from $115,000 to $190,000, your break-even point—assuming you finance the full amount at a 7% interest rate—stretches to roughly seven years, not counting the opportunity cost of two years of forgone income. For the 17-to-22-year-old applicant weighing a path they’ve been told is a golden ticket, the question is no longer “Is an MBA good?” but rather “Is an MBA good *enough*—and for whom?”

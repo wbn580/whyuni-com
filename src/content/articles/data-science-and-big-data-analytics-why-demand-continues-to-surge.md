@@ -6,6 +6,7 @@ pubDatetime: "2026-05-08T19:25:47Z"
 publishDate: '2026-05-08T19:25:47Z'
 readingTime: 11
 tags: ["featured"]
+
 ---
 
 In 2023, the global data sphere reached 120 zettabytes, according to the International Data Corporation (IDC, *Global DataSphere Forecast*, 2023), and by 2027 that figure is projected to hit 291 zettabytes. Each zettabyte is a trillion gigabytes—enough data to give every person on Earth several hundred books every single day. Meanwhile, the U.S. Bureau of Labor Statistics (BLS, *Occupational Outlook Handbook*, 2023) projects that employment for data scientists will grow 35 percent from 2022 to 2032, more than five times the average for all occupations. These two numbers—291 zettabytes and 35 percent growth—are not coincidental. They represent a structural shift: as organizations generate more data than they can manually interpret, the demand for people who can extract signal from noise has become one of the most reliable career bets in the modern economy. For a 17- to 22-year-old deciding between majors, this isn’t just a trend line—it’s a decision framework.

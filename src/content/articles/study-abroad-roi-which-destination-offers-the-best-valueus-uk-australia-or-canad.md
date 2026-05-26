@@ -6,6 +6,7 @@ pubDatetime: "2026-04-25T19:22:19Z"
 publishDate: '2026-04-25T19:22:19Z'
 readingTime: 11
 tags: ["featured"]
+
 ---
 
 A seventeen-year-old staring down a university application portal confronts a question that feels almost impossibly abstract: what is an education worth? The answer, of course, depends on where you stand—and, more precisely, where you go. In 2024, the average annual tuition fee for an international undergraduate student in the United States reached $29,150 at a public university and $42,160 at a private institution, according to the College Board’s Trends in College Pricing report. Across the Atlantic, the UK’s Home Office reported that non-EU students paid a median of £22,200 per year for undergraduate programs in 2023–24, a figure that climbs steeply for clinical degrees. Yet these numbers are only the opening bid in a much longer negotiation between cost and outcome. A 2023 OECD Education at a Glance report found that, across all four major English-speaking destinations, tertiary graduates earn on average 54% more than those with only an upper-secondary education—but the variance within that average is enormous, tied to field of study, post-graduation visa pathways, and the sheer cost of living in a city like London or Toronto. The decision is not simply about which country has the best universities; it is about which system offers the highest net return on the most expensive investment most young people will make before buying a house.

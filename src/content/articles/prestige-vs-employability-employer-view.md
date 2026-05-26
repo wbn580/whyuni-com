@@ -5,6 +5,7 @@ category: "careers"
 publishDate: "2026-05-15T04:20:00Z"
 readingTime: 7
 tags: ["employability", "careers", "graduate-outcomes", "hiring"]
+
 ---
 
 The dominant narrative in international education is that university prestige drives employability. The data tells a more nuanced story.

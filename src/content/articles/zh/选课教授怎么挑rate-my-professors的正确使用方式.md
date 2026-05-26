@@ -6,6 +6,7 @@ pubDatetime: "2026-03-08T19:09:15Z"
 publishDate: '2026-03-08T19:09:15Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 On the first day of course registration at a large U.S. public university, a student has roughly 4.7 seconds to decide between two sections of Organic Chemistry before the seats vanish. One professor has a 4.8 overall quality rating on RateMyProfessors.com, based on 312 reviews; the other, a 2.1, with a “tough grader” tag and a single comment that reads, “He made me cry.” According to a 2023 analysis by the National Bureau of Economic Research (NBER Working Paper No. 31547), a one-point increase in a professor’s online rating correlates with a 1.8 percent rise in course enrollment, yet the same study found that ratings are only weakly predictive of actual grade outcomes—students who choose highly-rated professors do not, on average, earn higher GPAs. The gap between perception and reality is the central problem every applicant faces when they open that tab. RateMyProfessors is not a review site; it is a decision-making instrument that most users mishandle. Used correctly, it can save you from a semester of frustration. Used blindly, it will steer you into a classroom where the syllabus is a mystery and the grading curve is a trap.

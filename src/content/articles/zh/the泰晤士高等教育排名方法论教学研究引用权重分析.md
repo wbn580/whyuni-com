@@ -6,6 +6,7 @@ pubDatetime: "2026-04-06T19:17:17Z"
 publishDate: '2026-04-06T19:17:17Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 In 2024, Times Higher Education updated its World University Rankings methodology, and for the first time in over a decade, the weight given to **citations** dropped below 30 percent. The new formula, which applies to the 2025 ranking cycle, allocates 29.5 percent of a university’s final score to research influence (citations), down from 30 percent in the previous year. Meanwhile, the **teaching** environment now carries 29.5 percent, and the **research** environment carries 29 percent. This near-perfect three-way split—a deliberate move away from the old citation-heavy model—reflects a growing consensus among global higher-education analysts that no single metric should dominate a ranking. According to the OECD’s 2023 Education at a Glance report, over 4.5 million students were studying abroad across OECD and partner countries in 2021, a number that has since risen past 5 million. For a prospective applicant weighing offers from, say, the University of Melbourne versus the University of Amsterdam, understanding what these percentage points actually mean—and what they do not measure—can be the difference between a well-informed decision and a misleading one.

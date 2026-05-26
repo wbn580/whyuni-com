@@ -3,6 +3,7 @@ title: "Choosing a University by Career Path · A Practical Framework"
 description: "How to match university choice to career goals — industry-specific university preferences, employer perceptions, graduate recruitment pipelines, and ROI analysis by sector."
 category: "career"
 publishDate: "2026-05-15T08:30:00Z"
+
 ---
 Different careers have different university preferences. A framework for matching choice to goal.
 

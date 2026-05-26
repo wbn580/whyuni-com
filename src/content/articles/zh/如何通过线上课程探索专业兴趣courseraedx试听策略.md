@@ -6,6 +6,7 @@ pubDatetime: "2026-04-01T19:15:40Z"
 publishDate: '2026-04-01T19:15:40Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 A seventeen-year-old in Jakarta clicks “Enroll for Free” on a Yale course about happiness. A nineteen-year-old in São Paulo works through MIT’s introductory computer science sequence at midnight. Neither has applied to Yale or MIT. Neither is paying tuition. They are part of a quiet revolution in how students choose their academic path: the use of massive open online courses (MOOCs) as a low-stakes, high-fidelity method of exploring majors before committing to a university program. According to data from Class Central, the leading MOOC aggregator, the global MOOC user base surpassed 220 million learners in 2023, with over 19,000 courses available across platforms like Coursera and edX. Critically, a 2022 survey by the European Commission’s Joint Research Centre found that 42% of MOOC learners reported using courses specifically to “inform their choice of further study or career.” This is not passive browsing. It is a deliberate, data-informed strategy. The question is not whether to use these platforms, but how to design a system of trial that actually reveals genuine interest, rather than simply confirming a pre-existing hunch. Too many students audit a single introductory course, find it slightly boring, and cross a whole discipline off their list. The smarter approach is to build a structured curriculum of short, low-commitment experiments that test both aptitude and curiosity under realistic conditions.

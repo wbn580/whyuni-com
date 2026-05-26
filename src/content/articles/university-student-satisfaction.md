@@ -3,6 +3,7 @@ title: "University Student Satisfaction · Which Universities Care About Teachin
 description: "How student satisfaction varies across universities — NSS (UK), QILT (Australia), NSSE (US) results, and why some less-prestigious universities outperform elite ones."
 category: "compare"
 publishDate: "2026-05-15T09:00:00Z"
+
 ---
 
 Student satisfaction surveys consistently reveal a counter-intuitive pattern: elite research universities often score lower on teaching satisfaction than teaching-focused institutions. This is not an indictment of elite universities — it reflects structural incentives.

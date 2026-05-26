@@ -6,6 +6,7 @@ pubDatetime: "2026-03-09T19:09:16Z"
 publishDate: '2026-03-09T19:09:16Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 Every spring, thousands of 18-year-olds open their university course catalogues and confront a choice that feels deceptively simple: should I take the class with three group projects and one final presentation, or the class with a midterm, a final exam, and nothing else? According to a 2023 survey by the National Survey of Student Engagement (NSSE), roughly 62 percent of first-year students in U.S. four-year institutions reported that at least half of their graded work in a given semester involved collaborative assignments, while 38 percent said their courses were predominantly exam-based. The split is even starker in certain disciplines: a 2022 Organisation for Economic Co-operation and Development (OECD) analysis of tertiary education curricula across 27 countries found that engineering and business programs assign, on average, 2.7 times more team-based assessments than humanities and pure-science tracks. These numbers matter because the format of assessment is not merely a logistical detail—it shapes how you learn, how you sleep, and how you build the professional identity that employers will evaluate. The decision between group-project-heavy courses and exam-heavy courses is, at its core, a decision about what kind of intellectual stamina you want to develop, and what kind of risk you are willing to tolerate.

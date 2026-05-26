@@ -6,6 +6,7 @@ pubDatetime: "2026-04-22T19:21:48Z"
 publishDate: '2026-04-22T19:21:48Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 Every June, as final exam papers are handed in, a familiar calculation begins in dorm rooms across the country. The math is seductively simple: enroll in one or two **summer courses**, shave a semester off your degree, enter the workforce earlier, and save thousands in tuition. According to the National Center for Education Statistics (NCES, 2022, *Digest of Education Statistics*), the average annual cost of tuition and fees at a four-year public institution is $10,940 for in-state students, meaning a single summer semester could theoretically save a student roughly $5,470 in direct costs. The logic appears flawless—until you factor in the 43% of full-time undergraduate students who report feeling "overwhelmed by all they had to do" in the past year, a figure from the American College Health Association (ACHA, 2023, *National College Health Assessment*). The promise of accelerated graduation is a powerful lure, but the path is paved with a less-discussed currency: cognitive load, sleep debt, and the slow erosion of what psychologists call "recovery time." This is not a simple yes-or-no decision. It is a trade-off between the tangible math of a faster degree and the intangible, yet measurable, risk of burnout.

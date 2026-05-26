@@ -3,6 +3,7 @@ title: "University ROI · Calculating Return on Investment by Country"
 description: "How to calculate the financial return on a university degree — expected earnings premium, total cost of study, payback period, and country-by-country comparison."
 category: "cost"
 publishDate: "2026-05-15T08:30:00Z"
+
 ---
 
 A university degree is an investment — the upfront cost (tuition + foregone earnings) must be compared to the lifetime earnings premium it generates.

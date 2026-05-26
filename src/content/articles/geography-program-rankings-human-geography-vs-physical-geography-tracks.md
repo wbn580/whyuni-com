@@ -6,6 +6,7 @@ pubDatetime: "2026-04-13T19:19:23Z"
 publishDate: '2026-04-13T19:19:23Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 In 2023, the U.S. Bureau of Labor Statistics projected that employment for geographers would grow by 7% from 2022 to 2032, a pace faster than the average for all occupations, yet the national median annual wage for the field registered at $90,880. That single data point, however, masks a fundamental fork in the road: the choice between **human geography** and **physical geography** tracks is not merely a matter of course preferences—it is a decision that shapes your entire undergraduate curriculum, internship trajectory, and early-career earnings profile. According to the QS World University Rankings by Subject 2024, only 37 institutions globally hold a Top 50 ranking in Geography, with the University of Oxford, the London School of Economics, and the University of California, Berkeley dominating the list. What these rankings do not tell you is that Oxford’s Geography program leans heavily toward human geography, while Berkeley’s is renowned for its physical geography and Earth systems science. The data suggests a stark reality: program rankings are track-specific, and a high overall rank in Geography may not serve your interests if you are a physical geography student at a department that invests its best faculty in human geography seminars.

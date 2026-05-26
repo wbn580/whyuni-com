@@ -3,6 +3,7 @@ title: "Public vs Private Universities · Cost, Quality, and Prestige"
 description: "Comparing public and private universities — cost differentials, teaching models, prestige, and outcomes across Australia, UK, US, and other systems."
 category: "compare"
 publishDate: "2026-05-15T09:00:00Z"
+
 ---
 
 The public/private distinction is one of the most important structural differences across university systems. It affects cost, admissions, and the nature of education.

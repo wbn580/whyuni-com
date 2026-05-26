@@ -6,6 +6,7 @@ pubDatetime: "2026-04-14T19:19:32Z"
 publishDate: '2026-04-14T19:19:32Z'
 readingTime: 10
 tags: ["featured"]
+
 ---
 
 Every autumn, hundreds of thousands of 17- and 18-year-olds sit down to fill out their college applications, and almost every one of them confronts the same fundamental dilemma: should I choose the more prestigious university with a less certain major, or a less famous school that offers a direct pathway to my intended field? The stakes are not merely emotional. A 2023 report from the Georgetown University Center on Education and the Workforce found that bachelor’s degree holders earn a median of $2.8 million over a lifetime, but that figure varies by more than $1.5 million depending on the specific major chosen. Meanwhile, a 2022 analysis by the U.S. Department of Education’s College Scorecard database showed that the university’s average graduation rate—a proxy for institutional resources and student support—can differ by as much as 35 percentage points between the top and bottom quartiles of four-year institutions, even after controlling for student SAT scores. These two numbers, the $1.5 million major-driven earnings spread and the 35-point graduation-rate gap, frame the central tension: a great university can open doors, but a weak major can close them just as quickly.

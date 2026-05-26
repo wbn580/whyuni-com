@@ -6,6 +6,7 @@ pubDatetime: "2026-04-22T19:21:36Z"
 publishDate: '2026-04-22T19:21:36Z'
 readingTime: 10
 tags: ["featured"]
+
 ---
 
 The first time a student tries to overlay a full-time internship onto a university timetable, the arithmetic usually fails. Internship semesters are now a near-universal expectation: according to the National Association of Colleges and Employers (NACE) 2024 Student Survey, **62.3%** of graduating seniors completed at least one internship before leaving campus, up from 54.2% in 2019. Yet the same survey found that only **38%** of those internships were completed during a formal “co-op” term; the rest were squeezed into summer breaks, part-time slots, or—most painfully—alongside a regular course load. The structural problem is that most universities still design their academic calendars around 15-week residential semesters, while the modern internship runs 10 to 12 weeks at 30–40 hours per week. A student trying to do both simultaneously faces a scheduling conflict that is less about time management and more about institutional rigidity. The solution, however, is not to choose between the classroom and the workplace, but to re-engineer the sequence of courses around the internship’s rhythm. This article walks through a decision framework used by career centers and academic advisors at three of the top-50 U.S. universities—a framework that treats the internship not as a disruption but as the central organizing event of the semester.

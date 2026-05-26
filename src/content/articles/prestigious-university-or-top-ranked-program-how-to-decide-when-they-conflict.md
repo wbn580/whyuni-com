@@ -6,6 +6,7 @@ pubDatetime: "2026-04-14T19:19:48Z"
 publishDate: '2026-04-14T19:19:48Z'
 readingTime: 12
 tags: ["featured"]
+
 ---
 
 Every November, tens of thousands of 17-year-olds open a university offer letter and face a choice that feels almost cruel: a famous-name institution with a middling program, or a lesser-known school with a top-ranked specialty. According to the OECD's *Education at a Glance 2023* report, 87% of tertiary-educated adults in OECD countries hold degrees from institutions that are not considered "global elite" (the top 50 by any major ranking), yet the earnings premium for graduates of those elite schools sits at roughly 22% over the first decade of employment. Meanwhile, the U.S. National Association of Colleges and Employers (NACE) *Job Outlook 2024* survey found that 73% of employers prioritize a candidate's major-specific skills and internship experience over the institution's overall prestige—a figure that has risen steadily from 58% in 2019. These two data points frame the central tension: the brand of the university versus the quality of the program. This article offers a structured decision framework—not a single answer, but a series of diagnostic questions—to help you weigh prestige against program strength when they genuinely conflict.

@@ -6,6 +6,7 @@ pubDatetime: "2026-05-15T19:27:22Z"
 publishDate: '2026-05-15T19:27:22Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 The tension between what you love to study and what you need to earn a living has never been more acute for 17-to-22-year-olds making college decisions. A 2023 survey by the National Association of Colleges and Employers (NACE) found that **61.3%** of employers prioritize a candidate’s major over their GPA when screening entry-level hires, yet the same report noted that **44%** of recent graduates work in jobs that do not require their specific degree. Meanwhile, the Organisation for Economic Co-operation and Development (OECD) reported in its 2022 *Education at a Glance* that bachelor’s degree holders in humanities and arts fields earn, on average, **27% less** over their careers than those in engineering or computer science. These numbers create a quiet crisis: the student who adores medieval literature but needs to pay off a $35,000 loan, or the future biologist who discovers that entry-level lab technician roles pay only $38,000 a year. The standard advice—"follow your passion" or "just pick a practical major"—ignores the messy, personal calculus that actually determines a young adult’s trajectory. This article does not offer a one-size-fits-all answer. Instead, it provides a decision-making framework to help you map your academic interests onto career realities, using data, narrative, and honest trade-offs.

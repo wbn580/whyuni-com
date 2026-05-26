@@ -6,6 +6,7 @@ pubDatetime: "2026-04-28T19:23:18Z"
 publishDate: '2026-04-28T19:23:18Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 In the fall of 2023, the U.S. Department of Education reported that over 19.5 million students were enrolled in degree-granting postsecondary institutions, yet nearly 40% of freshmen at four-year universities did not graduate within six years. That chasm between enrollment and completion is not a failure of intelligence or ambition; it is often a failure of alignment—a student landing at a school whose academic profile, financial reality, or social fabric simply does not match their own. Across the Atlantic, the OECD’s 2022 *Education at a Glance* report found that university dropout rates in countries like Australia and the UK hover above 20%, with financial strain and poor course fit cited as the two leading causes. These numbers tell a quiet story: the most prestigious name on a letter of acceptance is not always the best fit. The architecture of a university shortlist—how you sort your choices into **reach**, **match**, and **safety**—is the single most consequential decision framework a 17- to 22-year-old applicant can build. It is not a ranking exercise. It is a risk-management strategy, a financial planning tool, and a psychological buffer against the chaos of admissions cycles.

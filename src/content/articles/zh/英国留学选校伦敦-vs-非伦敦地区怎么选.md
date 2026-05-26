@@ -6,6 +6,7 @@ pubDatetime: "2026-03-18T19:11:35Z"
 publishDate: '2026-03-18T19:11:35Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 The decision of where to study in the United Kingdom often crystallises into a single, binary question: London or everywhere else? For the 605,130 international students enrolled in UK higher education in the 2022/23 academic year, according to the Higher Education Statistics Agency (HESA 2023/24 Statistical Release), roughly one in three chose an institution within the Greater London region. That concentration is not accidental. London offers a density of global university brands, networking events, and cultural infrastructure unmatched by any other British city. Yet the other two-thirds of international students opted for institutions spread across England, Scotland, Wales, and Northern Ireland, drawn by a different calculus: lower cost of living, tighter-knit campus communities, and, in many cases, equally strong academic reputations. The Office for Students reported in its 2023 Student Accommodation Survey that the average weekly rent for university-managed halls in London was £211, compared to £141 in the rest of the UK—a gap of nearly £3,600 per academic year. That figure alone can reshape a family’s budget. This essay does not aim to crown one side the winner. Instead, it lays out a decision framework that weighs academic fit, career trajectory, financial reality, and personal temperament—because the right answer depends entirely on who you are.

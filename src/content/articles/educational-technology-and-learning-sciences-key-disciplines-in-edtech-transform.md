@@ -6,6 +6,7 @@ pubDatetime: "2026-05-10T19:26:24Z"
 publishDate: '2026-05-10T19:26:24Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 In 2023, the global educational technology market was valued at approximately $123.40 billion by HolonIQ, with projections suggesting it will surpass $348 billion by 2030. Yet behind these staggering figures lies a quieter, more fundamental shift: the emergence of **Educational Technology (EdTech) and Learning Sciences** as distinct academic disciplines. Unlike the consumer-facing apps and hardware that dominate headlines, these fields study how people actually learn and how technology can be engineered to support that process. The U.S. Bureau of Labor Statistics projects a 15% growth in instructional coordinator roles through 2031, but the real transformation is happening in university classrooms where students are no longer passive recipients of digital tools—they are learning to build the next generation of them. For a 17- or 18-year-old deciding between a computer science degree and a psychology major, the rise of these interdisciplinary programs offers a third path: one where code meets cognition, and where a single experiment in a learning lab can reshape how millions of students interact with knowledge.

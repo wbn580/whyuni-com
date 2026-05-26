@@ -6,6 +6,7 @@ pubDatetime: "2026-05-11T19:26:27Z"
 publishDate: '2026-05-11T19:26:27Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 In 2020, the world crossed a stark threshold: the World Health Organization estimated that **970 million people globally** were living with a mental disorder, a figure that had already risen 13 percent over the prior decade before the pandemic accelerated the curve. By 2023, the U.S. Bureau of Labor Statistics projected that employment for substance abuse, behavioral disorder, and mental health counselors would grow by **22 percent from 2021 to 2031**—more than five times the average for all occupations. These are not abstract trends. They represent a structural shift in how societies allocate attention and resources to psychological wellbeing, and they have created a labor market where qualified mental health professionals are in chronic short supply. For a 17- to 22-year-old weighing university options, this field offers something rare: a career path where demand is not speculative but empirically documented, where the work carries deep social meaning, and where the educational pathways are concrete and licensable. The question is not whether society needs more counselors and therapists—the data is clear that it does—but rather which educational route, which specialization, and which institutional choice will position a graduate to meet that demand effectively.

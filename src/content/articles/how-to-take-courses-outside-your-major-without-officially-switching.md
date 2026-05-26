@@ -6,6 +6,7 @@ pubDatetime: "2026-04-19T19:20:48Z"
 publishDate: '2026-04-19T19:20:48Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 At the University of Michigan, roughly 47% of undergraduates graduate with more than one major or minor, according to the university’s 2023–2024 enrollment data. Across the Atlantic, a 2022 report from the Organisation for Economic Co-operation and Development (OECD) found that 63% of tertiary students in member countries who entered a single-discipline program later expressed regret about not having explored a secondary field—yet fewer than one in five actually took steps to do so. These numbers tell a quiet story: the vast majority of college students, at some point, feel the pull of a subject outside their declared major. They want to study computational linguistics while majoring in English, or take environmental economics while officially enrolled in biology. But the logistics of enrolling in a course that “doesn’t belong” to your department can feel opaque, even hostile. This essay is a field guide to navigating that terrain—without submitting a change-of-major form.

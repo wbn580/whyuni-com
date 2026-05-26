@@ -6,6 +6,7 @@ pubDatetime: "2026-03-08T19:09:03Z"
 publishDate: '2026-03-08T19:09:03Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 A decade ago, the choice between an Honors curriculum and a standard degree track was often framed as a simple matter of prestige: take the harder classes, get the shiny certificate, and watch graduate school doors swing open. But the landscape of graduate admissions has shifted. According to the Council of Graduate Schools’ 2023 *International Graduate Admissions Survey*, the average selectivity rate for master’s programs at U.S. research universities has tightened to roughly 42%, meaning that nearly six out of ten applicants are now turned away. Meanwhile, a 2022 study from the National Association of Colleges and Employers (NACE) found that 67% of graduate program directors cited “rigor of undergraduate coursework” as a primary factor in admissions decisions—more important than GPA alone. These numbers force a more nuanced question: is the marginal benefit of an Honors distinction worth the potential cost to your GPA, research time, and mental bandwidth? The answer, as with most high-stakes academic decisions, depends on a careful weighing of signal versus substance, and on understanding exactly what graduate committees are looking for when they scan your transcript.

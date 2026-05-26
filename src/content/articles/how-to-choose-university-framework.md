@@ -5,6 +5,7 @@ category: "guide"
 publishDate: "2026-05-15T04:20:00Z"
 readingTime: 10
 tags: ["university-choice", "decision-framework", "international-students"]
+
 ---
 
 Choosing a university is one of the most consequential decisions an international student makes. Yet most advice focuses on rankings or prestige, ignoring the systematic trade-offs that actually determine whether a student thrives. This guide provides a structured framework for making the choice.

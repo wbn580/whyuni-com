@@ -6,6 +6,7 @@ pubDatetime: "2026-04-19T19:20:56Z"
 publishDate: '2026-04-19T19:20:56Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 The first semester of university is a high-stakes experiment in academic time allocation, and the data suggests most students fail it. According to the 2023 National Survey of Student Engagement (NSSE), only 37% of first-year students reported that their course schedule “very much” helped them adjust to college-level academic demands. Meanwhile, a 2022 report from the U.S. Department of Education’s National Center for Education Statistics (NCES) found that 24.3% of students who started a four-year degree in 2015 had not completed any credential within six years, with poor first-semester GPA cited as the strongest single predictor of attrition. The culprit is rarely intelligence or effort—it is almost always the course selection decisions made in the weeks before orientation. Students walk into registration with optimism and exit with a schedule that combines the most punishing reading load, the most abstract math, and the most competitive grading curve on campus. This article is not about what to take; it is about what to leave on the table. Drawing on institutional data, academic advising literature, and the lived experience of thousands of transcripts, here are five types of classes that should raise red flags for any first-semester student.

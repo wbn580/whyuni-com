@@ -6,6 +6,7 @@ pubDatetime: "2026-04-24T19:22:03Z"
 publishDate: '2026-04-24T19:22:03Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 In 2023, the Organisation for Economic Co-operation and Development (OECD) reported that international students in its member countries contributed an estimated $150 billion to host economies through tuition and living expenses, while the U.S. National Center for Education Statistics (NCES) noted that the average annual cost of tuition and fees for a four-year public university for an out-of-state international student reached $28,240. These figures frame a decision that is as much a financial calculus as it is a personal gamble. For a 17-year-old weighing acceptance letters from universities on different continents, the question “Is it worth it?” is not rhetorical—it is a demand for a ledger with clear entries on both sides. The promise is a globally recognized degree, a network spanning time zones, and a résumé that signals adaptability. The price is a debt that can take decades to clear, a year of cultural dislocation, and the quiet cost of missing birthdays, funerals, and the slow, unremarkable rhythms of home. This analysis does not aim to sell you on an answer. Instead, it builds a decision framework—a cost-benefit spreadsheet for your life—so you can decide for yourself.

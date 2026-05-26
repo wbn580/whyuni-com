@@ -6,6 +6,7 @@ pubDatetime: "2026-04-28T19:23:02Z"
 publishDate: '2026-04-28T19:23:02Z'
 readingTime: 10
 tags: ["featured"]
+
 ---
 
 In 2022, the U.S. National Science Foundation reported that the median time to earn a doctorate across all fields was 5.8 years, with life sciences stretching to 6.5 years and humanities disciplines often exceeding 7.5 years. Over that same half-decade-plus, the median annual salary for a full-time U.S. worker with a master’s degree sat at roughly $80,000, according to the Bureau of Labor Statistics. A PhD candidate, meanwhile, typically receives a stipend between $25,000 and $35,000—a gap that, compounded over six years, exceeds $300,000 in foregone earnings before considering retirement contributions, housing equity, or career trajectory. The decision to pursue a doctorate abroad is not merely an academic one; it is a multi-dimensional bet on delayed gratification, institutional prestige, and the increasingly uncertain promise of a tenure-track outcome. Fewer than 40% of PhD graduates in the humanities secure a tenure-track position within seven years of graduation, per a 2021 report from the American Historical Association. The question is not whether a PhD is intellectually rewarding—it almost certainly is—but whether the opportunity cost, measured in years, income, and psychological resilience, justifies the path for a 22-year-old standing at the crossroads.

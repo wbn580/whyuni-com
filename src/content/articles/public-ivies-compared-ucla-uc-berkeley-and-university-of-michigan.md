@@ -6,6 +6,7 @@ pubDatetime: "2026-05-17T19:28:21Z"
 publishDate: '2026-05-17T19:28:21Z'
 readingTime: 10
 tags: ["featured"]
+
 ---
 
 In 2024, the University of California, Los Angeles received 146,250 applications for its fall freshman class, admitting only 8.6 percent of them, according to the University of California’s annual admissions report. Across the state, UC Berkeley turned away 88.7 percent of its 124,000 applicants, while the University of Michigan in Ann Arbor accepted just 17.9 percent of its 87,000 hopefuls—a figure that has plummeted from 26 percent a decade ago, per the university’s own Office of Undergraduate Admissions. These three institutions, often grouped under the colloquial umbrella of “Public Ivies,” have become as selective as many private elites, yet they operate within vastly different state funding models, tuition structures, and geographic ecosystems. The term itself, coined by Richard Moll in his 1985 book *The Public Ivies: A Guide to America’s Best Public Undergraduate Colleges and Universities*, originally listed eight schools, but the landscape has shifted dramatically: today, UCLA, Berkeley, and Michigan are arguably the most recognizable flagships, each competing for the same pool of high-achieving students while offering distinct academic cultures, career outcomes, and financial realities. Choosing among them is not a matter of ranking alone—it is a decision about where you want to live for four years, how much debt you are willing to carry, and what kind of intellectual community you need to thrive.

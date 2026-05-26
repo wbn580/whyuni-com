@@ -6,6 +6,7 @@ pubDatetime: "2026-05-16T19:27:52Z"
 publishDate: '2026-05-16T19:27:52Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 In 2023, the Organisation for Economic Co-operation and Development (OECD) reported that over 42% of university graduates in member countries work in fields unrelated to their undergraduate major within five years of graduation. Meanwhile, a 2024 survey by the Association of American Colleges and Universities (AAC&U) found that 80% of employers prioritize cross-disciplinary problem-solving skills over single-discipline expertise when hiring recent graduates. These two data points frame a quiet crisis in higher education: the traditional single-major model, designed for a 20th-century workforce, increasingly mismatches the fluid, hybrid demands of modern careers. If you feel torn between computer science and philosophy, or between environmental science and public policy, you are not indecisive—you are seeing the world more accurately than the university catalog does. The real challenge is not choosing one path, but designing a coherent academic journey that honors multiple curiosities without leaving you with a transcript that reads like a fragmented shopping list. This article walks through a decision framework for students with interdisciplinary interests, covering institutional structures, curriculum design strategies, and the practical trade-offs between depth and breadth.

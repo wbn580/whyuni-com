@@ -6,6 +6,7 @@ pubDatetime: "2026-04-20T19:21:19Z"
 publishDate: '2026-04-20T19:21:19Z'
 readingTime: 13
 tags: ["featured"]
+
 ---
 
 A university transcript is a map of intellectual territory, and for too many students, the elective columns read like a detour through the easiest available terrain. In 2024, the National Association of Colleges and Employers (NACE) published its annual *Job Outlook* survey, which found that 82.4% of employers prioritize a candidate’s ability to work in a team—a skill rarely taught in core curriculum lectures. Meanwhile, a 2023 analysis by the Organisation for Economic Co-operation and Development (OECD) tracked the earnings premium associated with specific undergraduate course combinations across 22 countries, concluding that students who paired a technical major with a structured minor in communication or data analysis earned an average of 14.7% more within five years of graduation than those who took unstructured electives. The message is not that you should abandon intellectual curiosity; it is that the elective you choose next semester might be the single most consequential decision of your undergraduate career. The difference between a degree that opens doors and one that merely certifies attendance often comes down to four or five courses selected during registration windows that feel routine. This is not about gaming the system—it is about understanding that employers, when faced with two identical majors, use elective choices as a proxy for judgment, initiative, and foresight.

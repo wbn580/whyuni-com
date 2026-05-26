@@ -6,6 +6,7 @@ pubDatetime: "2026-05-05T19:24:58Z"
 publishDate: '2026-05-05T19:24:58Z'
 readingTime: 10
 tags: ["featured"]
+
 ---
 
 In 2024, Australia hosted 717,358 international students across its tertiary education system, according to the Department of Home Affairs, with roughly 40 percent concentrated in just three cities: Sydney, Melbourne, and Brisbane. This geographic clustering is not accidental—each city anchors a distinct ecosystem of universities, industries, and lifestyle trade-offs that can quietly shape a graduate’s first five years of employment. The Australian Bureau of Statistics reported that Sydney’s median weekly rent for a two-bedroom unit in March 2024 stood at $745, Melbourne’s at $580, and Brisbane’s at $530, a spread that translates into roughly $11,000 per year in housing cost differences alone. Against this backdrop, the choice between the three cities often feels less like a campus decision and more like a bet on one’s future earning trajectory versus day-to-day quality of life. The following framework is built from longitudinal graduate outcome data, city-level employment reports, and the lived experience of students who have navigated each market—not to declare a winner, but to map the trade-offs clearly enough that you can recognise which set of constraints fits your own priorities.

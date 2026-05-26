@@ -6,6 +6,7 @@ pubDatetime: "2026-04-11T19:18:44Z"
 publishDate: '2026-04-11T19:18:44Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 A sociology department’s ranking in *U.S. News & World Report* or the QS World University Rankings often hinges on a single, opaque metric: research output. The 2024 QS Subject Rankings placed Harvard, Oxford, and the University of California—Berkeley at the top of global sociology, largely due to citation counts and faculty publication records. Yet for the 17-to-22-year-old applicant weighing acceptance letters, the difference between a **research-intensive** powerhouse and a **teaching-focused** program can determine not just their undergraduate GPA, but their entire intellectual trajectory. According to the National Center for Education Statistics (NCES, 2023, *Digest of Education Statistics*), only 38% of sociology majors at R1 (very high research activity) universities report having a faculty member who knows their name by junior year, compared to 72% at baccalaureate colleges. Meanwhile, a 2022 American Sociological Association (ASA) survey of 1,400 graduating seniors found that students at teaching-focused programs were nearly twice as likely to complete a capstone research project—62% versus 33% at research-intensive institutions. These numbers expose a fundamental tension: a department’s prestige, as measured by its faculty’s journal placements, may have little to do with the quality of mentorship an undergraduate actually receives.

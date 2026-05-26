@@ -6,6 +6,7 @@ pubDatetime: "2026-05-15T19:27:30Z"
 publishDate: '2026-05-15T19:27:30Z'
 readingTime: 13
 tags: ["featured"]
+
 ---
 
 You arrive on campus with a glossy brochure in hand and the vague sense that you should be asking something more incisive than “Is the cafeteria good?” University open days, for all their free tote bags and guided tours, often leave prospective students with a polished surface impression and very little about the substance of their chosen major. The data suggests this is a critical gap. According to the OECD’s 2023 *Education at a Glance* report, 31% of tertiary students across member countries do not complete their first degree within the expected duration, and a significant proportion of those cite dissatisfaction with their field of study as a primary factor. Meanwhile, a 2024 survey by the National Association of Colleges and Employers (NACE) found that only 57% of graduates felt their major had adequately prepared them for their first job. These numbers point to a simple truth: the decision about your major is too important to leave to the aesthetics of a campus quad. This article is a field guide for the open day—a set of specific, high-leverage questions designed to cut through the marketing and reveal what your academic department actually values, how it teaches, and where it can take you. The goal is not to find the perfect university, but to gather the comparative data you need to make a decision you won’t second-guess in your sophomore year.

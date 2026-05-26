@@ -6,6 +6,7 @@ pubDatetime: "2026-03-04T19:07:54Z"
 publishDate: '2026-03-04T19:07:54Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 The choice between Computer Science (CS) and Software Engineering (SE) has become one of the most consequential decisions for students aiming at a career in tech. In the United States alone, the Bureau of Labor Statistics projects that employment for software developers will grow by **25%** between 2022 and 2032, adding roughly **410,000** new jobs—a rate far outpacing the average for all occupations [BLS, 2023, Occupational Outlook Handbook]. Yet the path to that career is not a single road. CS and SE, though often used interchangeably by outsiders, diverge in curriculum, mindset, and professional licensing requirements. A 2023 study by the National Association of Colleges and Employers found that CS graduates reported an average starting salary of **$78,000**, while SE graduates averaged **$82,000**—a gap that narrows significantly after five years of experience [NACE, 2023, Salary Survey]. But salary is only one variable. The deeper question is how each program shapes the way you think about problems, systems, and the lifecycle of code. This article does not offer a single answer; instead, it builds a decision framework around your personal tolerance for abstraction, your desire for professional licensure, and the specific type of software work you want to do five years from now.
