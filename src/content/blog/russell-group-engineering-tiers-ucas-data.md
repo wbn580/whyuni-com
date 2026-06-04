@@ -5,7 +5,7 @@ pubDatetime: '2026-05-27T00:00:00Z'
 publishDate: '2026-05-27T00:00:00Z'
 modDatetime: '2026-05-27T00:00:00Z'
 slug: russell-group-engineering-tiers-ucas-data
-ogImage: 'https://img.ulec.com.cn/留学-大学决策/russell-group-engineering-tiers-ucas-data-2026-1880x1253.jpg'
+ogImage: 'https://img.whyuni.com/留学-大学决策/russell-group-engineering-tiers-ucas-data-2026-1880x1253.jpg'
 category: 'general'
 tags:
   - '英国工程留学'
@@ -50,7 +50,7 @@ A-Level要求普遍为A*AA至AAA，数学和物理几乎都是必选。部分专
 
 ## 第三梯队：务实之选——利兹、谢菲尔德、伯明翰、卡迪夫等
 
-![whyuni-com 配图](https://img.ulec.com.cn/留学-大学决策/russell-group-engineering-tiers-ucas-data-2026-1880x1253.jpg)
+![whyuni-com 配图](https://img.whyuni.com/留学-大学决策/russell-group-engineering-tiers-ucas-data-2026-1880x1253.jpg)
 
 
 ### 录取率与竞争环境
@@ -87,7 +87,7 @@ UCAS官网提供历史数据工具，各大学官网也会公布部分课程的�
 
 ## 总结：数据不是束缚，而是决策的锚点
 
-![whyuni-com 配图](https://img.ulec.com.cn/留学-大学决策/russell-group-engineering-tiers-ucas-data-2026-1880x1253.jpg)
+![whyuni-com 配图](https://img.whyuni.com/留学-大学决策/russell-group-engineering-tiers-ucas-data-2026-1880x1253.jpg)
 
 
 基于UCAS近年录取数据，将罗素集团工程类专业（如机械、电子、土木）按录取率、A-Level成绩要求、面试/笔试难度划分为三个梯队，分析各校竞争烈度与录取偏好，帮助申请者合理定位选校梯度，避免盲目冲刺或保底失误——这一方法不是为了制造焦虑，而是让你在信息透明的环境中做出更有把握的选择。工程领域申请本质上是一场信息战，越是了解每所学校的真实录取逻辑，你越能把时间和精力花在刀刃上，让5个志愿成为递进有序的目标组合，而非随机排列的赌注。最终，愿每一位工程方向的申请者都能在罗素集团中找到那个既挑战自我、又通向未来的归属。

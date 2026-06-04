@@ -5,7 +5,7 @@ pubDatetime: '2026-05-23T00:00:00Z'
 publishDate: '2026-05-23T00:00:00Z'
 modDatetime: '2026-05-23T00:00:00Z'
 slug: oxford-cambridge-imperial-ucl-lse-cs-masters-admission-data-analysis
-ogImage: 'https://img.ulec.com.cn/留学-大学决策/oxford-cambridge-imperial-ucl-lse-cs-masters-admission-data-analysis-2026-1733x1300.jpg'
+ogImage: 'https://img.whyuni.com/留学-大学决策/oxford-cambridge-imperial-ucl-lse-cs-masters-admission-data-analysis-2026-1733x1300.jpg'
 tags:
   - '英国G5计算机硕士'
   - '牛津计算机录取率'
@@ -82,7 +82,7 @@ A: 是的。LSE自身没有独立的计算机科学系，其相关项目集中�
 
 ## 总结
 
-![whyuni-com 配图](https://img.ulec.com.cn/留学-大学决策/oxford-cambridge-imperial-ucl-lse-cs-masters-admission-data-analysis-2026-1733x1300.jpg)
+![whyuni-com 配图](https://img.whyuni.com/留学-大学决策/oxford-cambridge-imperial-ucl-lse-cs-masters-admission-data-analysis-2026-1733x1300.jpg)
 
 
 英国G5五校的计算机相关硕士项目，表面上是一个个学位选项，实质上代表着五条截然不同的职业与学术发展路径。基于近三年官方录取数据对比录取率、申请者背景和核心课程设置后，我们清晰地看到，牛津和剑桥追求的是计算机科学的理论前沿与研究者气质，帝国理工关心的是工程硬实力和产业衔接力，UCL给跨界者铺设了最坚实的跳板，LSE则在数据与决策的交界处开辟了一片独特的蓝海。分析各校录取偏好与差异的核心目的，不是罗列冷冰冰的数字，而是帮助每一位拥有计算机梦想的申请者，把有限的申请资源精准投入到最可能发光的位置。当你的本科院校、GPA、语言成绩和科研经历被合理地排列组合在这张选校地图上，那封来自G5的录取信就已经完成了最关键的一步。
