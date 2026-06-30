@@ -7,11 +7,12 @@ articles.sort((a, b) => new Date(b.data.publishDate).getTime() - new Date(a.data
 
 const featured = articles.slice(0, 8);
 const categories = [
-    { slug: 'program-comparison', name: 'Program Comparison', desc: 'Program Comparison' },
-    { slug: 'admission-data', name: 'Admission Data', desc: 'Admission Data' },
-    { slug: 'career-outcomes', name: 'Career Outcomes', desc: 'Career Outcomes' },
-    { slug: 'campus-life', name: 'Campus Life', desc: 'Campus Life' },
-    { slug: 'cost-analysis', name: 'Cost & Aid', desc: 'Cost & Aid' },
+    { slug: 'program-comparison', name: 'Program Comparison', desc: 'Head-to-head program comparisons across universities', icon: '🎓' },
+    { slug: 'decision-guides', name: 'Decision Guides', desc: 'Frameworks for making the big call', icon: '🧭' },
+    { slug: 'admission-data', name: 'Admission Data', desc: 'Acceptance rates, yield, and historical trends', icon: '📊' },
+    { slug: 'career-outcomes', name: 'Career Outcomes', desc: 'Graduate salaries and placement by field', icon: '💼' },
+    { slug: 'campus-life', name: 'Campus Life', desc: 'Student experience and culture factors', icon: '🏛️' },
+    { slug: 'cost-analysis', name: 'Cost & Aid', desc: 'Tuition and financial aid comparisons', icon: '💰' },
 ];
 
 const homeSchema = JSON.stringify({
@@ -30,53 +31,86 @@ const homeSchema = JSON.stringify({
 ---
 
 <BaseLayout
-  title="Why This University?"
+  title="Why This University"
   description="Make informed university choices with data-driven comparisons of programs, admission rates, costs, and outcomes across top universities worldwide."
   schema={homeSchema}
 >
-  <!-- Hero -->
-  <section class="max-w-5xl mx-auto px-6 pt-16 pb-12 text-center">
-    <p class="chapter-num text-aus-green text-lg mb-3">I</p>
-    <h1 class="font-heading text-4xl md:text-5xl text-aus-ink font-bold leading-tight mb-4">
-      Why This University?
-    </h1>
-    <p class="text-xl text-aus-muted mb-6 font-heading">
-      Data-driven answers to your college selection questions
-    </p>
-    <p class="max-w-2xl mx-auto text-aus-muted leading-relaxed">
-      Choosing a university is one of the most important decisions you'll make. We provide data-driven comparisons of programs, admission competitiveness, graduate outcomes, and campus life to help you find your best fit — not just the highest-ranked name.
-    </p>
-  </section>
+  <!-- Hero: centered-overlay warm -->
+  <header class="hero">
+    <div class="hero-in">
+      <span class="eyebrow">Why This University · Decision Guides</span>
+      <h1>Choosing where to spend<br><em>four formative years</em></h1>
+      <p class="lead">A calm confident guide to the question every applicant agonises over — why this university and not that one. Analytical depth with human reassurance.</p>
+      <div class="btns">
+        <a href="/category/program-comparison/" class="btn p">Start comparing</a>
+        <a href="/category/decision-guides/" class="btn g">Decision guides</a>
+      </div>
+    </div>
+    <div class="cue">Scroll to decide</div>
+  </header>
 
-  <!-- Categories -->
-  <section class="max-w-5xl mx-auto px-6 pb-16">
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-      {categories.map(cat => (
-        <a
-          href={`/category/${cat.slug}/`}
-          class="block p-5 border border-aus-green/10 rounded-sm hover:border-aus-red/30 hover:bg-white/50 transition-colors no-underline group"
-        >
-          <h2 class="font-heading text-lg text-aus-ink font-bold group-hover:text-aus-red transition-colors">{cat.name}</h2>
-          <p class="text-sm text-aus-muted mt-1">{cat.desc}</p>
-        </a>
-      ))}
+  <!-- Stats bar -->
+  <div class="stats">
+    <div><div class="n">{articles.length}+</div><div class="l">Articles Published</div></div>
+    <div><div class="n">{categories.length}</div><div class="l">Decision Categories</div></div>
+    <div><div class="n">100%</div><div class="l">Independent Analysis</div></div>
+  </div>
+
+  <!-- Decision bento -->
+  <section>
+    <div class="wrap">
+      <div class="sh">
+        <div class="kick">The decision</div>
+        <h2>Why this one and not that one</h2>
+        <p>We turn the overwhelming choice into a clear comparison — strengths trade-offs and fit, side by side, so the decision feels grounded.</p>
+      </div>
+      <div class="bento">
+        <div class="bx big">
+          <div>
+            <div class="ic">⚖️</div>
+            <h3>Head to head</h3>
+            <p>Two universities one decision — strengths weighed across the dimensions that actually matter.</p>
+            <div class="vs">
+              <div class="o"><div class="nm">Compare</div><div class="sc">→</div></div>
+              <div class="x">vs</div>
+              <div class="o"><div class="nm">Decide</div><div class="sc">✓</div></div>
+            </div>
+          </div>
+          <a href="/category/program-comparison/" style="color:#f59e0b;font-weight:600;font-size:14px;margin-top:18px">See full comparison →</a>
+        </div>
+        <a class="bx" href="/category/program-comparison/"><div class="ic">🎓</div><h3>By program</h3><p>Which campus wins for your major.</p></a>
+        <a class="bx" href="/category/decision-guides/"><div class="ic">🧭</div><h3>Decision guides</h3><p>Frameworks for the big call.</p></a>
+        <a class="bx wide" href="/category/decision-guides/"><div class="ic">💡</div><h3>Fit over prestige</h3><p>Why the highest-ranked option is not always the right one — and how to weigh fit cost and outcomes for you.</p></a>
+      </div>
     </div>
   </section>
 
-  <!-- Featured Articles -->
-  <section class="max-w-5xl mx-auto px-6 pb-20">
-    <h2 class="font-heading text-2xl text-aus-ink font-bold mb-8">Latest Analysis</h2>
-    <div class="grid md:grid-cols-2 gap-6">
-      {featured.map(article => (
-        <a
-          href={`/${article.id}/`}
-          class="block p-6 border border-aus-green/10 rounded-sm hover:border-aus-red/30 hover:bg-white/50 transition-colors no-underline group"
-        >
-          <span class="text-xs text-aus-green uppercase tracking-wide">{article.data.category}</span>
-          <h3 class="font-heading text-xl text-aus-ink font-bold mt-1 mb-2 group-hover:text-aus-red transition-colors">{article.data.title}</h3>
-          <p class="text-sm text-aus-muted leading-relaxed">{article.data.description}</p>
-        </a>
-      ))}
+  <!-- Latest articles -->
+  <section style="background:#1e1a14;border-block:1px solid rgba(255,255,255,.09)">
+    <div class="wrap">
+      <div class="sh">
+        <div class="kick">Latest analysis</div>
+        <h2>Help making the call</h2>
+        <p>Precise never pushy quietly persuasive.</p>
+      </div>
+      <div class="agrid">
+        {featured.map((article, i) => {
+          const catSlug = article.data.category?.toLowerCase().replace(/\s+/g, '-') || '';
+          return (
+            <a class={`ac ${i === 0 ? 'feat' : ''}`} href={`/${article.id}/`}>
+              <div class="th">
+                <span class="tag">{article.data.category}</span>
+                {categories.find(c => c.slug === catSlug)?.icon || '📝'}
+              </div>
+              <div class="bd">
+                <h3>{article.data.title}</h3>
+                <p>{article.data.description}</p>
+                <div class="m2">Why This University · {article.data.readingTime ? `${article.data.readingTime} min` : ''}</div>
+              </div>
+            </a>
+          );
+        })}
+      </div>
     </div>
   </section>
 </BaseLayout>

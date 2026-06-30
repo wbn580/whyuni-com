@@ -29,7 +29,7 @@ The counterargument is **earnings differentials**. A 2022 study by the Georgetow
 
 ### The Optionality of a Dual-Track Career
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees. But the real financial question is about **optionality**. A domestic degree locks you into a local salary curve; an international degree opens doors to multiple currency zones. A graduate working in Singapore or London on a global salary can save in a way that a domestic graduate on a local wage cannot. The breakeven point for the $200,000 tuition premium is typically 8–12 years, assuming you secure a high-paying international role. If you return home immediately, the breakeven may never come.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/giving-up-a-top-domestic-university-for-study-abroad-comparing-life-trajectories) to settle fees. But the real financial question is about **optionality**. A domestic degree locks you into a local salary curve; an international degree opens doors to multiple currency zones. A graduate working in Singapore or London on a global salary can save in a way that a domestic graduate on a local wage cannot. The breakeven point for the $200,000 tuition premium is typically 8–12 years, assuming you secure a high-paying international role. If you return home immediately, the breakeven may never come.
 
 ## The Social Network: Alumni Density vs. Geographic Dispersion
 

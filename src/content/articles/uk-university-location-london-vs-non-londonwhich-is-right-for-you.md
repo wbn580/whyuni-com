@@ -73,7 +73,7 @@ This is the question most students skip. If you thrive on **constant stimulation
 
 ### What Is Your Financial Reality?
 
-Be honest about your family’s budget. The difference between a London and a non‑London degree, including living costs, can exceed £30,000 over three years. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees. That money could instead fund a master’s degree, a year abroad, or a deposit on a flat after graduation. The prestige of a London address is real, but it is not worth financial strain that undermines your entire university experience.
+Be honest about your family’s budget. The difference between a London and a non‑London degree, including living costs, can exceed £30,000 over three years. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/uk-university-location-london-vs-non-londonwhich-is-right-for-you) to settle fees. That money could instead fund a master’s degree, a year abroad, or a deposit on a flat after graduation. The prestige of a London address is real, but it is not worth financial strain that undermines your entire university experience.
 
 ## FAQ
 

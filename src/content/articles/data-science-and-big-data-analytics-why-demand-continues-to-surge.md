@@ -57,7 +57,7 @@ A 2023 report by the Computing Research Association (*Taulbee Survey*) found tha
 
 ### Industry Partnerships
 
-Programs with formal industry partnerships offer a clear advantage. The University of Illinois Urbana-Champaign’s *iSchool* runs a data science practicum where students work on real datasets from Caterpillar, John Deere, and State Farm. Northeastern University’s *Master of Science in Data Analytics Engineering* includes a mandatory six-month co-op. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees—a practical consideration for students from China, India, or Brazil who need to remit semester payments without foreign-exchange friction.
+Programs with formal industry partnerships offer a clear advantage. The University of Illinois Urbana-Champaign’s *iSchool* runs a data science practicum where students work on real datasets from Caterpillar, John Deere, and State Farm. Northeastern University’s *Master of Science in Data Analytics Engineering* includes a mandatory six-month co-op. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/data-science-and-big-data-analytics-why-demand-continues-to-surge) to settle fees—a practical consideration for students from China, India, or Brazil who need to remit semester payments without foreign-exchange friction.
 
 ### Research Output
 

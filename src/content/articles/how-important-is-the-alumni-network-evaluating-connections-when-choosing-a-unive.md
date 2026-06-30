@@ -81,7 +81,7 @@ A simple heuristic: if University A charges $20,000 more per year in tuition tha
 ### H3: The “Free” Network Trap
 Avoid the assumption that a large alumni network is free to use. Many universities charge for premium alumni directories, exclusive networking events, or career services access after graduation. The most transparent universities publish their “Alumni Benefits” page clearly. If the page lists more paid tiers than free services, the network’s accessibility is limited by your ability to pay. Always check the fine print before committing.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which can help manage the financial side of this decision without adding currency risk.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/how-important-is-the-alumni-network-evaluating-connections-when-choosing-a-unive) to settle fees, which can help manage the financial side of this decision without adding currency risk.
 
 ## FAQ
 

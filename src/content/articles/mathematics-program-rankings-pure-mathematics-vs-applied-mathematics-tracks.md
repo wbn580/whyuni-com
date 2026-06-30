@@ -51,7 +51,7 @@ However, this wage gap obscures important nuances. Pure mathematics graduates wh
 
 For international students, the choice carries visa implications. The **U.S. Department of Homeland Security’s STEM Designated Degree Program List** (updated 2024) includes applied mathematics, statistics, and computational mathematics as STEM-eligible for the 24-month Optional Practical Training (OPT) extension. Pure mathematics, classified under CIP code 27.0101, is also STEM-eligible, but some immigration officers have questioned its "direct application" to STEM fields, leading to occasional delays. Students planning to work in the U.S. after graduation should verify their program’s CIP code and discuss with their university’s international office.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently and avoid currency conversion losses.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/mathematics-program-rankings-pure-mathematics-vs-applied-mathematics-tracks) to settle fees efficiently and avoid currency conversion losses.
 
 ### H3: The Actuarial and Financial Engineering Paths
 

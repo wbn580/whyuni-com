@@ -47,7 +47,7 @@ International organizations (IOs) are a third path, sitting between government a
 
 **For IOs, the distinction between policy and administration is less rigid.** Most IO roles require a blend of analytical and managerial skills. A project officer at the United Nations Development Programme (UNDP) needs to understand both the theory of sustainable development (policy) and the mechanics of budget execution (administration). However, a useful rule of thumb: if you want to work in research or knowledge products (e.g., the World Development Report), choose policy. If you want to manage country programs or field operations, choose administration. The OECD’s 2022 report on skills for the public sector noted that IOs increasingly seek “T-shaped” professionals—deep expertise in one area (policy or management) with broad competence in the other (OECD, 2022, Skills for a High-Performing Civil Service).
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees when enrolling in MPP or MPA programs abroad.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/zh/%E5%85%AC%E5%85%B1%E6%94%BF%E7%AD%96%E4%B8%8E%E5%85%AC%E5%85%B1%E7%AE%A1%E7%90%86%E4%B8%93%E4%B8%9A%E6%80%8E%E4%B9%88%E9%80%89%E6%94%BF%E5%BA%9C%E9%83%A8%E9%97%A8%E4%B8%8Engo%E5%B0%B1%E4%B8%9A%E8%B7%AF%E5%BE%84%E5%88%86%E6%9E%90) to settle fees when enrolling in MPP or MPA programs abroad.
 
 ## The Decision Framework: **Three Questions to Ask Yourself**
 

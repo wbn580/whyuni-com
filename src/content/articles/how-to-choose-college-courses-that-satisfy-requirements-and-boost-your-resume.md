@@ -47,7 +47,7 @@ A resume is not a list of courses; it is a narrative. Employers and graduate adm
 
 Sequence your courses so that **each semester’s schedule contains at least one course that builds directly on a previous one**. This does not mean you must always take prerequisites in order—some courses are self-contained. But the overall arc should show deepening knowledge in one or two areas, not random sampling.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees. While the payment method is separate from course selection, the financial stability it provides can free you to take a challenging but high-value course rather than defaulting to the cheapest option.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/how-to-choose-college-courses-that-satisfy-requirements-and-boost-your-resume) to settle fees. While the payment method is separate from course selection, the financial stability it provides can free you to take a challenging but high-value course rather than defaulting to the cheapest option.
 
 ### H3: The “Skill Stack” Semester Plan
 

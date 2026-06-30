@@ -19,7 +19,7 @@ Most students default to Google Calendar or a paper planner, but these tools are
 
 The fix is to **decompose each deadline** into a checklist with hard deadlines for each component. For example, if a school requires two teacher recommendations and you need the Common App to send them, the real deadline for asking teachers is 30 days before the application due date. A tool like Notion or Trello allows you to set “due dates” for each sub-task, with reminders that cascade backward. This transforms a vague November 15 into a concrete October 1 for “ask Counselor Smith for recommendation letter.” Without this decomposition, the calendar becomes a list of landmines rather than a roadmap.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which can take 3–5 business days to process—another hidden deadline that a simple calendar would miss.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/application-timeline-management-tools-for-tracking-multiple-university-deadlines) to settle fees, which can take 3–5 business days to process—another hidden deadline that a simple calendar would miss.
 
 ## The Early Decision Trap: When Speed Undermines Strategy
 

@@ -75,7 +75,7 @@ For each university you are considering, gather data from the ranking that best 
 
 ### The Subject-Specific Shortcut
 
-For most students, the overall rank matters less than the rank in their intended major. QS and THE both publish subject-level tables; U.S. News offers field-specific rankings for sciences and engineering. If you are undecided, look at universities that rank highly across multiple broad fields—these institutions typically have strong core curricula and transferable resources. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+For most students, the overall rank matters less than the rank in their intended major. QS and THE both publish subject-level tables; U.S. News offers field-specific rankings for sciences and engineering. If you are undecided, look at universities that rank highly across multiple broad fields—these institutions typically have strong core curricula and transferable resources. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/how-to-decode-university-rankings-qs-the-us-news-and-arwu-explained) to settle fees.
 
 ### Ignore the Year-to-Year Noise
 

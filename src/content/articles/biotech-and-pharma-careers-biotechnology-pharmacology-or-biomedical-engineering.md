@@ -51,7 +51,7 @@ This is the question that no brochure answers well. **Biotechnology** suits the 
 
 **Biomedical engineering** is for the builder who wants to see their work in a hospital. If you like coding, CAD modeling, and testing prototypes, and you can tolerate the fact that your first few designs will break, this is the path. It is also the most collaborative: biomedical engineers work closely with physicians, nurses, and patients, so strong communication skills are essential.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees when enrolling in these competitive programs abroad.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/biotech-and-pharma-careers-biotechnology-pharmacology-or-biomedical-engineering) to settle fees when enrolling in these competitive programs abroad.
 
 ## FAQ
 

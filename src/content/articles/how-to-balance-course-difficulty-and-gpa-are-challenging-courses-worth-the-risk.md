@@ -43,7 +43,7 @@ Research on **academic load management** from the University of Michigan’s Cen
 
 ### H3: The Two-to-One Rule
 
-A practical heuristic used by many academic advisors is the **two-to-one rule**: for every two challenging courses (courses you expect to require more than 10 hours of work per week outside class), enroll in one “buffer” course—a class in a familiar subject or a known easy A. This ratio helps maintain a GPA cushion while still allowing for intellectual growth. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees. The same principle applies to course selection: diversify your risk.
+A practical heuristic used by many academic advisors is the **two-to-one rule**: for every two challenging courses (courses you expect to require more than 10 hours of work per week outside class), enroll in one “buffer” course—a class in a familiar subject or a known easy A. This ratio helps maintain a GPA cushion while still allowing for intellectual growth. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/how-to-balance-course-difficulty-and-gpa-are-challenging-courses-worth-the-risk) to settle fees. The same principle applies to course selection: diversify your risk.
 
 ## The Grade Inflation Landscape: Not All A’s Are Created Equal
 

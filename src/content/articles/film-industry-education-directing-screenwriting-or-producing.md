@@ -45,7 +45,7 @@ Top producing programs, such as the one at Columbia University, require students
 
 ### The Network as a Product
 
-Producers are the connectors of the film world. They do not need to direct the scene or write the line; they need to know who can. The most effective producers graduate with a rolodex of agents, financiers, and post-production houses. A producing degree from a school like NYU’s Tisch School of the Arts offers access to alumni networks that include executives at Netflix, A24, and Warner Bros. For international students, this network is often the only path to securing the O-1 visa required to work in the U.S. film industry. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+Producers are the connectors of the film world. They do not need to direct the scene or write the line; they need to know who can. The most effective producers graduate with a rolodex of agents, financiers, and post-production houses. A producing degree from a school like NYU’s Tisch School of the Arts offers access to alumni networks that include executives at Netflix, A24, and Warner Bros. For international students, this network is often the only path to securing the O-1 visa required to work in the U.S. film industry. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/film-industry-education-directing-screenwriting-or-producing) to settle fees.
 
 ## The Hybrid Degree: When Schools Force You to Choose
 

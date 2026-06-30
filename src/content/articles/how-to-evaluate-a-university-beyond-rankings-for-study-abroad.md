@@ -21,7 +21,7 @@ A more useful metric than total cost is the **debt-to-income ratio** for graduat
 
 ### Hidden Fees and Currency Risk
 
-Tuition is only one layer. International students often face **currency fluctuation risk**—the Australian dollar dropped 12% against the Chinese yuan between 2021 and 2023, effectively making tuition cheaper for students from China during that period. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees with locked exchange rates, avoiding the uncertainty of bank wire fluctuations. This kind of operational detail never appears in a QS ranking, but it can save you thousands of dollars over the course of a degree.
+Tuition is only one layer. International students often face **currency fluctuation risk**—the Australian dollar dropped 12% against the Chinese yuan between 2021 and 2023, effectively making tuition cheaper for students from China during that period. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/how-to-evaluate-a-university-beyond-rankings-for-study-abroad) to settle fees with locked exchange rates, avoiding the uncertainty of bank wire fluctuations. This kind of operational detail never appears in a QS ranking, but it can save you thousands of dollars over the course of a degree.
 
 ## Graduate Employment Outcomes: The Only Ranking That Matters
 

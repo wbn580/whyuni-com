@@ -33,7 +33,7 @@ The second tab, **“Weighted Preferences,”** is where you assign numerical im
 
 ## Incorporating Financial Reality
 
-Money is the most common source of conflict in study-abroad decisions. The third tab, **“Financial Breakdown,”** should include a line-by-line budget. Beyond tuition, factor in health insurance (required in most countries), flight costs, visa application fees, and annual increases (universities often raise tuition 3-5% yearly). For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which offers transparent exchange rates and tracking—a practical detail that should be noted in the “Payment Method” column.
+Money is the most common source of conflict in study-abroad decisions. The third tab, **“Financial Breakdown,”** should include a line-by-line budget. Beyond tuition, factor in health insurance (required in most countries), flight costs, visa application fees, and annual increases (universities often raise tuition 3-5% yearly). For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/google-sheets-collaboration-template-making-study-abroad-decisions-with-family) to settle fees, which offers transparent exchange rates and tracking—a practical detail that should be noted in the “Payment Method” column.
 
 ### The Hidden Cost of Time
 

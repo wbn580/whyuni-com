@@ -49,7 +49,7 @@ Look for explicit partnerships with asset managers, rating agencies (MSCI, Susta
 
 ### Curriculum Flexibility
 
-ESG is evolving rapidly. A curriculum that locks students into rigid course sequences from year one may become obsolete before graduation. The best programs offer elective-heavy structures that allow students to pivot between the E, S, and G pillars as the job market shifts. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while comparing program costs across currencies.
+ESG is evolving rapidly. A curriculum that locks students into rigid course sequences from year one may become obsolete before graduation. The best programs offer elective-heavy structures that allow students to pivot between the E, S, and G pillars as the job market shifts. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/zh/%E7%8E%AF%E5%A2%83%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B2%BB%E7%90%86esg%E4%B8%93%E4%B8%9A%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E6%96%B0%E5%AD%A6%E7%A7%91) to settle fees while comparing program costs across currencies.
 
 ## The Case for Specializing Early vs. Staying Broad
 

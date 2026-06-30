@@ -21,7 +21,7 @@ A 50 percent scholarship sounds transformative until you realize it applies only
 
 ### Currency Risk: The Silent Tuition Tax
 
-If your family’s income is in Chinese yuan, Indian rupees, or Brazilian reais, the tuition figure in US dollars or British pounds is a moving target. Between 2021 and 2023, the yuan weakened by roughly 10 percent against the dollar, meaning a $40,000 tuition effectively rose to $44,000 for a Chinese family—without the university raising a single fee. Some students hedge this risk by paying a semester early when exchange rates are favorable. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to lock in rates and avoid hidden bank fees.
+If your family’s income is in Chinese yuan, Indian rupees, or Brazilian reais, the tuition figure in US dollars or British pounds is a moving target. Between 2021 and 2023, the yuan weakened by roughly 10 percent against the dollar, meaning a $40,000 tuition effectively rose to $44,000 for a Chinese family—without the university raising a single fee. Some students hedge this risk by paying a semester early when exchange rates are favorable. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/tuition-and-scholarships-calculating-the-true-cost-of-studying-abroad) to lock in rates and avoid hidden bank fees.
 
 ## Living Costs: The Expense That Grows While You Sleep
 

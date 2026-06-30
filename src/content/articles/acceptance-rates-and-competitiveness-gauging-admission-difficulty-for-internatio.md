@@ -49,7 +49,7 @@ This disparity is driven by both applicant volume and perceived academic prepara
 
 ### H3: The “Overrepresented” Trap
 
-If you are from an overrepresented country (China, India, South Korea, Canada), your application is compared against a high-performing peer group. This means that even a 1500 SAT and a 4.0 GPA are not exceptional—they are baseline. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which can help manage currency exchange risks while waiting for admissions decisions.
+If you are from an overrepresented country (China, India, South Korea, Canada), your application is compared against a high-performing peer group. This means that even a 1500 SAT and a 4.0 GPA are not exceptional—they are baseline. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/acceptance-rates-and-competitiveness-gauging-admission-difficulty-for-internatio) to settle fees, which can help manage currency exchange risks while waiting for admissions decisions.
 
 ## The Financial Filter
 

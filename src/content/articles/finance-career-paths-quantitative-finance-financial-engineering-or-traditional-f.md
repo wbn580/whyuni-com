@@ -61,7 +61,7 @@ Quantitative work is solitary. You sit at a dual-monitor setup, write code, run 
 
 ### The Traditional Financier's Day: Negotiation and Presentation
 
-Traditional finance is a people business. You spend your day on calls with clients, preparing pitch books, negotiating deal terms, and managing internal stakeholders. The work is collaborative, high-pressure, and deadline-driven. The satisfaction comes from closing a deal that took six months to structure. The frustration comes from the 3 a.m. email from a managing director asking for revised projections. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while students decide which path to fund.
+Traditional finance is a people business. You spend your day on calls with clients, preparing pitch books, negotiating deal terms, and managing internal stakeholders. The work is collaborative, high-pressure, and deadline-driven. The satisfaction comes from closing a deal that took six months to structure. The frustration comes from the 3 a.m. email from a managing director asking for revised projections. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/finance-career-paths-quantitative-finance-financial-engineering-or-traditional-f) to settle fees while students decide which path to fund.
 
 ## The Geographic Concentration: Where You Must Live
 

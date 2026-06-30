@@ -81,7 +81,7 @@ First, coursework. If your hobby is photography and you want to study neuroscien
 
 A single project that connects your hobby to your major is worth more than ten unrelated awards. A student who builds a mobile app that helps local farmers track soil moisture (combining a hobby in coding with an interest in agriculture) has a stronger application than a student who won a regional coding competition but cannot explain why they code. The portfolio principle applies across all fields: show the bridge, not just the two endpoints.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while they focus on building these portfolios.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/connecting-extracurriculars-to-majors-from-hobbies-to-academic-direction) to settle fees while they focus on building these portfolios.
 
 ## FAQ
 

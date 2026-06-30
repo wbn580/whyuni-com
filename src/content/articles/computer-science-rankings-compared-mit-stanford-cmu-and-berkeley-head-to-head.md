@@ -29,7 +29,7 @@ The U.S. News & World Report 2023-2024 rankings place MIT, Stanford, CMU, and Be
 
 Stanford admits approximately 350 undergraduate CS majors per year, and MIT admits around 250. Both schools cap enrollment in upper-division courses to maintain a student-to-faculty ratio below 10:1 in advanced seminars [Stanford CS Undergraduate Program Statistics 2023; MIT Registrar Course 6 Enrollment Data 2023]. This means that a Stanford junior taking CS 229 (Machine Learning) or an MIT junior taking 6.036 (Introduction to Machine Learning) will have their problem sets graded by the professor or a PhD student who holds weekly office hours for groups of 15 or fewer. The cost: at Stanford and MIT, the sticker price exceeds $80,000 per year when room, board, and fees are included, though both schools offer generous need-based aid. MIT’s 2022-2023 financial aid data shows that 58 percent of undergraduates received grant aid, with an average award of $51,000.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently while tracking exchange rates.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/computer-science-rankings-compared-mit-stanford-cmu-and-berkeley-head-to-head) to settle fees efficiently while tracking exchange rates.
 
 ## Career Outcomes: The Industry vs. Academia Divide
 

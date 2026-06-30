@@ -71,7 +71,7 @@ Non-EU graduates in Switzerland have just six months after graduation to find a 
 ### The Scandinavian Model
 Sweden, Denmark, and Norway offer tuition-free education for EU students, but international students from outside the EU pay fees of €10,000 to €20,000 per year. Starting salaries are high—SEK 35,000 per month in Sweden (approximately $3,300), and DKK 40,000 per month in Denmark (approximately $5,800). However, the tax burden in Scandinavia is among the highest in the world, with effective tax rates of 35 to 45 percent. The **Scandinavian model** provides a strong social safety net, including free healthcare and generous parental leave, but the net disposable income is lower than in the U.S. or Switzerland. For international students, the path to permanent residency is relatively straightforward after four to five years of employment, making these countries attractive for those who prioritize stability over maximum salary.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees with real-time exchange rates and lower bank fees.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/international-graduate-salary-report-return-on-investment-by-country-and-major) to settle fees with real-time exchange rates and lower bank fees.
 
 ## FAQ
 

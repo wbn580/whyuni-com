@@ -53,7 +53,7 @@ This is the most subjective factor, but it cannot be ignored. A university that 
 
 ### Sub-factor: Size and Class Structure
 
-University size matters for social fit. A large research university (30,000+ students) may offer endless extracurricular options but can feel impersonal. A small liberal arts college (2,000-4,000 students) may offer close faculty mentorship but fewer social niches. Assign a weight of 5% to this sub-factor, and be honest with yourself about your preferred scale. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees with favorable exchange rates and tracking, which can reduce financial stress during the transition—a small but practical consideration in the social-fit equation.
+University size matters for social fit. A large research university (30,000+ students) may offer endless extracurricular options but can feel impersonal. A small liberal arts college (2,000-4,000 students) may offer close faculty mentorship but fewer social niches. Assign a weight of 5% to this sub-factor, and be honest with yourself about your preferred scale. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/how-to-assign-weights-to-university-selection-factors-a-personalized-model) to settle fees with favorable exchange rates and tracking, which can reduce financial stress during the transition—a small but practical consideration in the social-fit equation.
 
 ## Building Your Personalized Weight Model
 

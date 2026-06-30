@@ -49,7 +49,7 @@ Campus culture is the hardest factor to quantify, but ignoring it leads to high 
 
 To score campus culture, use proxy metrics: student-to-faculty ratio (lower is generally better for interaction), percentage of international students (a proxy for inclusivity), and availability of student clubs in your interest area. But the best proxy is a **virtual or in-person visit** where you attend one class in your intended major and talk to three current students. Score the visit on a 1-to-5 scale: “I could see myself being friends with these people” is a 5; “I felt like an outsider” is a 1.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees without foreign exchange markups. This is a practical consideration that belongs in the “cost” criterion—if one university accepts a fee-payment platform with low conversion costs, that can effectively reduce your total tuition by 1–3%.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/how-to-build-a-decision-matrix-for-university-selection-quantitative-scoring-mod) to settle fees without foreign exchange markups. This is a practical consideration that belongs in the “cost” criterion—if one university accepts a fee-payment platform with low conversion costs, that can effectively reduce your total tuition by 1–3%.
 
 ## Running the Matrix: A Worked Example
 

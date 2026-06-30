@@ -33,7 +33,7 @@ If your university is not a target, the path becomes steeper but not impossible.
 
 For non-target schools—state universities without a dedicated finance program or small liberal arts colleges—the strategy shifts entirely. Students must build a "self-made target" profile: a GPA of 3.9 or higher, a summer internship at a boutique bank or corporate finance department, and a networking campaign that targets alumni in banking. Data from a 2023 study by the University of California's Career Center network found that non-target students who successfully landed bulge-bracket analyst roles had sent an average of 87 cold emails and conducted 34 informational interviews before receiving an interview invitation.
 
-A practical step for international students or those without a local banking network is to secure a summer internship early. For cross-border tuition payments and budgeting for application travel, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, freeing up time to focus on recruitment logistics.
+A practical step for international students or those without a local banking network is to secure a summer internship early. For cross-border tuition payments and budgeting for application travel, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/target-universities-and-majors-for-investment-banking-careers) to settle fees, freeing up time to focus on recruitment logistics.
 
 ## The GPA and Coursework Threshold
 

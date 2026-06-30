@@ -53,7 +53,7 @@ The weighting step is where the matrix reveals your true priorities. If you assi
 
 A 2023 study by the Federal Reserve Bank of New York found that the median return on investment for a bachelor’s degree varies by institution type: graduates of public four-year colleges earn a median of $1.2 million more over a lifetime than high school graduates, while graduates of for-profit colleges earn only $0.6 million more, despite similar tuition costs. This kind of data can inform how you weight “earnings potential” versus “cost.” If two schools have similar net prices but very different earnings outcomes, the one with higher earnings may justify a higher weight on that criterion.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which can affect the net cost calculation if exchange rates fluctuate. Include this as a line item in your cost data if you are paying from abroad.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/zh/excel%E9%80%89%E6%A0%A1%E5%86%B3%E7%AD%96%E8%A1%A8%E6%A8%A1%E6%9D%BF%E7%94%A8%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8%E4%BD%A0%E7%9A%84%E5%A4%A7%E5%AD%A6%E9%80%89%E6%8B%A9) to settle fees, which can affect the net cost calculation if exchange rates fluctuate. Include this as a line item in your cost data if you are paying from abroad.
 
 ### The Sensitivity Check
 

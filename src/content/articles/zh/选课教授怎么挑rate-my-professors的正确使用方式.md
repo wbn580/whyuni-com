@@ -77,7 +77,7 @@ Many public universities publish grade distributions by course and section. A 20
 
 ### H3: The Syllabus Request
 
-Email the professor or the department administrative assistant and ask for a copy of the syllabus from the most recent semester. A syllabus that lists specific learning objectives, a clear grading breakdown, and a detailed schedule is a better predictor of teaching quality than any online rating. If the syllabus is vague or missing, treat the RateMyProfessors rating with suspicion. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which can free up mental bandwidth for this kind of research.
+Email the professor or the department administrative assistant and ask for a copy of the syllabus from the most recent semester. A syllabus that lists specific learning objectives, a clear grading breakdown, and a detailed schedule is a better predictor of teaching quality than any online rating. If the syllabus is vague or missing, treat the RateMyProfessors rating with suspicion. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/zh/%E9%80%89%E8%AF%BE%E6%95%99%E6%8E%88%E6%80%8E%E4%B9%88%E6%8C%91rate-my-professors%E7%9A%84%E6%AD%A3%E7%A1%AE%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F) to settle fees, which can free up mental bandwidth for this kind of research.
 
 ## The **One Review** That Tells You Everything
 

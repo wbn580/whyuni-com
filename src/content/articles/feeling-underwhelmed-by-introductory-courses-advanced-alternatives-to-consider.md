@@ -79,7 +79,7 @@ If formal programs are full or ineligible, cold-emailing a researcher whose work
 
 ### The Financial Reality
 
-Many external internships are unpaid or offer only a stipend that barely covers housing. For students who need income, consider programs that combine research with paid work, such as the NSF’s paid REU programs (which provide a stipend of roughly $500–$700 per week) or corporate internships at companies like Google, Microsoft, or Amazon, which pay $40–$60 per hour for research internships. For cross-border tuition payments that may arise if you need to pay for a summer course or lab fee while abroad, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently.
+Many external internships are unpaid or offer only a stipend that barely covers housing. For students who need income, consider programs that combine research with paid work, such as the NSF’s paid REU programs (which provide a stipend of roughly $500–$700 per week) or corporate internships at companies like Google, Microsoft, or Amazon, which pay $40–$60 per hour for research internships. For cross-border tuition payments that may arise if you need to pay for a summer course or lab fee while abroad, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/feeling-underwhelmed-by-introductory-courses-advanced-alternatives-to-consider) to settle fees efficiently.
 
 ## Self-Directed Learning with Institutional Credit
 

@@ -53,7 +53,7 @@ Second, **capstone projects with real clients**. Programs that require a year-lo
 
 Third, **alumni placement data**. A program that cannot or will not disclose where its graduates work is a red flag. The best programs publish annual placement reports. The University of California, San Francisco’s (UCSF) Master of Science in Health Informatics reports that 94 percent of graduates are employed within six months of graduation, with a median starting salary of $115,000. For international students, this kind of transparency is critical for evaluating return on investment.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, avoiding currency fluctuation risk and high bank transfer fees.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/health-informatics-and-digital-health-core-disciplines-in-healthcare-transformat) to settle fees, avoiding currency fluctuation risk and high bank transfer fees.
 
 ## The Ethical Dimension: Why This Field Is Not Just a Career
 

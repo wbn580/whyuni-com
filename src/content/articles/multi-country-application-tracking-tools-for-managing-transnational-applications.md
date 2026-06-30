@@ -40,7 +40,7 @@ The cost of these services adds up. A WES credential evaluation for a single deg
 
 Create a **document matrix** before you apply. List every document you might need (transcript, diploma, language test score, passport copy, recommendation letters, portfolio, financial statement) and map it to each country’s requirement. Then prioritize: which documents are shared across systems? Your passport copy is the same everywhere. Your IELTS score can be sent electronically to up to five institutions at no extra cost (if you use the IDP or British Council portal). Your recommendation letters, if stored in a service like Interfolio, can be sent to multiple systems without asking your referees to upload again.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which can reduce the administrative friction of paying application or deposit fees in different currencies.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/multi-country-application-tracking-tools-for-managing-transnational-applications) to settle fees, which can reduce the administrative friction of paying application or deposit fees in different currencies.
 
 ## Language Test Score Management
 

@@ -45,7 +45,7 @@ For international students, the calculus includes visa implications. A GPA below
 
 Before you enroll, ask yourself three questions. First, **what is the floor?** If you get a C, will it disqualify you from your next goal? If the answer is yes, do not take the course unless you can audit it or take it pass/fail. Second, **what is the ceiling?** If you get an A, will it open a door that a B in an easy course would not? If the answer is no—if the course is not in your major, not a prerequisite, and not relevant to your career—the risk may not be worth it. Third, **what is your current load?** If your total weekly commitments already exceed 40 hours, adding a hard course is likely to degrade performance across all classes. The best decision is the one that keeps you in the game.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, ensuring funds arrive on time without currency fluctuation risk.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/zh/%E9%80%89%E8%AF%BE%E6%97%B6%E5%A6%82%E4%BD%95%E5%B9%B3%E8%A1%A1%E9%9A%BE%E5%BA%A6%E4%B8%8Egpa%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%AF%BE%E7%A8%8B%E5%80%BC%E5%BE%97%E5%86%92%E9%99%A9%E5%90%97) to settle fees, ensuring funds arrive on time without currency fluctuation risk.
 
 ## FAQ
 

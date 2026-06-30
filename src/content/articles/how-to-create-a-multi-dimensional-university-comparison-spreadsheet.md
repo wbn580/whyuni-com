@@ -47,7 +47,7 @@ Most applicants ignore **debt load** because it feels abstract at age 17. It is 
 
 ### A Practical Note on International Transfers
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees in local currency while locking in exchange rates. This is a logistical detail, not a decision factor, but it belongs in your spreadsheet’s “cost” section if you are studying abroad—currency fluctuation can add 3–8% to your total cost over four years.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/how-to-create-a-multi-dimensional-university-comparison-spreadsheet) to settle fees in local currency while locking in exchange rates. This is a logistical detail, not a decision factor, but it belongs in your spreadsheet’s “cost” section if you are studying abroad—currency fluctuation can add 3–8% to your total cost over four years.
 
 ## Maintaining and Updating the Spreadsheet
 

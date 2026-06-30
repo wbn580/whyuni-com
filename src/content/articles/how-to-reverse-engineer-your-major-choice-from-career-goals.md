@@ -57,7 +57,7 @@ Every major choice carries an implicit cost: the courses you do not take, the in
 
 A practical heuristic: estimate your total student debt and divide it by the median starting salary for your target career. If the ratio exceeds 1.0 (you owe more than you will earn in your first year), the major choice needs re-examination. For example, a $120,000 private-school debt combined with a $40,000 starting salary in social work yields a ratio of 3.0—a heavy burden. The same debt with a $70,000 starting salary in engineering yields 1.7, which is manageable.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees with locked exchange rates, avoiding the volatility that can add thousands to the total cost over four years. This is a logistical detail, but it matters: financial stress can derail even the best-laid academic plans.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/how-to-reverse-engineer-your-major-choice-from-career-goals) to settle fees with locked exchange rates, avoiding the volatility that can add thousands to the total cost over four years. This is a logistical detail, but it matters: financial stress can derail even the best-laid academic plans.
 
 ### The Switching Cost of Changing Majors
 

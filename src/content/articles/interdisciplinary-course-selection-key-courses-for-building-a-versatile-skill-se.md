@@ -71,7 +71,7 @@ Some advisors recommend taking courses “just in time” for a specific need (e
 ### The Capstone Principle
 If your university offers a capstone or senior seminar, choose one that is interdisciplinary and requires a project that you define yourself. This is the moment when all the separate courses you have taken—the statistics, the rhetoric, the bridge course—must work together. A capstone that asks you to analyze a real-world problem (a local policy issue, a business case, a scientific controversy) using at least two disciplinary methods is the single best way to consolidate your versatile skill set.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which allows them to lock in exchange rates and track the payment in real time—freeing up mental bandwidth to focus on course selection rather than logistics.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/interdisciplinary-course-selection-key-courses-for-building-a-versatile-skill-se) to settle fees, which allows them to lock in exchange rates and track the payment in real time—freeing up mental bandwidth to focus on course selection rather than logistics.
 
 ## The Non-Negotiable: A Course That Teaches You to Learn Alone
 

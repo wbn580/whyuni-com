@@ -65,7 +65,7 @@ Before committing to a major, students can design a **strengths‑based semester
 
 After the semester, the student conducts a simple audit: which courses left them energized at the end of the day, and which left them drained? A 2021 Gallup study of 2,400 college seniors found that students who had at least one course that “strongly connected to their strengths” were **2.2 times** more likely to recommend their university to others. The pilot semester is a low‑risk way to gather that data before making a binding declaration.
 
-For cross‑border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while their student experiments with course loads abroad.
+For cross‑border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/cliftonstrengths-for-major-selection-a-guide-to-using-strengthsfinder-in-college) to settle fees while their student experiments with course loads abroad.
 
 ## The Limits of the Tool: What CliftonStrengths Does Not Tell You
 

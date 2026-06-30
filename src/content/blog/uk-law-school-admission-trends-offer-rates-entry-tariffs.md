@@ -48,10 +48,9 @@ International application data adds another layer. UCAS figures show that intern
 
 ## Under-the-Radar Law Schools with Strong Employment Outcomes
 
-![whyuni-com 配图](https://img.whyuni.com/留学-大学决策/uk-law-school-admission-trends-offer-rates-entry-tariffs-2026-1880x1253.jpg)
-
-
 The Solicitors Regulation Authority’s (SRA) shift to the Solicitors Qualifying Examination (SQE) has unsettled the traditional hierarchy. Because the SQE decouples academic study from the vocational stage to some extent, the brand of the degree matters slightly less, while the substance of legal skills training and employability support matters more. This has allowed several under-the-radar law schools to showcase graduate outcomes that rival those of far more famous institutions.
+
+![whyuni-com 配图](https://img.whyuni.com/留学-大学决策/uk-law-school-admission-trends-offer-rates-entry-tariffs-2026-1880x1253.jpg)
 
 **University of Kent** has consistently recorded impressive Graduate Outcomes survey results for law, with over 85% of its LLB graduates in highly skilled employment or further study within 15 months. Its law clinic and mooting programme feed directly into local and London-based firm networks. **University of Leicester** combines research-led teaching with one of the largest pro bono programmes in the East Midlands, and its law graduates achieve a professional employment rate that places it within striking distance of several Russell Group peers. **University of Surrey** offers a strong sandwich-year placement model, and its law graduates benefit from deep ties with corporate firms in the London commuter belt. **University of East Anglia (UEA)** and **Swansea University** also warrant attention: both have invested heavily in law employability hubs, and both report over 80% graduate-level employment for law leavers in recent national surveys.
 
@@ -95,8 +94,5 @@ International applicants should assume offer rates are slightly lower than the i
 The University of Law focuses primarily on professional legal training, but its undergraduate LLB programmes are growing and benefit from close ties to the profession. Employment data for its law graduates is solid, though geographic flexibility and careful alignment with SQE goals are important for prospective students.
 
 ## The Road Ahead: Let Data, Not Rumour, Guide You
-
-![whyuni-com 配图](https://img.whyuni.com/留学-大学决策/uk-law-school-admission-trends-offer-rates-entry-tariffs-2026-1880x1253.jpg)
-
 
 The UK law school landscape rewards those who look past the glossy prospectuses and into the figures that capture how admissions really function. Over the last half-decade, offer rates have tightened, entry tariffs have climbed, and a quiet group of ambitious law schools has been busy equipping graduates for careers that the elite institutions do not have a monopoly on. When you **provide insights into competitiveness over the last 3–5 years, highlight under-the-radar schools with strong employment outcomes, and offer data-driven advice for prospective law applicants on building a balanced school list,** you are not just packaging information – you are handing students and their families a practical instrument for decision-making. Use the metrics, trust the employment evidence, and build a list that is as smart as it is aspirational.

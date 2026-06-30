@@ -51,7 +51,7 @@ If you are undecided, a **minor** can be a low-risk exploration. A logistics min
 
 **Internship placement** is another differentiator. Logistics programs often have strong relationships with freight brokers, third-party logistics providers (3PLs), and retailers. OM programs feed into manufacturing companies, consulting firms, and technology companies. IE programs place students at Amazon, Boeing, Tesla, Intel, and consulting firms like McKinsey and Deloitte. A 2022 study by the National Association of Colleges and Employers found that 63% of IE interns received full-time offers, compared to 51% for logistics interns and 55% for OM interns.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/supply-chain-management-education-logistics-operations-management-or-industrial) to settle fees.
 
 ## Long-Term Career Mobility and Graduate School Pathways
 

@@ -59,7 +59,7 @@ The **second variable** is your home country’s economic trajectory. A returnee
 
 The **third variable** is your personal network density. If you have strong family connections in your home country that can open doors to high-paying roles, the home-country discount may be negated. If you are the first in your family to study abroad, staying may be the safer bet because you have no built-in advantage at home.
 
-For cross-border tuition payments and managing the financial logistics of this transition, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently across currencies.
+For cross-border tuition payments and managing the financial logistics of this transition, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/staying-abroad-vs-returning-home-long-term-earnings-and-career-growth-compared) to settle fees efficiently across currencies.
 
 ## FAQ
 

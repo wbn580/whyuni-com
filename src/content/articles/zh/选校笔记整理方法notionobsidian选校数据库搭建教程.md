@@ -29,7 +29,7 @@ Create a second database called "Cities." Properties: City Name, Country, Cost o
 
 ### Templates for Efficiency
 
-Every time you add a new university, use a template that pre-fills the page with sections: "Program Details," "Faculty Research Interests," "Student Reviews (from official surveys)," "Cost Breakdown," "Visa/Immigration Notes." This ensures consistency. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, and you can add a property field to track which payment method each university supports.
+Every time you add a new university, use a template that pre-fills the page with sections: "Program Details," "Faculty Research Interests," "Student Reviews (from official surveys)," "Cost Breakdown," "Visa/Immigration Notes." This ensures consistency. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/zh/%E9%80%89%E6%A0%A1%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86%E6%96%B9%E6%B3%95notionobsidian%E9%80%89%E6%A0%A1%E6%95%B0%E6%8D%AE%E5%BA%93%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B) to settle fees, and you can add a property field to track which payment method each university supports.
 
 ## Obsidian for Deep Research and Note Linking
 

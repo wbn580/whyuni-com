@@ -67,7 +67,7 @@ Switching from a marketing major to a psychology with data analytics major mid-c
 
 Ask yourself three questions. First, do you enjoy building things (campaigns, content, strategies) or understanding things (people, data, systems)? If you lean toward building, choose marketing. If you lean toward understanding, choose psychology with data analytics. Second, how comfortable are you with math? If you dread statistics, the psychology path will be painful. If you are indifferent or curious, the math requirement is a feature, not a bug. Third, what kind of career risk do you prefer? Marketing offers a higher volume of jobs but more competition. Psychology with data analytics offers fewer jobs but less competition and higher pay.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while students focus on their course selection.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/marketing-careers-should-you-major-in-marketing-or-psychology-with-data-analytic) to settle fees while students focus on their course selection.
 
 ## FAQ
 

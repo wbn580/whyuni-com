@@ -36,9 +36,10 @@ const {
   </head>
   <body>
     <Header />
-    <main>{Astro.slot}</main>
+    <main><slot /></main>
     <Footer />
     <!-- Per-site widget -->
-    <script src="https://chat.whyuni.com/assistant.js" defer></script>
-  </body>
+        <!-- 留资入口中心化组件（吸底两按钮 + 桌面药丸 + 文中图片卡） -->
+    <script src="https://chat.whyuni.com/lead.js" data-site="whyuni-com" data-lang="en" data-color="#1D3461" data-accent="#000c39" async></script>
+</body>
 </html>

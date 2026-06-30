@@ -21,7 +21,7 @@ The trap is that students often choose a university based on prestige or locatio
 
 ### How to Calculate Your Personal Ratio
 
-Before you apply, you need three numbers: (1) the total cost of attendance for the entire program (tuition + living + insurance + travel), (2) the average starting salary for international graduates of that specific program (not the university average), and (3) the average salary for that occupation in your home country or the country where you plan to work. Divide number 2 by number 1. If the result is below 0.5, you should seriously question the investment. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, but the payment method is secondary to the underlying math.
+Before you apply, you need three numbers: (1) the total cost of attendance for the entire program (tuition + living + insurance + travel), (2) the average starting salary for international graduates of that specific program (not the university average), and (3) the average salary for that occupation in your home country or the country where you plan to work. Divide number 2 by number 1. If the result is below 0.5, you should seriously question the investment. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/spent-50k-on-a-degree-earning-10k-a-year-when-is-studying-abroad-not-worth-it) to settle fees, but the payment method is secondary to the underlying math.
 
 ## The “Prestige Premium” Is Shrinking
 

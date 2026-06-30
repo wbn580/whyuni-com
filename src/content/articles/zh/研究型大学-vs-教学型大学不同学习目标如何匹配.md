@@ -75,7 +75,7 @@ If you plan to enter the workforce immediately after a bachelor’s degree, a te
 
 Calculate the net price of each institution using its net price calculator. Factor in graduation rates: a 68% graduation rate at a teaching college means you are more likely to graduate on time, reducing total cost. A research university with a 52% graduation rate may require an extra semester or two, adding $30,000–$60,000 in costs. Do not assume that the lower sticker price is always the better deal.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which can provide transparency and reduce wire-transfer delays.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/zh/%E7%A0%94%E7%A9%B6%E5%9E%8B%E5%A4%A7%E5%AD%A6-vs-%E6%95%99%E5%AD%A6%E5%9E%8B%E5%A4%A7%E5%AD%A6%E4%B8%8D%E5%90%8C%E5%AD%A6%E4%B9%A0%E7%9B%AE%E6%A0%87%E5%A6%82%E4%BD%95%E5%8C%B9%E9%85%8D) to settle fees, which can provide transparency and reduce wire-transfer delays.
 
 ## The Hybrid Option: Institutions That Do Both
 

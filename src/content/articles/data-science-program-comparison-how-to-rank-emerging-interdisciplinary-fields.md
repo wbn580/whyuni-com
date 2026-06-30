@@ -21,7 +21,7 @@ To evaluate any data science program, apply a **three-layer test**: the math lay
 
 ### How to Check for Domain Integration
 
-Look for programs that require a capstone project with an external industry partner. The National Association of Colleges and Employers (2023) reports that 72% of data science employers consider project-based experience more important than GPA. Programs that partner with local hospitals, city governments, or manufacturing firms give students exposure to messy, real-world data—not cleaned textbook datasets. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which can simplify the logistics of paying for programs that require deposits months before visa approval.
+Look for programs that require a capstone project with an external industry partner. The National Association of Colleges and Employers (2023) reports that 72% of data science employers consider project-based experience more important than GPA. Programs that partner with local hospitals, city governments, or manufacturing firms give students exposure to messy, real-world data—not cleaned textbook datasets. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/data-science-program-comparison-how-to-rank-emerging-interdisciplinary-fields) to settle fees, which can simplify the logistics of paying for programs that require deposits months before visa approval.
 
 ## Faculty Composition: The Industry-Academia Ratio
 

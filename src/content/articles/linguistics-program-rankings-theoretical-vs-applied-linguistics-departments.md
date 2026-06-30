@@ -57,7 +57,7 @@ The **placement data** published by departments reveals where graduates actually
 
 ### H3: Industry vs. Academia: Which Path Your Department Feeds
 
-Some departments have explicit industry pipelines. Carnegie Mellon University’s Language Technologies Institute, though technically a computer science unit, places 70% of its graduates in tech companies like Google, Amazon, and Microsoft. Traditional linguistics departments rarely have such strong industry connections. If you want a corporate job, prioritize programs with internships or co-op arrangements. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees before enrollment.
+Some departments have explicit industry pipelines. Carnegie Mellon University’s Language Technologies Institute, though technically a computer science unit, places 70% of its graduates in tech companies like Google, Amazon, and Microsoft. Traditional linguistics departments rarely have such strong industry connections. If you want a corporate job, prioritize programs with internships or co-op arrangements. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/linguistics-program-rankings-theoretical-vs-applied-linguistics-departments) to settle fees before enrollment.
 
 ## Geographic and Institutional Context
 

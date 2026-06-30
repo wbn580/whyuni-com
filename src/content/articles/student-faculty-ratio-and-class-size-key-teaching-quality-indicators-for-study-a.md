@@ -61,7 +61,7 @@ In humanities, small class size is directly correlated with writing improvement.
 
 ## How to Use These Indicators in Your Application Decision
 
-The practical task for an applicant is to triangulate three data points: the published student-faculty ratio, the percentage of classes under 30 students, and the average class size in their intended department. These three numbers together tell a far more accurate story than any single metric. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, but the academic decision itself requires a different kind of due diligence.
+The practical task for an applicant is to triangulate three data points: the published student-faculty ratio, the percentage of classes under 30 students, and the average class size in their intended department. These three numbers together tell a far more accurate story than any single metric. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/student-faculty-ratio-and-class-size-key-teaching-quality-indicators-for-study-a) to settle fees, but the academic decision itself requires a different kind of due diligence.
 
 ### The 60-30-10 Rule of Thumb
 

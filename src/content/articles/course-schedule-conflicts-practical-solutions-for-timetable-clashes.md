@@ -91,7 +91,7 @@ Run a degree audit to see how many semesters you have left. If you are a sophomo
 
 Never drop a course that is a prerequisite for multiple future courses. For example, if Organic Chemistry I is a prerequisite for both Biochemistry and Physical Chemistry, dropping it creates a cascade of delays. Prioritize courses that sit at the top of the prerequisite chain.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees—a practical tool for managing the financial side of schedule adjustments when late registration fees or course-change penalties apply.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/course-schedule-conflicts-practical-solutions-for-timetable-clashes) to settle fees—a practical tool for managing the financial side of schedule adjustments when late registration fees or course-change penalties apply.
 
 ## FAQ
 

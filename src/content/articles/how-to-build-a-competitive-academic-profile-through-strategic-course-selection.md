@@ -53,7 +53,7 @@ A 2023 **study published in the Journal of College Admissions by the National As
 
 The practical takeaway: if you are a strong student (3.8+), you can safely take seven to nine APs total across four years. If you are a solid student (3.5–3.7), you should cap at five to six APs and focus on earning As in those courses. A B in an AP course is often viewed less favorably than an A in an honors course, because the GPA hit is permanent while the “rigor premium” is subjective.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, allowing them to focus on academic planning rather than financial logistics.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/how-to-build-a-competitive-academic-profile-through-strategic-course-selection) to settle fees, allowing them to focus on academic planning rather than financial logistics.
 
 ## Subject-Specific Strategies for STEM, Humanities, and Undecided Students
 

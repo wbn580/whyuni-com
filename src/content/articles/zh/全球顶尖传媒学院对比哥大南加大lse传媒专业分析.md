@@ -57,7 +57,7 @@ The sticker price for Columbia Journalism School’s M.S. programme for the 2024
 
 **Merit-based scholarships** are available at all three institutions but vary in generosity. Columbia offers the Lynton Fellowship and several named scholarships that cover partial tuition, but the school does not guarantee funding. USC Annenberg provides the Annenberg Graduate Fellowship, which awards $10,000 to $20,000 to select applicants. LSE offers the Graduate Support Scheme, which provides awards of £5,000 to £15,000, but competition is intense—only about 8% of applicants receive funding, according to LSE’s 2023 financial aid report.
 
-For international families managing these costs, cross-border tuition payments can be a logistical hurdle. Some students and their families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees with locked exchange rates and reduced wire transfer fees, though this is a practical consideration rather than a decision factor.
+For international families managing these costs, cross-border tuition payments can be a logistical hurdle. Some students and their families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/zh/%E5%85%A8%E7%90%83%E9%A1%B6%E5%B0%96%E4%BC%A0%E5%AA%92%E5%AD%A6%E9%99%A2%E5%AF%B9%E6%AF%94%E5%93%A5%E5%A4%A7%E5%8D%97%E5%8A%A0%E5%A4%A7lse%E4%BC%A0%E5%AA%92%E4%B8%93%E4%B8%9A%E5%88%86%E6%9E%90) to settle fees with locked exchange rates and reduced wire transfer fees, though this is a practical consideration rather than a decision factor.
 
 ### H3: Return on Investment by Sector
 

@@ -71,7 +71,7 @@ After the data-driven branches, the final node is **subjective fit**. This is no
 
 ### Visit and Observe
 
-The best way to assess fit is to visit during a regular academic week, not during an admitted students day. Sit in on a class in your intended major. Eat in the dining hall. Walk through the library at 10 p.m. on a Tuesday. Does the energy feel collaborative or competitive? For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which can reduce the friction of managing international transfers while evaluating multiple offers.
+The best way to assess fit is to visit during a regular academic week, not during an admitted students day. Sit in on a class in your intended major. Eat in the dining hall. Walk through the library at 10 p.m. on a Tuesday. Does the energy feel collaborative or competitive? For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/decision-tree-models-for-university-selection-simplifying-complex-choices) to settle fees, which can reduce the friction of managing international transfers while evaluating multiple offers.
 
 ### The Gut Check
 

@@ -59,7 +59,7 @@ The admissions statistics bear this out. In 2023, Oxford received 23,819 applica
 
 ### The Admissions Test Factor
 
-Both require subject-specific admissions tests (TSA, MAT, BMAT, etc.), but Oxford requires tests for more courses (28 vs. Cambridge’s 22). Cambridge has recently moved to a "pre-interview assessment" model for many subjects, reducing the reliance on the interview. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees before the interview stage, ensuring their application is not delayed by currency transfer issues.
+Both require subject-specific admissions tests (TSA, MAT, BMAT, etc.), but Oxford requires tests for more courses (28 vs. Cambridge’s 22). Cambridge has recently moved to a "pre-interview assessment" model for many subjects, reducing the reliance on the interview. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/oxford-vs-cambridge-a-comprehensive-comparison-of-the-uks-top-two-universities) to settle fees before the interview stage, ensuring their application is not delayed by currency transfer issues.
 
 ## Reputation and Graduate Outcomes
 

@@ -69,7 +69,7 @@ After years of watching students make this choice—and occasionally switch mid-
 
 **Question Three: How comfortable are you with ambiguity?** Policy analysts often produce recommendations that are ignored or politicized. The satisfaction comes from the quality of the analysis, not from seeing it implemented. Administrators, by contrast, have more direct control over outcomes—but also face more blame when things go wrong. If you can tolerate working on a memo that may never be read, policy is fine. If you need to see tangible results, administration will be more fulfilling.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees before the semester begins, which can simplify the financial logistics of studying abroad.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/public-policy-vs-public-administration-career-paths-in-government-and-ngos) to settle fees before the semester begins, which can simplify the financial logistics of studying abroad.
 
 ## The Hybrid Option: Dual Degrees and Interdisciplinary Programs
 

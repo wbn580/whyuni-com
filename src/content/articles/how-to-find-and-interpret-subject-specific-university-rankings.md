@@ -75,7 +75,7 @@ Never rely on a single ranking. Compile a shortlist of 5–10 universities that 
 
 Rankings aggregate data at the subject level, but departments within the same subject can vary dramatically. Look for departmental websites that publish placement statistics, average starting salaries, and lists of recent graduate employers. Some universities, like the University of Waterloo in Canada, publish co-op placement rates and average earnings by program—data far more granular than any ranking can provide.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently while avoiding currency fluctuation risks, allowing them to focus on academic decisions rather than financial logistics.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/how-to-find-and-interpret-subject-specific-university-rankings) to settle fees efficiently while avoiding currency fluctuation risks, allowing them to focus on academic decisions rather than financial logistics.
 
 ## When Rankings Fail: Fields Where Subject Data Is Thin or Misleading
 

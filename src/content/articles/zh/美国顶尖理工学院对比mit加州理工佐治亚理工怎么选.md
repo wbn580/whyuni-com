@@ -63,7 +63,7 @@ Georgia Tech is **holistic but numbers-driven**. The middle 50% SAT range for ad
 
 **Scenario C: You want the broadest range of opportunities — research, entrepreneurship, and a global network.** MIT offers the most versatility. Its brand carries weight in every industry, from finance to biotech to software. The UROP program and the MIT Media Lab provide entry points to fields that don’t exist yet. The cost is high, but for students who qualify for need-based aid, the net price can be comparable to a public university.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees and lock in exchange rates, which can help manage the financial variability between these very different cost structures.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/zh/%E7%BE%8E%E5%9B%BD%E9%A1%B6%E5%B0%96%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E5%AF%B9%E6%AF%94mit%E5%8A%A0%E5%B7%9E%E7%90%86%E5%B7%A5%E4%BD%90%E6%B2%BB%E4%BA%9A%E7%90%86%E5%B7%A5%E6%80%8E%E4%B9%88%E9%80%89) to settle fees and lock in exchange rates, which can help manage the financial variability between these very different cost structures.
 
 ## FAQ
 

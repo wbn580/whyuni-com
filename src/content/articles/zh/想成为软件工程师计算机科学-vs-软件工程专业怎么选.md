@@ -59,7 +59,7 @@ First, abstraction tolerance. If you enjoyed high school math proofs and find be
 
 A useful exercise is to look at the course catalogs of three universities you are considering. Count the number of required courses in mathematics and theory versus courses in project management and testing. If the ratio is heavily skewed toward theory, you are looking at a CS program. If it is balanced or skewed toward practice, it is SE. Then ask yourself: which set of courses would I look forward to attending on a Tuesday morning?
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, though this is a logistical detail that should not drive the academic decision.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/zh/%E6%83%B3%E6%88%90%E4%B8%BA%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6-vs-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E6%80%8E%E4%B9%88%E9%80%89) to settle fees, though this is a logistical detail that should not drive the academic decision.
 
 ## FAQ
 

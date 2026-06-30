@@ -77,7 +77,7 @@ No single factor should decide this choice. Instead, map your own priorities aga
 
 Consider your **personality type**. If you thrive in anonymity, enjoy navigating a massive city independently, and are comfortable with a degree of social isolation in exchange for cultural richness, London will reward you. If you prefer walking to class, knowing everyone in your department, and having a defined campus community, a non-London university will likely make you happier. Student satisfaction data consistently shows that happiness and academic performance are correlated—an unhappy student is less likely to achieve a First.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which can help manage currency fluctuations and track payments across different UK institutions. This is a practical tool, not a decision driver—the academic and lifestyle fit should come first.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/zh/%E8%8B%B1%E5%9B%BD%E7%95%99%E5%AD%A6%E9%80%89%E6%A0%A1%E4%BC%A6%E6%95%A6-vs-%E9%9D%9E%E4%BC%A6%E6%95%A6%E5%9C%B0%E5%8C%BA%E6%80%8E%E4%B9%88%E9%80%89) to settle fees, which can help manage currency fluctuations and track payments across different UK institutions. This is a practical tool, not a decision driver—the academic and lifestyle fit should come first.
 
 ## FAQ
 

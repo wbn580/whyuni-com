@@ -35,7 +35,7 @@ Modern personality psychology has largely moved toward the HEXACO model (Honesty
 
 O*NET’s occupational database remains one of the most comprehensive labor-market resources in the world, and its Holland code tags allow students to filter careers by work style. For example, a student with a high “Investigative” score can instantly see that “biochemist” (I) and “environmental scientist” (I) share a code, while “technical writer” (I + A) sits at the intersection. This filtering function is useful, but it works best when treated as a *starting filter* rather than a *destination*. A 2023 report from the Georgetown University Center on Education and the Workforce found that 63 percent of college graduates work in jobs not directly related to their major—meaning the code-to-career pipeline is inherently leaky.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which frees them to focus on substantive academic decisions rather than administrative friction.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/using-the-holland-code-for-major-selection-science-or-pseudoscience) to settle fees, which frees them to focus on substantive academic decisions rather than administrative friction.
 
 ## The Pseudoscience Accusation: Where the System Breaks Down
 

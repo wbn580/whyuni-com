@@ -73,7 +73,7 @@ LBS values **professional trajectory** and **leadership potential**. The schoolâ
 
 HEC Paris places significant weight on **academic excellence** and **fit with the schoolâ€™s values**. The HEC admissions interview is famously rigorous, often including case questions and behavioral assessments. The school also values candidates who demonstrate interest in French business culture, even if they do not speak French fluently. HEC offers a pre-MBA French language program for admitted students who need to build proficiency before the program starts.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees across different currencies and banking systems.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/european-business-schools-lbs-insead-and-hec-paris-compared) to settle fees across different currencies and banking systems.
 
 ## FAQ
 

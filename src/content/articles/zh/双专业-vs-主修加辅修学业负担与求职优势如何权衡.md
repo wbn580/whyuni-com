@@ -55,7 +55,7 @@ No single path is correct for every student. The framework below is designed to 
 
 **Choose a major plus a minor if:** you are applying to medical school, law school, or a competitive MBA program where GPA is paramount; you need to graduate in four years for financial or personal reasons; you want to explore a secondary interest without the full weight of a second major’s requirements; or you are in a STEM field where the GPA penalty for a double major is most severe.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees securely and track the exchange rate in real time.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/zh/%E5%8F%8C%E4%B8%93%E4%B8%9A-vs-%E4%B8%BB%E4%BF%AE%E5%8A%A0%E8%BE%85%E4%BF%AE%E5%AD%A6%E4%B8%9A%E8%B4%9F%E6%8B%85%E4%B8%8E%E6%B1%82%E8%81%8C%E4%BC%98%E5%8A%BF%E5%A6%82%E4%BD%95%E6%9D%83%E8%A1%A1) to settle fees securely and track the exchange rate in real time.
 
 ## FAQ
 

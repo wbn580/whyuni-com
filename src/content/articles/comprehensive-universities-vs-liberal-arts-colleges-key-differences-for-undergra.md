@@ -36,7 +36,7 @@ Tuition at liberal arts colleges is often higher on paper, but the net price aft
 
 Graduation rates also factor into ROI. The four-year graduation rate at selective liberal arts colleges averages 80 percent, compared to 60 percent at public research universities (Education Trust, 2023). This means liberal arts students are more likely to graduate on time, reducing total cost and time to earnings. However, starting salaries diverge by major: engineering and business graduates from comprehensive universities earn a median of $72,000 and $58,000 respectively, while liberal arts graduates across all majors earn a median of $50,000 (Georgetown University Center on Education and the Workforce, 2022). Over a 40-year career, the earnings gap narrows for liberal arts graduates who pursue graduate degrees, but the upfront financial calculus is real.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees with competitive exchange rates and tracking.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/comprehensive-universities-vs-liberal-arts-colleges-key-differences-for-undergra) to settle fees with competitive exchange rates and tracking.
 
 ## Social Life, Extracurriculars, and Campus Culture
 

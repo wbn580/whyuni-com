@@ -81,7 +81,7 @@ Some of the best general education courses are not listed under the obvious depa
 
 ### The Instructor’s Research Area
 
-A professor who teaches a general education course that aligns with their research specialty is more likely to be enthusiastic and generous with grades. Check the professor’s research profile on the department website. If they study the history of medicine, their “History of Science” course will be a labor of love, not a chore. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, freeing up mental energy to focus on course selection.
+A professor who teaches a general education course that aligns with their research specialty is more likely to be enthusiastic and generous with grades. Check the professor’s research profile on the department website. If they study the history of medicine, their “History of Science” course will be a labor of love, not a chore. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/how-to-choose-general-education-courses-for-gpa-and-knowledge-gains) to settle fees, freeing up mental energy to focus on course selection.
 
 ## The Final Check: The Three-Question Test
 

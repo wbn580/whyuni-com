@@ -1,30 +1,12 @@
----
-const categories = [
-    { slug: "program-comparison", name: "Program Comparison" },
-    { slug: "admission-data", name: "Admission Data" },
-    { slug: "career-outcomes", name: "Career Outcomes" },
-    { slug: "campus-life", name: "Campus Life" },
-    { slug: "cost-analysis", name: "Cost & Aid" },
-];
----
+<nav class="nav" id="nav">
+  <a href="/" class="brand"><b>WhyUni</b><span>DATA-DRIVEN</span></a>
+  <a href="/category/program-comparison/" class="lk">Compare</a>
+  <a href="/category/decision-guides/" class="lk">Guides</a>
+  <a href="/about/" class="lk">About</a>
+  <a href="/category/program-comparison/" class="cta">Start Comparing</a>
+</nav>
 
-<header class="border-b border-aus-green/15 bg-aus-sand/95 backdrop-blur-sm sticky top-0 z-10">
-  <nav class="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
-    <a href="/" class="font-heading text-2xl text-aus-red font-bold tracking-wide no-underline">
-      Why This University
-    </a>
-    <div class="hidden md:flex gap-1 text-sm">
-      {categories.map(cat => (
-        <a
-          href={`/category/${cat.slug}/`}
-          class="px-3 py-1.5 text-aus-muted hover:text-aus-ink hover:bg-aus-green/5 rounded-sm transition-colors no-underline"
-        >
-          {cat.name}
-        </a>
-      ))}
-    </div>
-    <a href="/about/" class="text-sm text-aus-muted hover:text-aus-ink no-underline hidden md:block">
-      About
-    </a>
-  </nav>
-</header>
+<script>
+  const nav = document.getElementById('nav');
+  addEventListener('scroll', () => nav.classList.toggle('scrolled', scrollY > innerHeight * 0.7), { passive: true });
+</script>

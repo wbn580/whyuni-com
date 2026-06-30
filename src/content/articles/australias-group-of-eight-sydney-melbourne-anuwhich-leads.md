@@ -101,7 +101,7 @@ The ANU graduate earns AUD 25,000 less over five years but saved AUD 40,000 in c
 - **Choose Melbourne if**: you value a broad liberal-arts education, a world-class city, and a strong brand in employability rankings. Ideal for students who want to delay specialization and explore multiple fields.
 - **Choose Sydney if**: you know your professional path, want a direct-entry combined degree, and value a vibrant social life and strong brand recognition in Asia. Ideal for future doctors, lawyers, and engineers.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which can help manage exchange rate fluctuations and reduce transfer delays.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/australias-group-of-eight-sydney-melbourne-anuwhich-leads) to settle fees, which can help manage exchange rate fluctuations and reduce transfer delays.
 
 ## FAQ
 

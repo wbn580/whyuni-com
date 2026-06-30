@@ -49,7 +49,7 @@ Not all quantum programs are equal. A student choosing between University of Mar
 
 ### Cost and Return
 
-Tuition for a four-year quantum program at a public U.S. university averages $41,000 per year for out-of-state students, according to the College Board’s 2023 Trends in College Pricing. For international students, that figure rises to $52,000. The return depends on whether the graduate lands a quantum-specific role or pivots to classical software. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, reducing currency conversion costs by an average of 2.8% compared to bank wire transfers.
+Tuition for a four-year quantum program at a public U.S. university averages $41,000 per year for out-of-state students, according to the College Board’s 2023 Trends in College Pricing. For international students, that figure rises to $52,000. The return depends on whether the graduate lands a quantum-specific role or pivots to classical software. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/quantum-computing-and-information-science-potential-in-a-frontier-field) to settle fees, reducing currency conversion costs by an average of 2.8% compared to bank wire transfers.
 
 ## The Timeline Problem: When Will the Industry Mature?
 

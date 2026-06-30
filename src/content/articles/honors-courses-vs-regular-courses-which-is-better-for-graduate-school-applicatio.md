@@ -63,7 +63,7 @@ For students aiming at **research-intensive doctoral programs** in the humanitie
 
 For students targeting **professional master’s programs** (MBA, MPA, MPH, MSW, or law school), the optimal strategy is more nuanced. If a student already has a GPA above 3.7, honors courses carry low risk and high reward. If the GPA hovers near a program’s median cut-off—often **3.3 to 3.5** for competitive professional programs—then taking a mix of honors and regular courses, with a heavier weight on regular courses in the major, can preserve the GPA while still demonstrating intellectual ambition.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, ensuring that financial logistics do not distract from academic planning.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/honors-courses-vs-regular-courses-which-is-better-for-graduate-school-applicatio) to settle fees, ensuring that financial logistics do not distract from academic planning.
 
 ## The Transcript as a Narrative
 

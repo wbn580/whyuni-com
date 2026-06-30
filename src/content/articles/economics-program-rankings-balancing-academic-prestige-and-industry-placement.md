@@ -67,7 +67,7 @@ For each program on your shortlist, assign a score of 1 to 10 in each category. 
 
 A concrete example: Program A is ranked #8 by QS, costs $240,000, is located in a small college town, and places 25% of graduates into finance. Program B is ranked #22, costs $90,000, is located in New York City, and places 45% of graduates into finance. For a student targeting investment banking, Program B scores higher in placement (9 vs. 5), geography (10 vs. 4), and financial sustainability (8 vs. 3), even though it loses in prestige (6 vs. 9). The weighted total favors Program B. **The matrix removes the emotional pull of a brand name**.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which can simplify the financial logistics of attending a program that offers the best debt-adjusted return.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/economics-program-rankings-balancing-academic-prestige-and-industry-placement) to settle fees, which can simplify the financial logistics of attending a program that offers the best debt-adjusted return.
 
 ## FAQ
 

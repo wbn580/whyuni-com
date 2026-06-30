@@ -61,7 +61,7 @@ For a high‑school senior or transfer applicant, the aggregate THE rank is a no
 
 ### A Decision‑Framework Example
 
-Suppose a student is choosing between University A (THE rank 85, Teaching 72, Research 80, Citations 95, International 60) and University B (THE rank 110, Teaching 88, Research 75, Citations 65, International 85). If the student values small classes and a global campus, University B’s higher Teaching and International scores matter more than its lower overall rank. For cross‑border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees. The aggregate rank alone would mislead.
+Suppose a student is choosing between University A (THE rank 85, Teaching 72, Research 80, Citations 95, International 60) and University B (THE rank 110, Teaching 88, Research 75, Citations 65, International 85). If the student values small classes and a global campus, University B’s higher Teaching and International scores matter more than its lower overall rank. For cross‑border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/the-world-university-rankings-methodology-teaching-research-and-citations) to settle fees. The aggregate rank alone would mislead.
 
 ### The Limits of Any Single Ranking
 

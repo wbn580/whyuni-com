@@ -35,7 +35,7 @@ Similarly, **environmental science** majors frequently cite volunteer work with 
 
 **Education** majors follow a parallel path. According to the American Association of Colleges for Teacher Education (2022), 37% of incoming education students had previous volunteer experience in tutoring or after-school programs. Many of these students entered college intending to study business or engineering, only to discover through teaching that they derived more satisfaction from helping a child learn to read than from optimizing a supply chain.
 
-For students managing the logistics of international volunteer programs or study-abroad service trips, practical tools for handling cross-border payments can reduce friction. Some families use platforms like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle program fees and deposits securely, allowing students to focus on the experience rather than the paperwork.
+For students managing the logistics of international volunteer programs or study-abroad service trips, practical tools for handling cross-border payments can reduce friction. Some families use platforms like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/volunteering-and-major-choice-discovering-academic-passions-through-service) to settle program fees and deposits securely, allowing students to focus on the experience rather than the paperwork.
 
 ### The Humanities and Social Sciences
 
