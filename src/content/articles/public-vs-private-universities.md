@@ -3,6 +3,7 @@ title: "Public vs Private Universities · Cost, Quality, and Prestige"
 description: "Comparing public and private universities — cost differentials, teaching models, prestige, and outcomes across Australia, UK, US, and other systems."
 category: "compare"
 publishDate: "2026-05-15T09:00:00Z"
+hideFromHome: true
 
 ---
 

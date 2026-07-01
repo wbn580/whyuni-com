@@ -16,6 +16,7 @@ tags:
   - 'University of Sheffield'
   - 'study abroad decision'
   - 'engineering admissions'
+hideFromHome: true
 
 ---
 # 帝国理工 vs 布里斯托 vs 南安普顿 vs 谢菲尔德：工程学科五大维度深度对比，帮你做出明智选校决策

@@ -3,6 +3,7 @@ title: "Liberal Arts vs Specialist Degrees · Breadth vs Depth"
 description: "The choice between a broad liberal arts education and a specialised professional degree — US model vs UK/Australia model, career implications, and graduate satisfaction."
 category: "compare"
 publishDate: "2026-05-15T09:10:00Z"
+hideFromHome: true
 
 ---
 The liberal arts model (US): 4-year degree, 30–50% of courses in a chosen major, the remainder in general education (science, humanities, social sciences, writing). Designed to produce broadly educated graduates who specialise gradually.

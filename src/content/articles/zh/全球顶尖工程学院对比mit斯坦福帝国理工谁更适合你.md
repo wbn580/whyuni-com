@@ -6,6 +6,7 @@ pubDatetime: "2026-04-09T19:18:17Z"
 publishDate: '2026-04-09T19:18:17Z'
 readingTime: 3
 tags: ["featured"]
+hideFromHome: true
 
 ---
 
