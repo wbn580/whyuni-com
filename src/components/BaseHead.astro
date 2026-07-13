@@ -17,18 +17,24 @@ const {
 
 const SITE_NAME = 'Why This University';
 const BASE_URL = 'https://whyuni.com';
+
+// Prevent title self-duplication: when page title equals site name, use site name alone
+const pageTitle = title === SITE_NAME ? SITE_NAME : `${title} — ${SITE_NAME}`;
+
+// og:image must be absolute URL (not relative); social platforms require scheme+host
+const ogImageUrl = ogImage.startsWith('http') ? ogImage : `${BASE_URL}${ogImage}`;
 ---
 
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>{title} — {SITE_NAME}</title>
+<title>{pageTitle}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonicalURL || BASE_URL} />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content={ogImage} />
+<meta property="og:image" content={ogImageUrl} />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content={SITE_NAME} />
 
