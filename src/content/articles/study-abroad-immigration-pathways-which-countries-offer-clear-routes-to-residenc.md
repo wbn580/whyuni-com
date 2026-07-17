@@ -83,13 +83,12 @@ For Tier 2 occupations (e.g., chef, electrician, early childhood teacher), the g
 
 ## Comparative Decision Framework
 
-| Criteria | Canada | Australia | UK | Germany | New Zealand |
-|----------|--------|-----------|----|---------|-------------|
-| Post-study work duration | Up to 3 years | 2–4 years | 2 years | 18 months | 1–3 years |
-| Employer sponsorship required? | No | Yes (for most routes) | Yes (after GR) | No | Yes (for Green List) |
-| Language requirement | English (CLB 7) | English (IELTS 6.0–7.0) | English (B1 for ILR) | German B1 (for fast track) | English (IELTS 6.5) |
-| Time to PR (typical) | 2–4 years | 3–5 years | 5 years | 21–33 months | 2–4 years |
-| Cost of degree (annual tuition) | CAD $20,000–$50,000 | AUD $30,000–$50,000 | GBP £15,000–£35,000 | EUR €1,500–€15,000 | NZD $30,000–$50,000 |
+- **Post-study work duration**: Up to 3 years · 2–4 years · 2 years · 18 months · 1–3 years
+- **Employer sponsorship required?**: No · Yes (for most routes) · Yes (after GR) · No · Yes (for Green List)
+- **Language requirement**: English (CLB 7) · English (IELTS 6.0–7.0) · English (B1 for ILR) · German B1 (for fast track) · English (IELTS 6.5)
+- **Time to PR (typical)**: 2–4 years · 3–5 years · 5 years · 21–33 months · 2–4 years
+- **Cost of degree (annual tuition)**: CAD $20,000–$50,000 · AUD $30,000–$50,000 · GBP £15,000–£35,000 · EUR €1,500–€15,000 · NZD $30,000–$50,000
+
 
 ## FAQ
 

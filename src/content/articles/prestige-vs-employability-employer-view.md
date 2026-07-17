@@ -23,14 +23,13 @@ When researchers study actual hiring outcomes (who gets the job, controlling for
 
 ## What Actually Predicts Graduate Employability
 
-| Factor | Predictive Power | Controllable by Student |
-|---|---|---|
-| Field of study | Very High | Yes |
-| Work experience during degree | High | Yes |
-| English proficiency | High | Yes (investable) |
-| Professional accreditation | High | Yes (program-dependent) |
-| University attended | Low-Medium | Limited |
-| Grades (within passing range) | Low | Yes |
+- **Field of study**: Very High · Yes
+- **Work experience during degree**: High · Yes
+- **English proficiency**: High · Yes (investable)
+- **Professional accreditation**: High · Yes (program-dependent)
+- **University attended**: Low-Medium · Limited
+- **Grades (within passing range)**: Low · Yes
+
 
 The single highest-ROI activity for an international student seeking Australian employment is **industry placement during the degree**. Universities with mandatory work-integrated learning (WIL) — RMIT, UTS, Swinburne, QUT — produce graduates with higher employment rates than research universities without compulsory WIL, despite lower rankings.
 

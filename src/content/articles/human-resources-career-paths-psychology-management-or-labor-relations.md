@@ -43,14 +43,13 @@ Labor relations jobs are geographically concentrated in states with strong union
 
 ## Comparing the Three Paths Side by Side
 
-| Dimension | I-O Psychology | Management (HR) | Labor Relations |
-|-----------|----------------|-----------------|-----------------|
-| Typical degree level | Master’s minimum | Bachelor’s | Bachelor’s or master’s |
-| Median starting salary | $85,000 | $61,350 | $65,000–$75,000 |
-| Core daily activity | Data analysis, test design | Recruitment, compliance | Bargaining, arbitration |
-| Geographic flexibility | High (global) | High (global) | Low (union-dependent) |
-| Job growth (2023–2033) | 8% (HR general) | 8% | 5% |
-| Emotional intensity | Low–moderate | Moderate | High |
+- **Typical degree level**: Master’s minimum · Bachelor’s · Bachelor’s or master’s
+- **Median starting salary**: $85,000 · $61,350 · $65,000–$75,000
+- **Core daily activity**: Data analysis, test design · Recruitment, compliance · Bargaining, arbitration
+- **Geographic flexibility**: High (global) · High (global) · Low (union-dependent)
+- **Job growth (2023–2033)**: 8% (HR general) · 8% · 5%
+- **Emotional intensity**: Low–moderate · Moderate · High
+
 
 The table above is a simplification, but it captures the **structural trade-offs** that students rarely see when they just search “HR degree.” The I-O path offers the highest starting salary and the most analytical work, but requires a master’s degree and limits you to larger organizations. The management path gets you into the workforce fastest and gives you the widest exposure, but the early years can feel like glorified administration. The labor relations path offers clear rules and high stakes, but ties you to a specific legal geography and demands a confrontational temperament that not everyone has.
 

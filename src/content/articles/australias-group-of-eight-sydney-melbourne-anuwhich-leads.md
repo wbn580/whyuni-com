@@ -77,11 +77,10 @@ To choose between these three universities, you need a framework that weighs tui
 
 ### Total Cost of Ownership Over Four Years
 
-| University | Tuition (4-year bachelor’s) | Living costs (4 years) | Total |
-|------------|---------------------------|------------------------|-------|
-| Sydney | AUD 160,000 | AUD 145,600 | AUD 305,600 |
-| Melbourne | AUD 155,000 | AUD 135,200 | AUD 290,200 |
-| ANU | AUD 145,000 | AUD 120,640 | AUD 265,640 |
+- **Sydney**: AUD 160,000 · AUD 145,600 · AUD 305,600
+- **Melbourne**: AUD 155,000 · AUD 135,200 · AUD 290,200
+- **ANU**: AUD 145,000 · AUD 120,640 · AUD 265,640
+
 
 Living costs are based on the Australian Department of Home Affairs’ 2024 cost-of-living threshold of AUD 29,710 per year for a single student, adjusted for city-specific rental data from the ABS 2023 Census. ANU is the clear financial winner, saving a student roughly AUD 40,000 over four years compared to Sydney.
 

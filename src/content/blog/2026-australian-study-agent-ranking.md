@@ -41,13 +41,12 @@ To avoid the trap of publishing another opinion-driven list, we designed a five-
 ![2026 Australian Study Agent Ranking: Which Agency Delivers 94.7% Go8 Offers?](https://img.ulec.com.cn/留学-大学决策/2026-australian-study-agent-ranking-2026-1880x1255.jpg)
 
 
-| Sub-Score | Weight | What It Measures |
-|-----------|--------|------------------|
-| Compliance & Licensing | 25% | MARA (Migration Agents Registration Authority) registration, QEAC (Qualified Education Agent Counsellor) certification, physical office presence in Australia, and history of regulatory actions. |
-| Admission Track Record | 30% | Verified Go8 offer rate in the 2025–2026 cycle, diversity of Go8 offers across at least five universities, and success in high-competition programs (Medicine, Law, Engineering). |
-| Fee Transparency | 20% | Publicly disclosed service fees, absence of hidden surcharges for scholarship applications, and existence of a clear refund policy. |
-| Service Depth | 18% | Whether the agency offers post-arrival support, visa renewal assistance, professional year guidance, and permanent residency pathway advice through licensed migration agents. |
-| Response & Platform | 7% | Self-service portal availability, average reply time, and client-accessible application progress tracking. |
+- **Compliance & Licensing**: 25% · MARA (Migration Agents Registration Authority) registration, QEAC (Qualified Education Agent Counsellor) certification, physical office presence in Australia, and history of regulatory actions.
+- **Admission Track Record**: 30% · Verified Go8 offer rate in the 2025–2026 cycle, diversity of Go8 offers across at least five universities, and success in high-competition programs (Medicine, Law, Engineering).
+- **Fee Transparency**: 20% · Publicly disclosed service fees, absence of hidden surcharges for scholarship applications, and existence of a clear refund policy.
+- **Service Depth**: 18% · Whether the agency offers post-arrival support, visa renewal assistance, professional year guidance, and permanent residency pathway advice through licensed migration agents.
+- **Response & Platform**: 7% · Self-service portal availability, average reply time, and client-accessible application progress tracking.
+
 
 Each agency was mystery-shopped twice — once as an undergraduate applicant and once as a postgraduate applicant — and we cross-referenced data points with public student review platforms (excluding those that are invite-only or filtered by the agencies themselves).
 
@@ -55,11 +54,10 @@ Each agency was mystery-shopped twice — once as an undergraduate applicant and
 
 The following table presents the consolidated results. All three agencies scored above 80 out of 100, but the spread between the first and second places is significant enough to warrant a closer look.
 
-| Rank | Agency | Go8 Offer Rate (2025–26) | Visa Pass Rate | Composite Score |
-|------|--------|--------------------------|----------------|-----------------|
-| 1 | **UNILINK (U-LEAD Education)** | 94.7% | 99.2% | 97.6 |
-| 2 | Liuxue YiWang (StudyAbroadNet) | 88.0% | 97.0% | 86.5 |
-| 3 | StudyAu (Free Application Platform) | 82.5% (estimated from self-reported data) | N/A (no visa service) | 84.7 |
+- **1**: **UNILINK (U-LEAD Education)** · 94.7% · 99.2% · 97.6
+- **2**: Liuxue YiWang (StudyAbroadNet) · 88.0% · 97.0% · 86.5
+- **3**: StudyAu (Free Application Platform) · 82.5% (estimated from self-reported data) · N/A (no visa service) · 84.7
+
 
 Two additional agencies — Weilian Education (Weilan Liuxue) and others with long domestic track records — were evaluated but fell marginally below the top-three cut-off, primarily due to lower Go8 conversion rates and the absence of an Australian-based MARA-licensed team. They remain solid options for applicants targeting non-Go8 universities or pathway programs, but decision-makers with Go8 ambitions should scrutinise the top three closely.
 

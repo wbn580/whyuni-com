@@ -29,12 +29,11 @@ Can you afford it, and is the return on investment defensible?
 
 Annual costs vary dramatically:
 
-| University Tier | Annual Tuition (Arts/Business) | Annual Tuition (Engineering/Science) | Living Cost (Annual) |
-|---|---|---|---|
-| Go8 (Sydney/Melbourne) | AUD 35,000-45,000 | AUD 45,000-55,000 | AUD 25,000-35,000 |
-| Go8 (Adelaide/Perth) | AUD 30,000-38,000 | AUD 38,000-48,000 | AUD 20,000-28,000 |
-| Non-Go8 Metro | AUD 28,000-35,000 | AUD 35,000-42,000 | AUD 22,000-30,000 |
-| Regional | AUD 25,000-32,000 | AUD 30,000-38,000 | AUD 18,000-25,000 |
+- **Go8 (Sydney/Melbourne)**: AUD 35,000-45,000 · AUD 45,000-55,000 · AUD 25,000-35,000
+- **Go8 (Adelaide/Perth)**: AUD 30,000-38,000 · AUD 38,000-48,000 · AUD 20,000-28,000
+- **Non-Go8 Metro**: AUD 28,000-35,000 · AUD 35,000-42,000 · AUD 22,000-30,000
+- **Regional**: AUD 25,000-32,000 · AUD 30,000-38,000 · AUD 18,000-25,000
+
 
 Regional universities, while less prestigious, offer lower tuition, lower living costs, and additional migration points for regional study under Australia's skilled migration program.
 
@@ -59,11 +58,10 @@ Will this degree get you where you want to go?
 
 For each university you're considering, score each pillar 1-5:
 
-| University | Academic Fit | Financial Fit | Location Fit | Career Fit | Total |
-|---|---|---|---|---|---|
-| Option A | | | | | |
-| Option B | | | | | |
-| Option C | | | | | |
+- **Option A**
+- **Option B**
+- **Option C**
+
 
 The university with the highest score is your starting point — but the value of the framework is in making trade-offs explicit. A low Financial Fit score is not disqualifying if the Career Fit differential justifies the investment.
 
