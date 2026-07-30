@@ -53,7 +53,7 @@ const articleSchema = JSON.stringify({
     <header class="mb-10">
       <nav class="text-sm text-aus-muted mb-4">
         <a href="/" class="hover:text-amber-2 no-underline">Home</a> /
-        <a href={`/category/${category.toLowerCase().replace(/\s+/g, '-')}/`} class="hover:text-amber-2 no-underline"> {category}</a> /
+        <span> {category}</span> /
         <span class="text-aus-ink">{title}</span>
       </nav>
       <h1 class="font-heading text-3xl md:text-4xl text-aus-ink font-bold leading-tight mb-4">
@@ -72,8 +72,8 @@ const articleSchema = JSON.stringify({
     <footer class="mt-16 pt-8 border-t border-white/10">
       <nav class="flex justify-between text-sm">
         <a href="/" class="text-amber-2 hover:text-amber no-underline">&larr; Back to Home</a>
-        <a href={`/category/${category.toLowerCase().replace(/\s+/g, '-')}/`} class="text-amber-2 hover:text-amber no-underline">
-          More in {category} &rarr;
+        <a href="/#notes" class="text-amber-2 hover:text-amber no-underline">
+          More decision notes &rarr;
         </a>
       </nav>
     </footer>

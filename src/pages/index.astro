@@ -1,116 +1,200 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
 const articles = await getCollection('articles', ({ data }) => !data.draft);
 articles.sort((a, b) => new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime());
-
-const featured = articles.slice(0, 8);
-const categories = [
-    { slug: 'program-comparison', name: 'Program Comparison', desc: 'Head-to-head program comparisons across universities', icon: '🎓' },
-    { slug: 'decision-guides', name: 'Decision Guides', desc: 'Frameworks for making the big call', icon: '🧭' },
-    { slug: 'admission-data', name: 'Admission Data', desc: 'Acceptance rates, yield, and historical trends', icon: '📊' },
-    { slug: 'career-outcomes', name: 'Career Outcomes', desc: 'Graduate salaries and placement by field', icon: '💼' },
-    { slug: 'campus-life', name: 'Campus Life', desc: 'Student experience and culture factors', icon: '🏛️' },
-    { slug: 'cost-analysis', name: 'Cost & Aid', desc: 'Tuition and financial aid comparisons', icon: '💰' },
-];
-
-const homeSchema = JSON.stringify({
+const featured = articles.slice(0, 3);
+const title = 'WhyUni · Choose a university with reasons you can defend';
+const description = 'Compare universities and courses through evidence, trade-offs and personal fit, then carry a clearer decision into your application.';
+const schema = {
   '@context': 'https://schema.org',
   '@type': 'WebSite',
-  name: 'Why This University',
-  url: 'https://whyuni.com',
-  description: 'Make informed university choices with data-driven comparisons of programs, admission rates, costs, and outcomes across top universities worldwide.',
-  inLanguage: 'en',
-  potentialAction: {
-    '@type': 'SearchAction',
-    target: 'https://whyuni.com/?q={{search_term_string}}',
-    'query-input': 'required name=search_term_string',
-  },
-});
+  name: 'WhyUni',
+  url: 'https://whyuni.com/',
+  description,
+};
 ---
-
-<BaseLayout
-  title="Why This University"
-  description="Make informed university choices with data-driven comparisons of programs, admission rates, costs, and outcomes across top universities worldwide."
-  schema={homeSchema}
->
-  <!-- Hero: centered-overlay warm -->
-  <header class="hero">
-    <div class="hero-in">
-      <span class="eyebrow">Why This University · Decision Guides</span>
-      <h1>Choosing where to spend<br><em>four formative years</em></h1>
-      <p class="lead">A calm confident guide to the question every applicant agonises over — why this university and not that one. Analytical depth with human reassurance.</p>
-      <div class="btns">
-        <a href="/category/program-comparison/" class="btn p">Start comparing</a>
-        <a href="/category/decision-guides/" class="btn g">Decision guides</a>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <link rel="canonical" href="https://whyuni.com/" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta name="theme-color" content="#3c173d" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://whyuni.com/" />
+    <title>{title}</title>
+    <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="shell nav-row">
+        <a class="brand" href="/" aria-label="WhyUni home">
+          <span class="brand-dot">W</span>
+          <span>WhyUni<small>DECISIONS WITH REASONS</small></span>
+        </a>
+        <nav aria-label="Primary navigation">
+          <a href="#compare">Compare</a>
+          <a href="#method">Decision method</a>
+          <a href="#notes">Decision notes</a>
+          <a class="nav-cta" href="mailto:hello@whyuni.com?subject=WhyUni%20decision%20brief" data-open-lead-form>Talk through my shortlist</a>
+        </nav>
       </div>
-    </div>
-    <div class="cue">Scroll to decide</div>
-  </header>
+    </header>
 
-  <!-- Stats bar -->
-  <div class="stats">
-    <div><div class="n">{articles.length}+</div><div class="l">Articles Published</div></div>
-    <div><div class="n">{categories.length}</div><div class="l">Decision Categories</div></div>
-    <div><div class="n">100%</div><div class="l">Independent Analysis</div></div>
-  </div>
-
-  <!-- Decision bento -->
-  <section>
-    <div class="wrap">
-      <div class="sh">
-        <div class="kick">The decision</div>
-        <h2>Why this one and not that one</h2>
-        <p>We turn the overwhelming choice into a clear comparison — strengths trade-offs and fit, side by side, so the decision feels grounded.</p>
-      </div>
-      <div class="bento">
-        <div class="bx big">
-          <div>
-            <div class="ic">⚖️</div>
-            <h3>Head to head</h3>
-            <p>Two universities one decision — strengths weighed across the dimensions that actually matter.</p>
-            <div class="vs">
-              <div class="o"><div class="nm">Compare</div><div class="sc">→</div></div>
-              <div class="x">vs</div>
-              <div class="o"><div class="nm">Decide</div><div class="sc">✓</div></div>
+    <main>
+      <section class="hero">
+        <div class="shell hero-grid">
+          <div class="hero-copy">
+            <p class="issue"><span>THE DECISION EDITION</span><i></i><span>01 / WHY</span></p>
+            <h1>Choose with reasons<br /><em>you can defend.</em></h1>
+            <p class="hero-lead">Compare the course, the place and the trade-offs—not just the logo. WhyUni helps you turn a crowded shortlist into a clear decision, then carry that decision into the application.</p>
+            <p class="zh">把院校、课程、城市与取舍放在一起比较，再把清晰的选校理由衔接到申请。</p>
+            <div class="hero-actions">
+              <a class="primary" href="#compare">Open the comparison brief <b>↘</b></a>
+              <a href="mailto:hello@whyuni.com?subject=WhyUni%20decision%20brief" data-open-lead-form>Discuss my shortlist <b>↗</b></a>
             </div>
+            <p class="response">A considered reply within one business day · 一个工作日内回复</p>
           </div>
-          <a href="/category/program-comparison/" style="color:#f59e0b;font-weight:600;font-size:14px;margin-top:18px">See full comparison →</a>
-        </div>
-        <a class="bx" href="/category/program-comparison/"><div class="ic">🎓</div><h3>By program</h3><p>Which campus wins for your major.</p></a>
-        <a class="bx" href="/category/decision-guides/"><div class="ic">🧭</div><h3>Decision guides</h3><p>Frameworks for the big call.</p></a>
-        <a class="bx wide" href="/category/decision-guides/"><div class="ic">💡</div><h3>Fit over prestige</h3><p>Why the highest-ranked option is not always the right one — and how to weigh fit cost and outcomes for you.</p></a>
-      </div>
-    </div>
-  </section>
 
-  <!-- Latest articles -->
-  <section style="background:#1e1a14;border-block:1px solid rgba(255,255,255,.09)">
-    <div class="wrap">
-      <div class="sh">
-        <div class="kick">Latest analysis</div>
-        <h2>Help making the call</h2>
-        <p>Precise never pushy quietly persuasive.</p>
-      </div>
-      <div class="agrid">
-        {featured.map((article, i) => {
-          const catSlug = article.data.category?.toLowerCase().replace(/\s+/g, '-') || '';
-          return (
-            <a class={`ac ${i === 0 ? 'feat' : ''}`} href={`/${article.id}/`}>
-              <div class="th">
-                <span class="tag">{article.data.category}</span>
-                {categories.find(c => c.slug === catSlug)?.icon || '📝'}
-              </div>
-              <div class="bd">
+          <aside class="comparison-sheet" aria-label="Sample university comparison sheet">
+            <div class="sheet-top">
+              <span>SHORTLIST / 02</span>
+              <strong>DECISION BRIEF</strong>
+              <i>W—014</i>
+            </div>
+            <div class="question">
+              <small>THE REAL QUESTION</small>
+              <h2>Which course gives me the stronger fit—not just the stronger name?</h2>
+            </div>
+            <div class="compare-head">
+              <span></span><b>OPTION A</b><b>OPTION B</b>
+            </div>
+            <div class="score-row"><span>Course structure</span><i><b style="--score:84%"></b></i><i><b style="--score:68%"></b></i></div>
+            <div class="score-row"><span>Location fit</span><i><b style="--score:62%"></b></i><i><b style="--score:88%"></b></i></div>
+            <div class="score-row"><span>Cost clarity</span><i><b style="--score:76%"></b></i><i><b style="--score:70%"></b></i></div>
+            <div class="sheet-note"><b>→</b><span>Scores start the conversation.<br />Evidence and trade-offs decide it.</span></div>
+          </aside>
+        </div>
+      </section>
+
+      <section class="marquee" aria-label="Decision dimensions">
+        <div class="shell">
+          <span>COURSE</span><i>×</i><span>OUTCOMES</span><i>×</i><span>PLACE</span><i>×</i><span>COST</span><i>×</i><span>PERSONAL FIT</span>
+        </div>
+      </section>
+
+      <section class="compare-section section" id="compare">
+        <div class="shell">
+          <div class="section-head">
+            <p>02 / SIDE BY SIDE</p>
+            <h2>Not a ranking table.<br />A decision you can explain.</h2>
+            <p>Every shortlist hides a different question. We make that question explicit, compare like with like and record which trade-offs matter to you.</p>
+          </div>
+          <div class="folio">
+            <article class="folio-intro">
+              <span>THE COMPARISON FOLIO</span>
+              <h3>Four lenses.<br />One grounded choice.</h3>
+              <p>Use current university and course information as evidence. Add your priorities. Then test whether the conclusion still holds.</p>
+              <a href="mailto:hello@whyuni.com?subject=WhyUni%20decision%20brief" data-open-lead-form>Build my decision brief <b>↗</b></a>
+            </article>
+            <article><b>01</b><small>ACADEMIC FIT</small><h3>What will you actually study?</h3><p>Compare core units, electives, teaching format, assessment and entry requirements.</p></article>
+            <article><b>02</b><small>OUTCOME FIT</small><h3>Where could the course lead?</h3><p>Look past broad claims to relevant pathways, accreditation where applicable and realistic next steps.</p></article>
+            <article><b>03</b><small>PLACE & LIFE</small><h3>Can you live this choice?</h3><p>City, commute, community, housing and everyday rhythm belong in the decision.</p></article>
+            <article><b>04</b><small>COST & RISK</small><h3>What changes the plan?</h3><p>Compare published fees and likely extras, then mark the assumptions that need verification.</p></article>
+          </div>
+        </div>
+      </section>
+
+      <section class="method section" id="method">
+        <div class="shell method-grid">
+          <div class="method-title">
+            <p>03 / DECISION METHOD</p>
+            <h2>From “I like it”<br />to “here is why.”</h2>
+          </div>
+          <ol>
+            <li><span>01</span><div><strong>Name the decision</strong><p>Define the course, intake and two or three realistic options.</p></div></li>
+            <li><span>02</span><div><strong>Set your evidence</strong><p>Use current course pages and institution requirements; flag anything still unclear.</p></div></li>
+            <li><span>03</span><div><strong>Weight the trade-offs</strong><p>Decide which differences change the choice for you—and which are just noise.</p></div></li>
+            <li><span>04</span><div><strong>Carry it into the application</strong><p>Turn the chosen direction into the next application checks, timeline and materials.</p></div></li>
+          </ol>
+        </div>
+      </section>
+
+      <section class="notes section" id="notes">
+        <div class="shell">
+          <div class="section-head compact">
+            <p>04 / DECISION NOTES</p>
+            <h2>Read before<br />you commit.</h2>
+            <p>Independent guides for the questions behind the shortlist. Verify current details with the relevant institution before acting.</p>
+          </div>
+          <div class="note-grid">
+            {featured.map((article, index) => (
+              <a href={`/${article.id}/`}>
+                <small>{String(index + 1).padStart(2, '0')} / {article.data.category || 'DECISION GUIDE'}</small>
                 <h3>{article.data.title}</h3>
                 <p>{article.data.description}</p>
-                <div class="m2">Why This University · {article.data.readingTime ? `${article.data.readingTime} min` : ''}</div>
-              </div>
-            </a>
-          );
-        })}
+                <b>Read the note →</b>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section class="boundary section">
+        <div class="shell boundary-grid">
+          <div><p>05 / KEEP IT HONEST</p><h2>The institution’s current rules remain the source of truth.</h2></div>
+          <div>
+            <p>WhyUni supports comparison, decision-making and the handoff into an application. It does not guarantee admission, scholarships, credit, visas or outcomes, and it does not speak for universities or government bodies.</p>
+            <p>Delivery entity, country, institution, service scope and fees are confirmed in writing. Any free application assistance excludes school, government and third-party fees.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="closing">
+        <div class="shell closing-grid">
+          <p>WHY THIS ONE?</p>
+          <div>
+            <h2>Bring the shortlist.<br />Leave with the reasons.</h2>
+            <a href="mailto:hello@whyuni.com?subject=WhyUni%20decision%20brief" data-open-lead-form>Talk through my shortlist <b>↗</b></a>
+            <small>Within one business day · 一个工作日内回复</small>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="shell footer-grid">
+        <a class="brand" href="/"><span class="brand-dot">W</span><span>WhyUni<small>DECISIONS WITH REASONS</small></span></a>
+        <p>University and course comparison for a clearer decision—and a better-informed application.</p>
+        <div><a href="#compare">Compare</a><a href="#method">Decision method</a><a href="#notes">Decision notes</a><a href="/about/">About</a><a href="mailto:hello@whyuni.com">hello@whyuni.com</a></div>
       </div>
-    </div>
-  </section>
-</BaseLayout>
+      <div class="shell footer-bottom"><span>© 2026 WhyUni.com</span><span>Independent planning support. Not a university or government body.</span></div>
+    </footer>
+
+    <script src="https://chat.whyuni.com/lead.js?v=20260726-home-preview" data-site="whyuni-com" data-lang="en" data-apply-base="https://apply.whyuni.com" data-color="#3c173d" data-accent="#f0a17d" async></script>
+  </body>
+</html>
+
+<style is:global>
+  :root{--plum:#3c173d;--plum2:#5f2d60;--peach:#f0a17d;--lav:#d8c9e6;--cream:#f8f2e9;--paper:#fffaf3;--ink:#251826;--muted:#746675;--line:rgba(60,23,61,.17);--shell:min(1180px,calc(100% - 56px))}
+  *{box-sizing:border-box}html{overflow-x:clip;scroll-behavior:smooth}body{overflow-x:clip;margin:0;color:var(--ink);background:var(--cream);font-family:Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}a{color:inherit;text-decoration:none}.shell{width:var(--shell);margin-inline:auto}
+  .lead-bar{right:0!important;left:0!important;width:100%!important;max-width:100vw!important}.lead-bar .lb-btn{min-width:0!important;width:auto!important}
+  .site-header{position:absolute;z-index:10;top:0;left:0;width:100%;color:var(--paper);border-bottom:1px solid rgba(255,255,255,.18)}.nav-row{display:flex;min-height:82px;align-items:center;justify-content:space-between;gap:30px}.brand{display:flex;align-items:center;gap:12px;font-weight:850;letter-spacing:-.045em}.brand-dot{display:grid;width:35px;height:35px;place-content:center;color:var(--plum);background:var(--peach);border-radius:50%;font-family:Georgia,serif;font-size:1.25rem;font-style:italic}.brand>span:last-child{display:grid;font-size:1.08rem}.brand small{font-size:.46rem;font-weight:750;letter-spacing:.16em}.site-header nav{display:flex;align-items:center;gap:30px;font-size:.72rem;font-weight:700}.nav-cta{display:flex;min-height:42px;align-items:center;padding:0 17px;color:var(--plum);background:var(--peach)}
+  .hero{overflow:hidden;min-height:880px;color:var(--paper);background:var(--plum)}.hero-grid{display:grid;grid-template-columns:minmax(0,1.02fr) minmax(420px,.78fr);align-items:center;gap:clamp(70px,9vw,130px);min-height:880px;padding-top:120px}.issue{display:flex;align-items:center;gap:14px;margin:0 0 34px;color:var(--peach);font-size:.6rem;font-weight:850;letter-spacing:.13em}.issue i{width:64px;height:1px;background:currentColor}.hero h1{margin:0;font-family:Georgia,"Times New Roman",serif;font-size:clamp(4.5rem,7.5vw,7.8rem);font-weight:400;letter-spacing:-.065em;line-height:.84}.hero h1 em{display:block;margin-top:16px;color:var(--peach);font-style:italic}.hero-lead{max-width:660px;margin:36px 0 0;color:rgba(255,250,243,.72);font-size:1rem;line-height:1.75}.zh{max-width:630px;margin:13px 0 0;color:var(--lav);font-size:.82rem;line-height:1.7}.hero-actions{display:flex;align-items:center;gap:24px;margin-top:34px}.hero-actions a{font-size:.75rem;font-weight:800}.hero-actions .primary{display:flex;min-height:54px;align-items:center;gap:30px;padding:0 18px;color:var(--plum);background:var(--peach)}.hero-actions a:not(.primary){padding-bottom:4px;border-bottom:1px solid rgba(255,255,255,.45)}.response{margin:17px 0 0;color:rgba(255,255,255,.48);font-size:.64rem}
+  .comparison-sheet{position:relative;padding:30px;color:var(--ink);background:var(--paper);box-shadow:18px 18px 0 var(--peach);transform:rotate(-1deg)}.comparison-sheet::before{position:absolute;top:0;right:75px;width:1px;height:100%;background:rgba(240,161,125,.35);content:""}.sheet-top{display:grid;grid-template-columns:1fr auto auto;align-items:center;gap:16px;padding-bottom:20px;border-bottom:1px solid var(--line);font-size:.54rem;font-weight:850;letter-spacing:.1em}.sheet-top strong{color:var(--plum2)}.sheet-top i{display:grid;width:46px;height:46px;place-content:center;color:var(--paper);background:var(--plum);border-radius:50%;font-style:normal}.question{padding:26px 0;border-bottom:1px solid var(--line)}.question small{color:var(--plum2);font-size:.54rem;font-weight:900;letter-spacing:.12em}.question h2{max-width:390px;margin:13px 0 0;font-family:Georgia,serif;font-size:1.65rem;font-weight:400;letter-spacing:-.035em;line-height:1.12}.compare-head,.score-row{display:grid;grid-template-columns:1.2fr 1fr 1fr;gap:18px;align-items:center}.compare-head{padding:20px 0 10px;color:var(--plum2);font-size:.52rem;letter-spacing:.11em}.score-row{padding:15px 0;border-top:1px solid var(--line);font-size:.67rem}.score-row>i{height:6px;background:#e8dfe4}.score-row>i b{display:block;width:var(--score);height:100%;background:var(--plum2)}.score-row:nth-of-type(2)>i b{background:var(--peach)}.sheet-note{display:flex;gap:14px;margin-top:18px;padding:18px;color:var(--paper);background:var(--plum);font-size:.63rem;line-height:1.5}.sheet-note>b{color:var(--peach)}
+  .marquee{color:var(--paper);background:var(--plum2)}.marquee .shell{display:flex;min-height:96px;align-items:center;justify-content:space-between;gap:18px;font-size:.64rem;font-weight:850;letter-spacing:.12em}.marquee i{color:var(--peach);font-family:Georgia,serif;font-size:1.1rem}
+  .section{padding:120px 0}.section-head{display:grid;grid-template-columns:190px minmax(0,.95fr) minmax(280px,.55fr);align-items:end;gap:50px}.section-head>p:first-child,.method-title>p,.boundary-grid>div:first-child>p{align-self:start;margin:4px 0;color:var(--plum2);font-size:.59rem;font-weight:900;letter-spacing:.12em}.section-head h2,.method h2,.boundary h2,.closing h2{margin:0;font-family:Georgia,serif;font-size:clamp(3.8rem,6vw,6.2rem);font-weight:400;letter-spacing:-.06em;line-height:.9}.section-head>p:last-child{margin:0;color:var(--muted);font-size:.9rem;line-height:1.75}.folio{display:grid;grid-template-columns:1.1fr 1fr 1fr;margin-top:80px;border-top:1px solid var(--line);border-left:1px solid var(--line)}.folio article{position:relative;min-height:310px;padding:30px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--paper)}.folio article>b{color:var(--peach);font-family:Georgia,serif;font-size:1.5rem;font-style:italic}.folio small,.folio-intro>span{display:block;margin-top:46px;color:var(--plum2);font-size:.55rem;font-weight:900;letter-spacing:.12em}.folio h3{margin:13px 0 10px;font-family:Georgia,serif;font-size:1.75rem;font-weight:400;letter-spacing:-.04em;line-height:1.05}.folio p{color:var(--muted);font-size:.76rem;line-height:1.65}.folio-intro{grid-row:span 2;color:var(--paper)!important;background:var(--plum)!important}.folio-intro>span{margin:0;color:var(--peach)}.folio-intro h3{margin-top:30px;font-size:3.1rem}.folio-intro p{color:rgba(255,255,255,.66)}.folio-intro a{position:absolute;right:30px;bottom:30px;left:30px;display:flex;min-height:50px;align-items:center;justify-content:space-between;padding:0 16px;color:var(--plum);background:var(--peach);font-size:.69rem;font-weight:850}
+  .method{color:var(--paper);background:var(--plum)}.method-grid{display:grid;grid-template-columns:minmax(0,.82fr) minmax(420px,.72fr);gap:clamp(80px,12vw,170px)}.method-title>p{color:var(--peach)}.method ol{margin:0;padding:0;border-top:1px solid rgba(255,255,255,.2);list-style:none}.method li{display:grid;grid-template-columns:48px 1fr;gap:20px;padding:26px 0;border-bottom:1px solid rgba(255,255,255,.2)}.method li>span{color:var(--peach);font-family:Georgia,serif;font-style:italic}.method strong{font-family:Georgia,serif;font-size:1.35rem;font-weight:400}.method li p{margin:7px 0 0;color:rgba(255,255,255,.58);font-size:.75rem;line-height:1.6}
+  .section-head.compact{grid-template-columns:190px minmax(0,.85fr) minmax(280px,.5fr)}.note-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;margin-top:72px;background:var(--line);border:1px solid var(--line)}.note-grid a{display:flex;min-height:330px;flex-direction:column;padding:30px;background:var(--paper)}.note-grid small{color:var(--plum2);font-size:.53rem;font-weight:900;letter-spacing:.1em;text-transform:uppercase}.note-grid h3{margin:46px 0 13px;font-family:Georgia,serif;font-size:1.65rem;font-weight:400;letter-spacing:-.035em;line-height:1.08}.note-grid p{margin:0;color:var(--muted);font-size:.75rem;line-height:1.65}.note-grid b{margin-top:auto;padding-top:24px;color:var(--plum2);font-size:.67rem}
+  .boundary{background:var(--lav)}.boundary-grid{display:grid;grid-template-columns:minmax(0,.8fr) minmax(420px,.7fr);gap:clamp(80px,11vw,160px)}.boundary h2{font-size:clamp(3.4rem,5.4vw,5.4rem)}.boundary-grid>div:last-child{padding-top:50px}.boundary-grid>div:last-child p{color:#5d4d60;font-size:.82rem;line-height:1.8}.closing{padding:110px 0;color:var(--paper);background:var(--plum2)}.closing-grid{display:grid;grid-template-columns:210px 1fr;gap:80px}.closing-grid>p{margin:5px 0;color:var(--peach);font-size:.58rem;font-weight:900;letter-spacing:.13em;writing-mode:vertical-rl}.closing a{display:flex;width:fit-content;min-height:54px;align-items:center;gap:34px;margin-top:36px;padding:0 18px;color:var(--plum);background:var(--peach);font-size:.72rem;font-weight:850}.closing small{display:block;margin-top:14px;color:rgba(255,255,255,.58)}
+  footer{padding:66px 0 26px;color:rgba(255,255,255,.64);background:#241025}.footer-grid{display:grid;grid-template-columns:230px 1fr 210px;gap:48px;align-items:start}.footer-grid>p{max-width:460px;margin:0;font-size:.76rem;line-height:1.7}.footer-grid>div{display:grid;gap:11px;font-size:.68rem}.footer-bottom{display:flex;justify-content:space-between;gap:28px;margin-top:54px;padding-top:20px;border-top:1px solid rgba(255,255,255,.14);font-size:.61rem}
+  :focus-visible{outline:3px solid var(--peach);outline-offset:4px}
+  @media(max-width:960px){:root{--shell:min(100% - 36px,780px)}.site-header nav a:not(.nav-cta){display:none}.hero-grid{grid-template-columns:1fr;padding-top:150px;padding-bottom:110px}.comparison-sheet{max-width:580px}.section-head,.section-head.compact{grid-template-columns:1fr}.folio{grid-template-columns:1fr 1fr}.folio-intro{grid-row:auto;grid-column:span 2;min-height:360px}.method-grid,.boundary-grid{grid-template-columns:1fr}.note-grid{grid-template-columns:1fr}.note-grid a{min-height:260px}.footer-grid{grid-template-columns:1fr 1fr}}
+  @media(max-width:620px){.nav-row{min-height:72px}.nav-cta{display:none!important}.hero{min-height:auto}.hero-grid{min-height:auto;padding-top:130px;padding-bottom:90px}.hero h1{font-size:clamp(3.7rem,17vw,5.4rem)}.hero-actions{align-items:flex-start;flex-direction:column}.comparison-sheet{padding:20px;box-shadow:10px 10px 0 var(--peach);transform:none}.question h2{font-size:1.35rem}.marquee .shell{overflow:hidden;justify-content:flex-start;white-space:nowrap}.section{padding:86px 0}.section-head h2,.method h2,.boundary h2,.closing h2{font-size:clamp(3.2rem,15vw,4.7rem)}.folio{grid-template-columns:1fr}.folio-intro{grid-column:auto}.method-grid{gap:60px}.closing-grid{grid-template-columns:1fr}.closing-grid>p{writing-mode:initial}.footer-grid{grid-template-columns:1fr}.footer-bottom{align-items:flex-start;flex-direction:column}}
+  @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>

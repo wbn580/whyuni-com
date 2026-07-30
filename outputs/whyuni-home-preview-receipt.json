@@ -1,0 +1,46 @@
+{
+  "schema": "cowork.site-home-preview-receipt.v1",
+  "site": "whyuni-com",
+  "domain": "whyuni.com",
+  "captured_at": "2026-07-26T22:10:00+08:00",
+  "state": {
+    "homepage_preview": "built",
+    "full_site": "existing-content-preserved-link-debt-remediated",
+    "deployment": "not_performed",
+    "public_readback": "not_applicable"
+  },
+  "positioning": "University reasons, course comparison and decision support leading into application.",
+  "design_direction": "Editorial decision journal and comparison folio; plum, peach, lavender and paper.",
+  "artifacts": {
+    "homepage_source": "src/pages/index.astro",
+    "ui_kit": "brand/ui-kit.html",
+    "brand_standard": "brand/brand-standard.md",
+    "brand_tokens": "brand/brand-tokens.css",
+    "desktop_screenshot": "outputs/preview/whyuni-home-desktop-1440.png",
+    "mobile_screenshot": "outputs/preview/whyuni-home-mobile-390.png"
+  },
+  "hashes": {
+    "homepage_source_sha256": "945228dc554fa792aa1d92c12845eb8616451faad4ca9381dad6a7d388c45174",
+    "homepage_build_sha256": "9a2525da13960d3c6563769bf326b23370c5c2d3692be044449c354fe85986ff",
+    "desktop_screenshot_sha256": "4fbf042d3758ef13f200da85a6987cdccbfd12f3fbe4cac0ce3d10bee70f38ac",
+    "mobile_screenshot_sha256": "31532079b7863ad51536fd5d190e56de40f07ae6582849a050c8e1c079d30cdd"
+  },
+  "verification": {
+    "build": "PASS_419_pages",
+    "owner_fingerprint": "PASS_419_html",
+    "desktop_viewport": "PASS_1440x1000",
+    "mobile_viewport": "PASS_390x844",
+    "horizontal_overflow": 0,
+    "lead_script_count_home": 1,
+    "lead_cta_count_home": 4,
+    "mailto_fallback_all_ctas": true,
+    "response_copy": "within one business day",
+    "homepage_internal_targets": "PASS",
+    "repository_wide_broken_targets_after_repair": 0,
+    "repository_wide_broken_instances_after_repair": 0,
+    "repository_wide_unique_internal_targets": 413,
+    "representative_inner_page_browser_regression": "PASS_DESKTOP_AND_390x844"
+  },
+  "known_boundary": "Historical category-link debt is resolved. The redesigned homepage and repaired full-site build remain local and are not deployed pending visual confirmation.",
+  "deployment_authorized": false
+}

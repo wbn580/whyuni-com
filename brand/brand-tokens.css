@@ -1,0 +1,14 @@
+:root {
+  --whyuni-plum: #3c173d;
+  --whyuni-plum-2: #5f2d60;
+  --whyuni-peach: #f0a17d;
+  --whyuni-lavender: #d8c9e6;
+  --whyuni-cream: #f8f2e9;
+  --whyuni-paper: #fffaf3;
+  --whyuni-ink: #251826;
+  --whyuni-muted: #746675;
+  --whyuni-serif: Georgia, "Times New Roman", serif;
+  --whyuni-sans: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --whyuni-radius: 0;
+  --whyuni-rule: rgba(60, 23, 61, .17);
+}
