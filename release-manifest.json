@@ -1,0 +1,14 @@
+{
+  "site": "whyuni-com",
+  "domain": "whyuni.com",
+  "articles": [
+    {
+      "slug": "whyuni-com-0864",
+      "title": "2027 留学选校：如何通过录取要求与学术背景参考判断匹配度",
+      "release_date": "2026-07-02",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "39ca10dc79d25892a055286f111b035b51ece88336e3c7f80c40a82b17ae9e7f"
+    }
+  ],
+  "generated_at": "2026-08-01T12:50:29Z"
+}
