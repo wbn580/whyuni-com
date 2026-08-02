@@ -8,6 +8,7 @@ readingTime: 13
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学决策/double-major-vs-major-with-minor-workload-and-career-advantage-analysis-2026-1453x1300.jpg"
 ---
 
 The decision to pursue a double major versus a major with a minor is one of the most consequential academic choices a university student will make, yet it is often reduced to a simple question of ambition. The data, however, reveals a more nuanced calculus. According to the U.S. Department of Education’s National Center for Education Statistics (NCES, 2023, *Digest of Education Statistics*), only 12.6% of bachelor’s degree recipients in the 2019–2020 academic year graduated with a double major, while the proportion completing a major with a minor is estimated at roughly 25–30% across four-year institutions. The gap in career outcomes is equally striking: a 2022 analysis by the Georgetown University Center on Education and the Workforce found that double majors earn, on average, a 3.4% wage premium over single-major graduates in the first five years post-graduation, while those who complete a major with a minor see a more modest 1.8% premium. These figures suggest that the choice is not simply about stacking credentials; it is a strategic trade-off between workload intensity and the marginal utility of each additional credential. For a 19-year-old staring down a course catalog, the real question is not whether you can handle more classes, but whether the specific combination you choose will open doors that a single path would leave locked.

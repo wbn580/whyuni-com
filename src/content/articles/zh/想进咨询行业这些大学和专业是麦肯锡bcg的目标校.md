@@ -7,6 +7,7 @@ publishDate: '2026-03-02T19:07:31Z'
 readingTime: 3
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/大学决策/想进咨询行业这些大学和专业是麦肯锡bcg的目标校-2026-1280x854.jpg"
 ---
 
 In the fall of 2023, McKinsey & Company received over 200,000 applications for approximately 6,000 entry-level consultant positions globally—an acceptance rate of roughly 3%, more selective than Harvard College’s 3.4% undergraduate admit rate that same year. For a senior analyst at Bain & Company, the median total compensation in the United States now exceeds $112,000 per year, according to the firm’s 2024 self-reported data to the U.S. Office of Foreign Labor Certification. These numbers explain why thousands of undergraduates obsess over a single question: which university and major will give me the best shot at a first-round interview? The answer, supported by internal hiring audits and third-party analyses from **Management Consulted** and the **2023 QS World University Rankings by Subject**, is that consulting firms operate a clear two-tier system. There are “core target schools”—roughly 12 to 15 institutions globally that produce 70 to 80 percent of all entry-level hires—and then there is everyone else. The path is not democratic; it is algorithmic. And understanding that algorithm is the single highest-leverage decision a 17-to-22-year-old can make.

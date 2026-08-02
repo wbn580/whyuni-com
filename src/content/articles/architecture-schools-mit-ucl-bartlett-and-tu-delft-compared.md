@@ -7,6 +7,7 @@ publishDate: '2026-05-21T19:29:14Z'
 readingTime: 11
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/大学决策/architecture-schools-mit-ucl-bartlett-and-tu-delft-compared-2026-1733x1300.jpg"
 ---
 
 In 2025, the QS World University Rankings placed the Massachusetts Institute of Technology (MIT) first globally for Architecture & Built Environment, University College London’s Bartlett School of Architecture second, and Delft University of Technology (TU Delft) third. This top-three lock has held steady for five consecutive years, a concentration of prestige that forces a brutal question on any applicant: does the ranking order actually map onto the kind of architect you want to become? The OECD reported in 2023 that architecture graduates from these three institutions earn a median salary premium of 42% over the global average for the profession within five years of graduation, but the distribution is wildly uneven—MIT alumni cluster in high-tech urban design and real-estate development, Bartlett alumni dominate speculative and conceptual practice, and TU Delft alumni lead in sustainable infrastructure and large-scale European public works. The numbers tell you what the outcomes are, but they do not tell you which outcome fits. The real difference between these schools is not a score out of 100; it is a fundamental disagreement about what architecture is for.

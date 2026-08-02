@@ -7,6 +7,7 @@ publishDate: '2026-05-11T19:26:36Z'
 readingTime: 9
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/大学决策/digital-marketing-and-e-commerce-analytics-sustained-growth-in-a-post-pandemic-w-2026-1880x1299.jpg"
 ---
 
 Global e-commerce sales reached $5.8 trillion in 2023, according to the United Nations Conference on Trade and Development (UNCTAD), a figure that has more than doubled since 2019. The pandemic did not merely accelerate digital adoption—it rewired consumer expectations permanently. By Q2 2024, the U.S. Census Bureau reported that e-commerce accounted for 15.6% of total retail sales, up from 11.8% in Q1 2020, and the upward trajectory shows no sign of flattening. Behind these numbers lies a structural shift: businesses that once treated digital channels as an auxiliary storefront now depend on data-driven marketing and analytics to survive. For a 17- to 22-year-old weighing university programs, the question is no longer *whether* to study digital marketing and e-commerce analytics, but *which* institution offers the curriculum, industry connections, and analytical depth to turn this sustained growth into a career. The stakes are high—the OECD projects that by 2030, 85% of new jobs in marketing and sales will require proficiency in data analytics tools, a statistic that should reshape how you evaluate program rankings and course lists.

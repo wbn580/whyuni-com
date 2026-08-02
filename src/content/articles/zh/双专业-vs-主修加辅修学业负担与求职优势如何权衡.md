@@ -8,6 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学决策/双专业-vs-主修加辅修学业负担与求职优势如何权衡-2026-1280x854.jpg"
 ---
 
 The first Tuesday of sophomore year, the registrar’s office at most North American universities silently locks a decision into place. A student enrolled in a **double major** typically needs 120–128 credits to graduate, but a dual-degree pathway can demand upwards of 150 credits, according to the National Center for Education Statistics (NCES, 2023, *IPEDS Graduation Rate Component*). By contrast, a **major plus minor** usually requires only 18–24 additional credits beyond the primary major, a gap that translates into roughly two extra semesters of coursework. The choice between these two paths is not merely academic; it is a direct bet on how you want your transcript to speak to employers and graduate admissions committees. A 2022 survey by the National Association of Colleges and Employers (NACE, *Job Outlook 2022 Report*) found that 62% of employers value a double major for its demonstration of intellectual breadth and grit, yet only 12% of graduating seniors actually complete one. The tension between the promise of a stronger resume and the very real weight of an overloaded schedule is the central calculus every ambitious student must face. This article does not aim to declare a winner; instead, it offers a decision-making framework grounded in data, institutional policy, and the lived experience of thousands of students who have navigated this fork in the road.

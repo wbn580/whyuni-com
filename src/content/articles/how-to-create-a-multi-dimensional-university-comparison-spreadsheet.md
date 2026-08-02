@@ -8,6 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学决策/how-to-create-a-multi-dimensional-university-comparison-spreadsheet-2026-1880x1253.jpg"
 ---
 
 Seventy-eight percent of U.S. college freshmen in 2023 said they were “frequently” stressed about paying for school, according to the UCLA Higher Education Research Institute’s annual *CIRP Freshman Survey*. Across the Atlantic, the OECD’s *Education at a Glance 2024* report found that tertiary-educated adults earn, on average, 54% more than those with only an upper-secondary qualification—but the same report noted that net tuition fees in the United States are the highest in the developed world, averaging over $14,000 per year at public institutions and more than $28,000 at private ones. These two numbers frame the central tension of university selection: the decision is never just about prestige or program fit. It is a multi-layered puzzle of cost, outcome, geography, lifestyle, and risk. Most applicants build a simple list—rank, tuition, maybe a note on location—and make a choice based on whichever column feels most urgent on the day an acceptance arrives. A multi-dimensional comparison spreadsheet, built deliberately over several weeks, replaces that emotional lurch with a structured decision. It forces you to assign weights, surface hidden costs, and compare apples to oranges on a single grid. This article walks through how to construct one.

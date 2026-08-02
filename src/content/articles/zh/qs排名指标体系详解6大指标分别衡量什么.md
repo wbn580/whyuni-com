@@ -8,6 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学决策/qs排名指标体系详解6大指标分别衡量什么-2026-1880x1253.jpg"
 ---
 
 Every year, hundreds of thousands of students pore over the QS World University Rankings, hoping to decode which institution deserves their tuition and the next four years of their life. But what exactly is inside that final number? The QS ranking methodology, as of the 2024 edition, evaluates universities across **six weighted indicators**: Academic Reputation (40%), Employer Reputation (10%), Faculty/Student Ratio (20%), Citations per Faculty (20%), International Faculty Ratio (5%), and International Student Ratio (5%). According to QS’s own 2023 methodology report, the Academic Reputation survey alone collected responses from over 130,000 academics worldwide, while the Employer Reputation survey drew from nearly 75,000 employers. These are not arbitrary numbers—they are the product of a massive, global polling operation designed to capture perceptions and measurable outputs. Yet for a 17-year-old deciding between a research-intensive public university and a small liberal arts college, understanding what these percentages actually mean—and what they leave out—can be the difference between a well-informed choice and a misleading one.

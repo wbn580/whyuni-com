@@ -7,6 +7,7 @@ publishDate: '2026-04-26T19:22:33Z'
 readingTime: 9
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/大学决策/giving-up-a-top-domestic-university-for-study-abroad-comparing-life-trajectories-2026-1880x1253.jpg"
 ---
 
 In 2019, a study by the OECD found that 4.5 million tertiary students were enrolled outside their country of citizenship, a number that had more than doubled since 2005. Among students from East Asia, the choice to leave a top domestic university—think Peking University, Tsinghua, the University of Tokyo, or Seoul National University—for a foreign institution is no longer a fringe decision; it is a calculated gamble on a different kind of future. According to the Institute of International Education’s *Open Doors Report 2023*, approximately 290,000 Chinese students alone were enrolled in U.S. higher education institutions during the 2022–2023 academic year, despite the fact that China’s domestic C9 League universities boast global rankings that rival many of their American counterparts. The fundamental question for a 17- to 22-year-old applicant is not merely about prestige or curriculum, but about the shape of an entire life trajectory: the professional networks you build, the salary curves you join, the immigration pathways available, and the psychological cost of leaving a familiar ecosystem. This essay does not offer a single answer; it provides a framework for weighing two radically different futures.

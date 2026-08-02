@@ -7,6 +7,7 @@ publishDate: '2026-04-17T19:20:28Z'
 readingTime: 10
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/大学决策/finance-career-paths-quantitative-finance-financial-engineering-or-traditional-f-2026-1635x1300.jpg"
 ---
 
 A single spreadsheet can hold a career. You open it, and the columns stretch sideways into columns you cannot name: Greeks, stochastic volatility, CDS spreads, Monte Carlo simulations. On the next screen, a different spreadsheet holds a merger model, a DCF, an LBO. Two worlds, same tool, completely different languages. In 2024, the U.S. Bureau of Labor Statistics reported that securities, commodities, and financial services sales agents earned a median annual wage of $67,480, while financial analysts—a category that lumps together everyone from a Goldman Sachs analyst to a quant developer at a hedge fund—earned a median of $99,890 [BLS, 2024, Occupational Outlook Handbook]. But the spread is far wider at the top. According to a 2023 compensation survey by the International Association of Quantitative Finance (IAQF), the median total compensation for a quantitative analyst with five years of experience in the U.S. was $225,000, with the top decile exceeding $500,000. These numbers do not tell you which path is better. They tell you that the market prices skills differently. The question for a 17-22-year-old staring at a university application is not which career pays more—it is which set of skills you are willing to spend the next decade building.

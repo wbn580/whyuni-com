@@ -7,6 +7,7 @@ publishDate: '2026-04-17T19:20:22Z'
 readingTime: 9
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/大学决策/target-schools-for-consulting-where-mckinsey-bcg-and-bain-recruit-2026-1280x854.jpg"
 ---
 
 Every autumn, a quiet migration begins on elite campuses across North America and Europe. Students in business-casual attire fill campus career centers, not for job fairs but for case-interview preparation sessions, their backpacks stuffed with Bain & Company’s profit-model frameworks and McKinsey & Company’s issue-tree templates. The destination is clear: the three firms that collectively define management consulting—McKinsey, Boston Consulting Group (BCG), and Bain & Company, known together as MBB. But the path to an offer letter is narrower than most applicants realize. According to a 2023 analysis by the management consulting network Management Consulted, MBB collectively received over 750,000 applications globally that year, yet hired fewer than 8,000 entry-level consultants—an acceptance rate below 1.1 percent. More tellingly, a 2022 study by the Graduate Management Admission Council (GMAC) found that 68 percent of MBB hires in the United States came from just 12 universities, a concentration that has remained stable for over a decade. For a 17- to 22-year-old weighing college options, these numbers carry a stark implication: the institution you choose may pre-decide your odds of ever seeing a first-round interview.

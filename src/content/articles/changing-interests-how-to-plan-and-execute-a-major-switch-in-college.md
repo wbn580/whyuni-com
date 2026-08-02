@@ -7,6 +7,7 @@ publishDate: '2026-05-17T19:27:53Z'
 readingTime: 9
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/大学决策/changing-interests-how-to-plan-and-execute-a-major-switch-in-college-2026-1880x1253.jpg"
 ---
 
 In the fall of 2020, the U.S. National Center for Education Statistics reported that roughly **30 percent** of undergraduate students who entered a four-year institution in 2014 had changed their major at least once within three years, a figure that rises to nearly **50 percent** when tracked over a six-year period. At the same time, a 2019 study by the Organisation for Economic Co-operation and Development (OECD) found that, across 36 member countries, the average tertiary student switches fields of study 1.4 times before graduation, with the highest rates occurring in the United States and Australia. These numbers do not represent failure; they reflect a fundamental tension between the linear expectations we place on 17-year-olds and the messy, iterative process of discovering what one actually wants to do. The decision to change majors is rarely a sudden epiphany. More often, it arrives as a slow, gnawing suspicion that the path you chose at 18 no longer fits the person you are becoming at 20. This article is a practical and philosophical guide to navigating that suspicion—how to plan for a switch without derailing your degree, and how to execute it with the least possible cost in time, money, and sanity.

@@ -8,6 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学决策/名校光环-vs-王牌专业当大学和专业冲突时该如何取舍-2026-1280x854.jpg"
 ---
 
 The high school senior, staring at two acceptance letters, faces a decision that will quietly shape the next forty years of their life: the name of a storied university versus the substance of a specific program. This is not a simple trade-off. According to the Georgetown University Center on Education and the Workforce (2022 report), the median earnings of a Bachelor’s degree graduate ten years after enrollment vary by more than 300% depending on the specific field of study, while the premium for an Ivy League brand over a well-regarded state university is estimated at roughly 7% to 10% in lifetime earnings for the average student. Meanwhile, the OECD’s Education at a Glance 2023 report highlights that 44% of 25-34 year olds across member countries now hold a tertiary degree, making the degree itself a baseline, not a differentiator. The conflict, then, is not between a "good" school and a "bad" major, but between two competing forms of capital: the social and signaling capital of a prestigious institution, and the technical, career-specific capital of a rigorous, well-connected department. This essay is not a verdict; it is a framework for weighing those forces against the specific texture of a single life.

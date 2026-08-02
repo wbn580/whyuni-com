@@ -8,6 +8,7 @@ readingTime: 11
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学决策/interest-vs-employability-a-decision-framework-for-choosing-your-major-2026-1880x1253.jpg"
 ---
 
 The most agonizing question for a 17-year-old staring at a university application portal is rarely “Can I get in?” It’s “What should I study?” And beneath that, a deeper tension: should I follow what fascinates me, or what will pay the bills? This isn’t a new dilemma, but the stakes have been quantified with uncomfortable precision. In the United States, the average bachelor’s degree holder earns approximately $1.6 million over a lifetime, according to a 2021 report from the Georgetown University Center on Education and the Workforce, yet that figure masks a staggering range: engineering majors earn a median of $3.8 million over a career, while early childhood education majors earn roughly $1.3 million. Meanwhile, the OECD’s 2023 *Education at a Glance* report found that across its 38 member countries, the employment premium for tertiary education remains strong—graduates earn 54% more than non-graduates on average—but the variance by field of study is almost as wide as the gap between graduates and non-graduates. The data forces a hard conversation: is it irresponsible to pursue a passion that leads to a low-paying field, or is it soul-crushing to spend four years—and a lifetime after—doing work you don’t care about? This article offers a decision framework built on evidence, not platitudes, to help you navigate the choice between interest and employability.

@@ -7,6 +7,7 @@ publishDate: '2026-03-25T19:13:51Z'
 readingTime: 3
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/大学决策/环境社会与治理esg专业可持续发展浪潮下的新学科-2026-1280x854.jpg"
 ---
 
 In September 2023, the global asset management industry crossed a threshold that would have seemed improbable just a decade earlier: assets held under strategies that explicitly integrate environmental, social, and governance (ESG) criteria surpassed **$30 trillion**, according to the Global Sustainable Investment Alliance’s 2024 biennial review. That figure represents roughly one-quarter of all professionally managed assets worldwide, up from $22.8 trillion in 2020 and $13.3 trillion in 2012. The growth has been so rapid that the International Labour Organization, in its 2023 *World Employment and Social Outlook* report, projected that the transition to a greener economy could create **24 million new jobs globally by 2030**, with a significant share concentrated in ESG-related analytical, compliance, and strategic roles. For a 17- to 22-year-old choosing a university major today, this is not merely a trend to observe—it is a structural shift in the labor market that demands a deliberate, data-informed decision. The question is no longer whether ESG will matter, but which academic pathway best prepares you to enter a field that blends finance, law, policy, and ethics, all while the discipline itself is still being defined.

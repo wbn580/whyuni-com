@@ -7,6 +7,7 @@ publishDate: '2026-05-18T19:28:24Z'
 readingTime: 8
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/大学决策/its-okay-to-be-undecided-a-timeline-for-exploring-majors-in-college-2026-1280x854.jpg"
 ---
 
 The pressure to declare a major before stepping onto a college campus is a peculiar modern invention. According to the U.S. National Center for Education Statistics (NCES, 2023), approximately 30% of undergraduate students change their major at least once within the first three years, and an estimated one in five students enter college as "undeclared." Meanwhile, data from the OECD’s *Education at a Glance 2024* report shows that across member countries, the average age of first-degree completion is 23.7, leaving a wide window for intellectual exploration. These numbers tell a quiet story: the student who knows exactly what they want to study at 18 is the statistical outlier, not the norm. The real skill is not in having a pre-ordained plan, but in building a framework for discovery. This article offers a practical, four-year timeline for navigating the undecided path—turning the anxiety of "not knowing" into a structured, deliberate process of exploration that actually leads to a more informed and resilient academic choice.
