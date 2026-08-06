@@ -4,11 +4,10 @@ description: “为什么选这所而不是那所？”这个问题很少能靠�
 pubDatetime: '2026-07-02T01:57:14Z'
 publishDate: '2026-07-02T01:57:14Z'
 modDatetime: '2026-08-01T11:51:06Z'
-slug: whyuni-com-0864
 draft: false
 hideFromHome: true
-lang: en
-language: en
+lang: zh
+language: zh
 tags:
 - whyuni-com 录取要求与学术背景参考
 ogImage: https://img.whyuni.com/留学-大学决策/iang-2026-07-22-680a23d1c7-image-01-2026-1880x1253.jpg
