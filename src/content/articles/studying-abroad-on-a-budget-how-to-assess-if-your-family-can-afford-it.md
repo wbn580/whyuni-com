@@ -7,7 +7,7 @@ publishDate: '2026-04-23T19:21:52Z'
 readingTime: 7
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/studying-abroad-on-a-budget-how-to-assess-if-your-family-can-afford-it-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/studying-abroad-on-a-budget-how-to-assess-if-your-family-can-afford-it-2026-1880x1253.jpg"
 ---
 
 The first question a family asks when a seventeen-year-old announces they want to study abroad is rarely about the quality of the university. It is about the price tag. According to the OECD’s *Education at a Glance 2023*, the average annual tuition fee for an international undergraduate student in the United States stands at approximately $28,000, while public universities in Canada charge roughly $22,000 per year. In the United Kingdom, the Home Office reported that non-EU students paid an average of £22,200 in tuition for the 2022–2023 academic year. These figures do not include living expenses, which the OECD estimates add another $12,000 to $18,000 per year depending on the city. For a middle-class family in many parts of the world, those numbers can feel paralyzing. The decision is not simply about saving enough; it is about understanding the full structure of costs, the hidden fees, and the difference between what a university advertises and what a student actually pays. This article is not a list of cheap schools. It is a framework for assessing whether your family’s financial situation can realistically support an overseas degree, using the same data-driven logic that admissions officers and financial aid committees apply every year.

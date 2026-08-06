@@ -8,7 +8,7 @@ readingTime: 11
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/the-three-dimensions-of-study-abroad-selection-ranking-location-and-career-resou-2026-1880x1255.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/the-three-dimensions-of-study-abroad-selection-ranking-location-and-career-resou-2026-1880x1255.jpg"
 ---
 
 Every year, roughly 1.6 million students leave their home countries to pursue a degree abroad, according to the OECD’s 2023 Education at a Glance report, yet nearly 40 percent of those surveyed by the Institute of International Education’s Project Atlas in 2022 reported that they would change their initial university choice if they could redo the process. The gap between a name on a diploma and the daily reality of a campus—its geography, its professional pipelines, its unwritten culture—is wider than most applicants realize. A university’s global ranking can shift by dozens of places in a single QS cycle (the 2024 edition saw 43 institutions move more than 20 spots), while a city’s labor market might triple internship opportunities within a five-mile radius of one campus versus another. This article breaks the decision into three irreducible dimensions—ranking, location, and career resources—and examines how each interacts with the others, because a choice optimized in only one dimension often leaves students underprepared for the other two.

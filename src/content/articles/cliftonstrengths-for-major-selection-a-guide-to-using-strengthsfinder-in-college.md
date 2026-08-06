@@ -7,7 +7,7 @@ publishDate: '2026-05-14T19:27:13Z'
 readingTime: 10
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/cliftonstrengths-for-major-selection-a-guide-to-using-strengthsfinder-in-college-2026-1880x1111.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/cliftonstrengths-for-major-selection-a-guide-to-using-strengthsfinder-in-college-2026-1880x1111.jpg"
 ---
 
 Each year, roughly **2.1 million** first-time undergraduates in the United States enter college without a declared major, according to the National Center for Education Statistics (NCES, *Digest of Education Statistics 2023*). Meanwhile, a longitudinal study by the U.S. Department of Education found that nearly **30 percent** of students who initially select a STEM major switch to a non-STEM field within three years, often citing a mismatch between their personal strengths and the demands of the curriculum (NCES, *Beginning Postsecondary Students Longitudinal Study 2012–2017*). These numbers point to a quiet crisis: students are making high-stakes academic decisions with limited self-knowledge, relying on salary projections or parental pressure rather than an honest inventory of what they do best. For the 17-to-22-year-old reader standing at this crossroads, the CliftonStrengths assessment—formerly known as StrengthsFinder—offers a structured, data-backed alternative. Developed by Gallup after decades of interviewing over two million professionals, the tool identifies 34 distinct talent themes and ranks an individual’s top five. Rather than prescribing a single “right” major, it provides a vocabulary for understanding how you naturally think, relate, and execute—a framework that can transform a bewildering list of degree options into a coherent, strengths-aligned path.

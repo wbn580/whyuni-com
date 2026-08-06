@@ -6,7 +6,7 @@ publishDate: "2026-05-15T04:20:00Z"
 readingTime: 10
 tags: ["university-choice", "decision-framework", "international-students"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/how-to-choose-university-framework-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/how-to-choose-university-framework-2026-1880x1253.jpg"
 ---
 
 Choosing a university is one of the most consequential decisions an international student makes. Yet most advice focuses on rankings or prestige, ignoring the systematic trade-offs that actually determine whether a student thrives. This guide provides a structured framework for making the choice.

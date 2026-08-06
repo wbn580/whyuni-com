@@ -7,7 +7,7 @@ publishDate: '2026-04-27T19:22:46Z'
 readingTime: 11
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/one-year-masters-degrees-are-they-respected-by-employers-2026-1880x1111.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/one-year-masters-degrees-are-they-respected-by-employers-2026-1880x1111.jpg"
 ---
 
 A decade ago, the one-year master’s degree was a niche offering, largely confined to business schools in the United Kingdom and a handful of specialized programs in Europe. Today, it has become a global phenomenon. According to the UK’s Higher Education Statistics Agency (HESA), the number of full-time one-year postgraduate degrees awarded in the UK has risen by nearly 40% over the past five years, reaching over 180,000 in the 2022–2023 academic year. Meanwhile, a 2023 survey by the Graduate Management Admission Council (GMAC) found that 86% of employers worldwide plan to hire MBA graduates, with one-year MBA programs—common in Europe and increasingly available in North America—seeing a 15% uptick in application volume since 2020. This rapid expansion raises a fundamental question for any 22-year-old weighing their options: if a master’s degree can be completed in twelve months instead of two, does it carry the same weight in the eyes of hiring managers, or is it seen as a shortcut that signals less rigor? The answer, as with most things in higher education, is not a simple yes or no. It depends on the sector, the country, the institution, and—most critically—the student’s ability to leverage the compressed timeline for career outcomes rather than mere credentialing.

@@ -11,13 +11,13 @@ lang: en
 language: en
 tags:
 - whyuni-com 录取要求与学术背景参考
-ogImage: https://img.ulec.com.cn/留学-大学决策/iang-2026-07-22-680a23d1c7-image-01-2026-1880x1253.jpg
+ogImage: https://img.whyuni.com/留学-大学决策/iang-2026-07-22-680a23d1c7-image-01-2026-1880x1253.jpg
 category: Universities
 ---
 
 “为什么选这所而不是那所？”这个问题很少能靠一份排名得到完整答案。录取要求本身就是一个实用的比较维度：它能告诉你一所学校的选拔严格程度、你的学术背景是否契合，以及这个专业对你来说是否现实可行。以下是如何在选校过程中使用这些信息。
 
-![2027 留学选校：如何通过录取要求与学术背景参考判断匹配度](https://img.ulec.com.cn/留学-大学决策/iang-2026-07-22-680a23d1c7-image-01-2026-1880x1253.jpg)
+![2027 留学选校：如何通过录取要求与学术背景参考判断匹配度](https://img.whyuni.com/留学-大学决策/iang-2026-07-22-680a23d1c7-image-01-2026-1880x1253.jpg)
 
 ## 录取门槛是选拔强度的直接信号
 

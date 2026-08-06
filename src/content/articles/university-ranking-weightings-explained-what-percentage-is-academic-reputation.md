@@ -8,7 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/university-ranking-weightings-explained-what-percentage-is-academic-reputation-2026-1880x1111.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/university-ranking-weightings-explained-what-percentage-is-academic-reputation-2026-1880x1111.jpg"
 ---
 
 Every year, hundreds of thousands of students pore over university league tables, searching for the one institution that will unlock their future. Yet the number most often cited—a university’s overall rank—is less a measure of undergraduate teaching than a weighted blend of metrics designed for researchers and administrators. In the 2025 edition of the QS World University Rankings, for instance, **academic reputation accounts for 40 percent** of a university’s total score, drawn from a global survey of over 130,000 academics [QS, 2024, QS World University Rankings Methodology]. Meanwhile, the Times Higher Education (THE) World University Rankings 2025 assigns only **33 percent** of its overall weight to “Teaching (the learning environment)”—a category that includes reputation but also staff-to-student ratios and doctorate-to-bachelor ratios—while a separate “Research” pillar takes another 30 percent [THE, 2024, THE World University Rankings Methodology]. For a 17-year-old weighing an offer from a research-intensive university versus a teaching-focused college, understanding what these percentages actually mean—and what they omit—can be the difference between choosing a name and choosing an education.

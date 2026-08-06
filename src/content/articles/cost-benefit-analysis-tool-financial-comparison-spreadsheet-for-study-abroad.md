@@ -8,7 +8,7 @@ readingTime: 10
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/cost-benefit-analysis-tool-financial-comparison-spreadsheet-for-study-abroad-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/cost-benefit-analysis-tool-financial-comparison-spreadsheet-for-study-abroad-2026-1880x1253.jpg"
 ---
 
 A single spreadsheet cell can change the course of a life. In 2023, the average annual tuition fee for an international undergraduate in the United States reached **$28,789** at public four-year institutions and **$41,086** at private non-profit ones, according to the College Board’s *Trends in College Pricing and Student Aid 2023* report. Across the Atlantic, the picture shifts dramatically: the UK’s Home Office reported that international undergraduate tuition for the 2024–25 academic year typically ranges between **£15,000 and £30,000**, with medicine and engineering degrees often breaching the £40,000 ceiling. These numbers are not abstract—they represent the single largest financial decision most 17- to 22-year-olds will make before they turn thirty. Yet the majority of applicants choose a university based on brand prestige, a friend’s recommendation, or a campus tour’s aesthetic appeal, without ever building a structured cost-benefit spreadsheet. This article offers a decision framework—a financial comparison tool—that forces the numbers to speak before the heart does. It will not tell you which country to pick, but it will show you how to calculate the true cost of a degree, the expected return on that investment, and the hidden variables that most glossy brochures omit.

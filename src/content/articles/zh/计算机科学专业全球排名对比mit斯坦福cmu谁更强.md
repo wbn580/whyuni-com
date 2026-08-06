@@ -8,7 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/计算机科学专业全球排名对比mit斯坦福cmu谁更强-2026-1280x854.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/计算机科学专业全球排名对比mit斯坦福cmu谁更强-2026-1280x854.jpg"
 ---
 
 Few numbers in higher education are as obsessively tracked as the computer science rankings that separate MIT, Stanford, and Carnegie Mellon. In the 2025 QS World University Rankings by Subject, MIT holds the #1 spot globally for Computer Science and Information Systems, scoring a perfect 100.0 in academic reputation, while Stanford sits at #2 with 96.8 and Carnegie Mellon at #6 with 91.2. But these aggregate scores, compiled from surveys of 130,000 academics and 75,000 employers worldwide [QS, 2025, World University Rankings by Subject], mask a deeper truth: each institution cultivates a fundamentally different kind of computer scientist. MIT produces systems builders who think in hardware. Stanford breeds entrepreneurs who think in markets. CMU forges specialists who think in code. The U.S. Bureau of Labor Statistics projects 377,500 new computing jobs between 2023 and 2033, a 25% growth rate that dwarfs the 4% average for all occupations [BLS, 2024, Occupational Outlook Handbook]. For a 17-year-old staring at acceptance letters, the question isn't which school is "best" — it's which philosophy of computing will shape the next decade of your working life.

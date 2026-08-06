@@ -7,7 +7,7 @@ publishDate: '2026-04-19T19:20:48Z'
 readingTime: 8
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/what-should-you-study-to-become-a-product-manager-2026-1880x1111.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/what-should-you-study-to-become-a-product-manager-2026-1880x1111.jpg"
 ---
 
 In 2023, the Product Management (PM) role was the third most in-demand job in the technology sector, with LinkedIn reporting over 2.5 million job postings globally that referenced the title. Yet despite this demand, fewer than 35% of current PMs hold a degree in Computer Science or Engineering, according to a 2024 survey by the Product Management Institute (PMI). This gap—between what recruiters say they want and what practitioners actually studied—is the central tension for anyone choosing a university major with the PM goal in mind. The path is not a straight line from a single degree; it is a triangulation of three distinct competencies: technical literacy, behavioral economics, and communication design. A 2022 OECD report on skills for the digital economy noted that the fastest-growing job clusters require "hybrid profiles" that blend hard and soft skills, and the Product Manager is arguably the archetype of this hybrid. The question, then, is not which single major to pick, but how to construct a curriculum—within the constraints of a four-year degree—that builds the **decision-making muscle** for a role that is essentially a CEO of a product line, but without the formal authority.

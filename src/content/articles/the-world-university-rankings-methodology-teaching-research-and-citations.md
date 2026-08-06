@@ -8,7 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/the-world-university-rankings-methodology-teaching-research-and-citations-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/the-world-university-rankings-methodology-teaching-research-and-citations-2026-1880x1253.jpg"
 ---
 
 Every September, when the Times Higher Education (THE) World University Rankings land, a familiar anxiety ripples through admissions forums and high‑school group chats: should a student pick the institution ranked 47th globally over the one at 53rd? The difference often comes down to a single percentage point in the “Teaching” pillar or a slight edge in “Citations.” Since 2010, THE has refined its methodology to cover 13 calibrated indicators grouped into five pillars, with the current weighting system allocating 30% to Teaching, 30% to Research, 30% to Citations, 7.5% to International Outlook, and 2.5% to Industry Income — a precise breakdown documented in THE’s 2024 World University Rankings methodology report. For a student weighing offers from a research‑intensive public university versus a teaching‑focused liberal arts college, understanding what these numbers actually measure — and what they leave out — can shift the entire decision. The 2024 edition alone evaluated 1,904 institutions from 108 countries, yet only the top 1,500 or so receive a public rank; the rest remain “reporter” status, their data invisible to applicants (THE, 2024, *World University Rankings Methodology*). This article unpacks each pillar so that a 17‑ to 22‑year‑old reader can see past the aggregate score and decide which university’s strengths align with their own academic priorities.

@@ -4,7 +4,7 @@ description: "How student satisfaction varies across universities — NSS (UK), 
 category: "compare"
 publishDate: "2026-05-15T09:00:00Z"
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/university-student-satisfaction-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/university-student-satisfaction-2026-1880x1253.jpg"
 tags: ['留学', '大学选择', '海外升学']
 ---
 

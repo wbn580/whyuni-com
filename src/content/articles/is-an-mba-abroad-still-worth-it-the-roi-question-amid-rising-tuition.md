@@ -7,7 +7,7 @@ publishDate: '2026-04-28T19:23:14Z'
 readingTime: 11
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/is-an-mba-abroad-still-worth-it-the-roi-question-amid-rising-tuition-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/is-an-mba-abroad-still-worth-it-the-roi-question-amid-rising-tuition-2026-1880x1253.jpg"
 ---
 
 A decade ago, the decision to pursue an MBA abroad felt almost like a financial sure bet: two years of study, a six-figure salary on the other side, and a global network that paid dividends for a lifetime. That calculus has shifted. Between 2019 and 2024, the average total cost of a top-15 U.S. MBA program—tuition, fees, and living expenses—surpassed **$240,000**, according to data from *U.S. News & World Report*’s 2024 Best Business Schools ranking. Meanwhile, the median starting salary for graduates from these programs has stagnated around **$175,000** (including signing bonus), a figure that, when adjusted for inflation using the U.S. Bureau of Labor Statistics CPI calculator, represents a real-terms decline of roughly 6% since 2019. The return on investment is no longer a simple equation; it is a multi-variable problem involving geography, industry, opportunity cost, and the quiet but persistent risk of debt. For the 17-to-22-year-old audience weighing this decision, the question is not whether an MBA can be valuable—it is whether the specific value it offers aligns with a world where the price of admission has never been higher.

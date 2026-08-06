@@ -8,7 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/留学后留在国外工作-vs-回国发展长期收益对比分析-2026-1280x854.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/留学后留在国外工作-vs-回国发展长期收益对比分析-2026-1280x854.jpg"
 ---
 
 A 2018 survey by the OECD found that, among Chinese students who studied abroad between 2010 and 2015, approximately 47% returned to China within five years of graduation, a figure that rose to over 60% for those who had completed a master’s degree. Yet a 2023 report from the Chinese Ministry of Education tracking overseas returnees indicated that the median salary premium for returnees with a foreign bachelor’s degree over domestic graduates of comparable institutions was roughly 28% in the first three years, but that premium shrank to 11% after seven years. These two numbers frame a decision that is not binary—stay or go—but a long-term portfolio question with compounding effects on earnings, lifestyle, and professional identity. For a 22-year-old finishing a degree in computer science, economics, or engineering, the choice between entering the H-1B lottery or booking a one-way ticket to Shanghai may feel like a single fork in the road. In reality, it is a sequence of smaller decisions about visa timelines, industry pathways, and personal cost structures that play out over a decade or more. This article does not argue for one path over the other. Instead, it builds a comparative framework—using data on lifetime tax burdens, career mobility, and social capital—so that you can calculate your own break-even point.

@@ -8,7 +8,7 @@ readingTime: 12
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/us-news-college-comparison-tool-how-to-compare-schools-side-by-side-2026-1733x1300.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/us-news-college-comparison-tool-how-to-compare-schools-side-by-side-2026-1733x1300.jpg"
 ---
 
 Every fall, roughly 2.4 million first-time freshmen enter American higher education, yet fewer than 40 percent of them will graduate from the institution where they started, according to the National Student Clearinghouse Research Center’s 2023 *Persistence & Retention* report. That statistic—a quiet crisis hidden inside glossy viewbooks—should stop any 17-year-old scrolling through the U.S. News & World Report rankings cold. The rankings themselves, updated annually and cited by 85 percent of college counselors surveyed in a 2022 NACAC *State of College Admission* study, give you a single number: 1, 42, 189. But what does that number actually tell you about the library hours on a Wednesday night, the average class size for a sophomore biology major, or the net price your family will pay after grants? Almost nothing. The U.S. News College Comparison Tool, when used as a side-by-side instrument rather than a popularity contest, shifts the question from “Which school is ranked higher?” to “Which school is better for *this* specific decision set?” That distinction is the difference between an expensive transfer and a four-year fit. The tool offers about 50 data points per institution—from six-year graduation rates to median starting salaries—but most users never click past the overall rank. This article walks through how to read those 50 fields like an admissions officer, not a browser tab collector.

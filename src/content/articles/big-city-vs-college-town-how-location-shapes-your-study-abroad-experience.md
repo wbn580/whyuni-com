@@ -8,7 +8,7 @@ readingTime: 11
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/big-city-vs-college-town-how-location-shapes-your-study-abroad-experience-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/big-city-vs-college-town-how-location-shapes-your-study-abroad-experience-2026-1880x1253.jpg"
 ---
 
 The choice between a sprawling global metropolis and a quiet college town is perhaps the most underrated variable in the study abroad equation. While rankings and course syllabi dominate decision-making, the physical and social geography of your campus for the next three to four years will silently shape your professional network, your daily habits, and your tolerance for solitude. According to the OECD’s *Education at a Glance 2024* report, nearly 6.4 million tertiary students were enrolled in programs outside their home country in 2022, a figure that has climbed 67% since 2010. Yet a 2023 survey by QS found that 58% of international students cited “location and city appeal” as their primary reason for choosing a specific institution—a factor that often overrides the program’s academic ranking. This is not a simple binary of “bigger is better” or “quieter is cheaper.” It is a deeply personal trade-off between access and immersion, between the noise of opportunity and the silence of focus. The decision will determine whether you spend your weekends navigating a metro system to an internship at a multinational bank or walking ten minutes to a lake for a bonfire with classmates. Both are valid. But they are not interchangeable.

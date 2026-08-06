@@ -8,7 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/how-to-decode-university-rankings-qs-the-us-news-and-arwu-explained-2026-1880x1111.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/how-to-decode-university-rankings-qs-the-us-news-and-arwu-explained-2026-1880x1111.jpg"
 ---
 
 Every autumn, hundreds of thousands of 17- to 22-year-olds open a browser tab and type “best universities in the world” into a search bar, hoping that a single number—a rank—will dissolve the anxiety of choosing where to spend the next four years. The four most consulted league tables—QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. News & World Report Best Global Universities, and the Academic Ranking of World Universities (ARWU)—together influence an estimated 70% of international student application decisions, according to a 2023 survey by the Institute of International Education (IIE). Yet these systems, despite sharing the same goal, disagree on fundamental questions: Is Harvard better than Oxford? Is MIT more prestigious than Stanford? In 2024, QS ranked MIT first globally, while ARWU placed Harvard at the top and THE gave Oxford the crown—a three-way split that leaves applicants wondering which list to trust. The answer is not to pick one ranking and follow it blindly, but to understand what each methodology actually measures, where the data comes from, and how the weights distort reality for specific fields, regions, and career paths. This article decodes the four major ranking systems, exposing their hidden assumptions and providing a practical framework for using them as tools—not oracles.

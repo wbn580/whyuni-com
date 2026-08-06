@@ -7,7 +7,7 @@ publishDate: '2026-03-21T19:12:33Z'
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/留学选校swot分析用商业分析工具做个人教育决策-2026-1880x1254.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/留学选校swot分析用商业分析工具做个人教育决策-2026-1880x1254.jpg"
 ---
 
 Every September, approximately 1.2 million Chinese students depart for universities abroad, according to the Ministry of Education’s 2023 statistical bulletin, a figure that has grown by 26% since 2019 despite pandemic disruptions. Yet within two years, roughly one in five will transfer institutions or seriously consider dropping out—a churn rate that the OECD’s 2022 Education at a Glance report pegs at 18.7% for international undergraduates across member countries. The gap between glossy university brochures and lived experience is not a failure of ambition but a failure of analysis. Students pore over QS rankings (the 2025 edition lists 1,500 institutions) and compare tuition figures, but rarely do they apply the same structured scrutiny to their own decision that a consulting firm would bring to a market-entry strategy. What if you treated your university selection not as a leap of faith, but as a business case? The SWOT framework—Strengths, Weaknesses, Opportunities, Threats—has been a staple of corporate boardrooms since the 1960s, and it works just as well for personal education planning. By mapping your internal profile against external conditions, you can turn anxiety into a grid of actionable insights, making the choice between, say, a University of Melbourne engineering degree and a TU Delft aerospace program less about gut feeling and more about calibrated fit.

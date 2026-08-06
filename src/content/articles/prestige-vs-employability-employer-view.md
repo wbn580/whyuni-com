@@ -7,7 +7,7 @@ readingTime: 7
 tags: ["employability", "careers", "graduate-outcomes", "hiring"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/prestige-vs-employability-employer-view-2026-1280x854.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/prestige-vs-employability-employer-view-2026-1280x854.jpg"
 ---
 
 The dominant narrative in international education is that university prestige drives employability. The data tells a more nuanced story.

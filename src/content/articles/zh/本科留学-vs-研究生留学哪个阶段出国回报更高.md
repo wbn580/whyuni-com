@@ -8,7 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/本科留学-vs-研究生留学哪个阶段出国回报更高-2026-1280x854.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/本科留学-vs-研究生留学哪个阶段出国回报更高-2026-1280x854.jpg"
 ---
 
 Every September, hundreds of thousands of 18-year-olds board flights from Shanghai, Seoul, and Mumbai to dormitories in Boston, London, and Melbourne, carrying with them a financial commitment that, according to the OECD’s 2023 Education at a Glance report, now averages $41,400 per year in tuition and living expenses for an international undergraduate in the United States. Four years later, another cohort—older by a degree, often more debt-laden—makes the same journey, spending a median of $29,150 annually for a master’s program, as calculated by the Institute of International Education’s 2024 Open Doors data. The question that haunts both groups, and the families wiring tuition from abroad, is deceptively simple: which stage of departure yields a higher return? The answer, after parsing employment rates, salary trajectories, and visa pathways tracked by national statistics offices from Canada to Australia, is not a universal rule but a conditional one—heavily dependent on field of study, home-country wage structure, and the blunt arithmetic of compound interest on human capital.

@@ -7,7 +7,7 @@ publishDate: '2026-04-21T19:21:20Z'
 readingTime: 10
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/journalism-in-the-digital-age-traditional-journalism-or-digital-media-and-commun-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/journalism-in-the-digital-age-traditional-journalism-or-digital-media-and-commun-2026-1880x1253.jpg"
 ---
 
 The decision to study journalism has never been more difficult—or more consequential. In 2023, the U.S. Bureau of Labor Statistics reported that employment in traditional newsrooms had contracted by 26% over the previous decade, with newspaper editorial staffs shrinking by more than half since 2014. Yet, paradoxically, the same period saw an explosion in demand for digital content creators: according to a 2024 report by the Pew Research Center, 65% of U.S. adults now get their news primarily from digital platforms, and the global digital advertising market is projected to surpass $740 billion by 2026, per Statista. These two numbers frame the central tension of your choice. Do you enroll in a traditional journalism program, learning the craft of reporting, editing, and ethics that has sustained democratic discourse for a century? Or do you choose a digital media and communication degree, focusing on analytics, platform strategy, and multimedia production—the skills that drive today’s attention economy? The answer is not binary, but the path you choose will shape not only your first job out of college but the entire arc of your career in an industry where the ground shifts every twelve to eighteen months.

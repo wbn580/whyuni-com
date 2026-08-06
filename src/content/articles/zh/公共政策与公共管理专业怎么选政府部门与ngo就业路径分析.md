@@ -8,7 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/公共政策与公共管理专业怎么选政府部门与ngo就业路径分析-2026-1280x854.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/公共政策与公共管理专业怎么选政府部门与ngo就业路径分析-2026-1280x854.jpg"
 ---
 
 The first time a 17-year-old asks me whether they should study Public Policy or Public Administration, I tell them to look at a number. In 2022, the U.S. Bureau of Labor Statistics reported that employment in the broader “community and social service” category—which includes policy analysts and public administrators—was projected to grow by 12% between 2021 and 2031, a rate significantly faster than the average for all occupations (Bureau of Labor Statistics, 2022, Occupational Outlook Handbook). That growth figure is not merely a statistic; it is a signal. It tells you that governments, non-profits, and international organizations are competing for a specific kind of talent—people who can navigate the machinery of the state and the logic of the market simultaneously. Yet the confusion between these two majors persists. A 2023 survey by the National Association of Schools of Public Affairs and Administration (NASPAA) found that nearly 40% of incoming graduate students in the field could not clearly differentiate between a Master of Public Policy (MPP) and a Master of Public Administration (MPA) curriculum. This article is a decision framework for that confusion. It is not a one-size-fits-all answer. It is a map of the fork in the road, with the terrain of government employment on one side and the NGO sector on the other, drawn from employment data, curriculum analysis, and the lived experience of those who have walked both paths.

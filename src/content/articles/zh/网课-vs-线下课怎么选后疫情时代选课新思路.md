@@ -8,7 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/网课-vs-线下课怎么选后疫情时代选课新思路-2026-1280x854.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/网课-vs-线下课怎么选后疫情时代选课新思路-2026-1280x854.jpg"
 ---
 
 In February 2020, the Organisation for Economic Co-operation and Development recorded that 1.5 billion learners across 195 countries were abruptly shut out of physical classrooms—the largest simultaneous disruption to formal education in modern history. Three years later, by the end of 2023, the U.S. National Center for Education Statistics reported that 72 percent of degree-granting postsecondary institutions still offered at least one fully online degree program, compared to just 34 percent in 2018. The pandemic did not invent online learning; it compressed a decade of institutional hesitation into a single semester. Now, as campuses worldwide have reopened their lecture halls, a new and more nuanced question has replaced the old binary of “remote or in-person.” It is no longer about survival or safety. It is about strategy: given that the average cost of a four-year public university degree in the United States reached $108,364 for in-state tuition, fees, and housing in the 2023–2024 academic year (according to the College Board’s *Trends in College Pricing* report), and given that the same institution’s online-only tuition often runs 30 to 50 percent lower, the choice between a screen and a seat carries real, permanent financial weight. This is not a debate about which mode is “better.” It is a decision framework for the post-pandemic student who must weigh learning outcomes, career signal, personal discipline, and budget—all at once.

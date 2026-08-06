@@ -8,7 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/全球顶尖公共政策学院对比哈佛肯尼迪哥大sipalse分析-2026-1280x854.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/全球顶尖公共政策学院对比哈佛肯尼迪哥大sipalse分析-2026-1280x854.jpg"
 ---
 
 In 2023, 1,297 applicants competed for 240 seats in Harvard Kennedy School’s Master in Public Policy program, an acceptance rate of roughly 18.5 percent, according to the school’s own admissions data. Across the Atlantic, the London School of Economics and Political Science reported that its MSc in Public Policy received 1,840 applications for 220 places in the same cycle, yielding an 11.9 percent acceptance rate. These numbers frame a decision that is less about prestige and more about fit: the three institutions that consistently dominate global policy education rankings—Harvard Kennedy School (HKS), Columbia’s School of International and Public Affairs (SIPA), and LSE—offer fundamentally different models of what “public policy” means. The QS World University Rankings by Subject 2024 placed LSE first globally in politics and international studies, Harvard second, and Columbia thirteenth, yet the U.S. News Best Public Affairs Programs 2024 ranked Harvard Kennedy first, Columbia SIPA sixth, with LSE not ranked in the U.S. domestic category. The discrepancy reveals a deeper structural divide: American MPP/MPA programs emphasize quantitative methods and domestic governance, while the British MSc tradition prioritizes theoretical frameworks and comparative institutional analysis. For a 21-year-old choosing among them, the real question is not which school is “best,” but which intellectual tradition aligns with how you think about power, evidence, and change.

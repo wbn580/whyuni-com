@@ -7,7 +7,7 @@ publishDate: '2026-03-20T19:12:22Z'
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/google-sheets选校协作模板和家人一起做留学决策-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/google-sheets选校协作模板和家人一起做留学决策-2026-1880x1253.jpg"
 ---
 
 The first time you open a blank spreadsheet with your parents to discuss university choices, it feels less like planning and more like a negotiation. You type “University of Toronto” into cell A1. Your mother, sitting beside you, immediately asks about the co-op placement rate. Your father, reading over your shoulder from the other side of the screen, wants to know the tuition figure in Canadian dollars, not USD. By the time you reach row 10, the sheet has become a battlefield of priorities—academic reputation versus cost, city life versus campus safety, graduation timelines versus internship windows. This is precisely why a structured Google Sheets template, designed for collaborative decision-making, has become an essential tool for families navigating the 2024-2025 admission cycle. According to a 2023 survey by the Institute of International Education (IIE), 68% of international students reported that family members were “highly involved” in the final school selection process, yet only 22% used any shared digital framework to organize their discussions. That gap—between involvement and structure—is where most arguments, second-guessing, and last-minute panic applications originate. A well-built spreadsheet doesn’t just store data; it forces every stakeholder to articulate their criteria, assign weights, and confront trade-offs in a way that verbal conversations rarely achieve.

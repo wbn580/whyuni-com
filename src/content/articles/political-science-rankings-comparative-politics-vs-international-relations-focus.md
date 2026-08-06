@@ -8,7 +8,7 @@ readingTime: 11
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/political-science-rankings-comparative-politics-vs-international-relations-focus-2026-1280x854.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/political-science-rankings-comparative-politics-vs-international-relations-focus-2026-1280x854.jpg"
 ---
 
 Every autumn, roughly 45,000 undergraduates in the United States alone declare a major in political science, according to the National Center for Education Statistics (NCES, 2023, *Digest of Education Statistics*). Yet fewer than 12% of those students will eventually pursue a graduate degree in the field, and an even smaller fraction will enter the academic job market. For the 17-to-22-year-old standing at the crossroads of this decision, the choice between a **Comparative Politics** track and an **International Relations** (IR) focus is not merely an academic preference—it is a bet on a particular set of analytical tools, career pathways, and intellectual habits. The stakes are real: the U.S. Bureau of Labor Statistics projects a 7% growth in political scientist positions through 2032, but the median annual wage for political scientists was $128,020 in 2022, a figure that masks vast disparities between those who land in policy think tanks versus those who enter government service or international NGOs. The question is not which subfield is “better,” but which one aligns with how you want to spend the next four decades thinking about power, institutions, and human behavior.

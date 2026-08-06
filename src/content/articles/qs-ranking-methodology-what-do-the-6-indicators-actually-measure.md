@@ -8,7 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/qs-ranking-methodology-what-do-the-6-indicators-actually-measure-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/qs-ranking-methodology-what-do-the-6-indicators-actually-measure-2026-1880x1253.jpg"
 ---
 
 Every year, millions of students consult the QS World University Rankings, treating its numbered list as a definitive guide to institutional quality. Yet few understand what the numbers actually mean. The QS methodology, as of the 2025 edition, distributes exactly **100 points** across **six weighted indicators**, each designed to capture a different dimension of a university’s performance. According to QS’s own published methodology for 2025, **Academic Reputation alone carries a weight of 40%**, making it by far the most influential factor in determining final rank. The remaining indicators—Employer Reputation (10%), Faculty/Student Ratio (20%), Citations per Faculty (20%), International Faculty Ratio (5%), and International Student Ratio (5%)—collectively shape the other 60 points. These proportions are not arbitrary; they reflect QS’s explicit philosophy that a university’s “brand” perception among academics matters more than, say, its research output per capita. A separate analysis by the **OECD (2023, Education at a Glance)** found that employer-based rankings correlate only weakly with graduate employment rates across member countries, raising the question of whether the 10% weight on Employer Reputation is meaningful or merely symbolic. This article unpacks each of the six indicators—what they measure, what they miss, and how a 17- to 22-year-old applicant should interpret them when building a decision framework.

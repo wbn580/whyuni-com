@@ -8,7 +8,7 @@ readingTime: 10
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/sino-foreign-joint-programs-vs-direct-study-abroad-value-and-experience-differen-2026-1280x854.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/sino-foreign-joint-programs-vs-direct-study-abroad-value-and-experience-differen-2026-1280x854.jpg"
 ---
 
 In 2023, the Chinese Ministry of Education reported that over 2,300 Sino-foreign joint educational programs and institutions were operating nationwide, enrolling approximately 650,000 students. Across the Pacific, the U.S. Institute of International Education’s *Open Doors 2023* report recorded 289,526 Chinese students in American universities, a figure that, while still substantial, had dropped by 8.6% from the previous year. These two data points sketch the contours of a tectonic shift: a generation of Chinese families is now weighing not just *which* foreign university to attend, but *whether* to attend it at all, or to pursue a joint program on home soil. The choice is no longer binary—go abroad or stay home—but a spectrum of hybrid models, each with its own calculus of cost, credential value, cultural immersion, and long-term career trajectory. For a 17- to 22-year-old applicant, the decision can feel like navigating a maze without a map. This article maps the terrain, drawing on institutional data, longitudinal salary studies, and the lived experiences of students who have walked both paths, to help you understand not just the surface differences, but the structural trade-offs that will shape your next four to six years.

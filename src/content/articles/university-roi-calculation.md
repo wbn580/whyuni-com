@@ -4,7 +4,7 @@ description: "How to calculate the financial return on a university degree — e
 category: "cost"
 publishDate: "2026-05-15T08:30:00Z"
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/university-roi-calculation-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/university-roi-calculation-2026-1880x1253.jpg"
 tags: ['留学', '大学选择', '海外升学']
 ---
 

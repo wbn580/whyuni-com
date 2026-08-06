@@ -8,7 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/大学排名那么多qstheus-newsarwu到底该看哪一个-2026-1280x854.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/大学排名那么多qstheus-newsarwu到底该看哪一个-2026-1280x854.jpg"
 ---
 
 Every October, a wave of anxiety hits high school seniors and their parents: the new QS World University Rankings drop, and suddenly a university that was “safety” last year is now “target,” or a dream school slips ten spots for reasons nobody on the ground can explain. The problem is not that rankings are useless—it’s that there are too many of them, each built on a different philosophy. QS weights academic reputation at 30 percent and employer reputation at 15 percent, while the Times Higher Education (THE) World University Rankings give teaching 29.5 percent and research 30 percent. The U.S. News Best Global Universities, by contrast, leans heavily on bibliometric indicators like publications and citations (65 percent combined), and the Academic Ranking of World Universities (ARWU), produced by ShanghaiRanking Consultancy, focuses almost exclusively on research output and Nobel/Fields Medal alumni (30 percent). According to the OECD’s 2023 Education at a Glance report, 68 percent of international students in OECD countries consult at least one global ranking before choosing a destination institution—yet fewer than 12 percent understand how the methodology differs across the four major lists. This article walks through each ranking’s DNA, its blind spots, and a practical decision framework for 17-to-22-year-old applicants who need to stop comparing numbers and start comparing fit.

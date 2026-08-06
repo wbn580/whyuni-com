@@ -7,7 +7,7 @@ publishDate: '2026-03-11T19:09:44Z'
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/留学经历在求职市场中的真实价值hr到底怎么看海归-2026-1280x854.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/留学经历在求职市场中的真实价值hr到底怎么看海归-2026-1280x854.jpg"
 ---
 
 The résumé lands on the desk. The HR manager scans the education section: *University of Melbourne, B.Com.*, then *University College London, M.Sc. Economics*. She pauses. In a 2024 survey of 1,200 Chinese HR professionals conducted by Zhaopin and the Ministry of Education’s Chinese Service Center for Scholarly Exchange, **68%** of respondents said they explicitly “prioritize” candidates with overseas study experience during the initial screening phase for management trainee and R&D roles. Yet the same survey revealed that **41%** of those HR managers also admitted they “cannot accurately assess the academic rigor” of foreign institutions outside the global top 100. This gap—between the premium placed on the label “returnee” and the fog of uncertainty around what that label actually means—defines the real value of a study-abroad credential in China’s job market today. It is not a uniform advantage, nor is it a dying one. It is a currency whose exchange rate fluctuates wildly depending on the employer’s industry, the candidate’s university tier, and—most critically—the story the candidate tells between the lines of their CV.

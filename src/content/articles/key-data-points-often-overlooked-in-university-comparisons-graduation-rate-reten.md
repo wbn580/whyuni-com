@@ -8,7 +8,7 @@ readingTime: 10
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/key-data-points-often-overlooked-in-university-comparisons-graduation-rate-reten-2026-1880x1299.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/key-data-points-often-overlooked-in-university-comparisons-graduation-rate-reten-2026-1880x1299.jpg"
 ---
 
 Every November, high school seniors across the United States refresh the U.S. News & World Report rankings, scanning for the familiar prestige signals: selectivity rate, average SAT score, and endowment per student. Yet these metrics, while easily compared, tell an incomplete story about what actually happens to the students who enroll. A 2022 report from the National Student Clearinghouse Research Center found that the overall six-year **graduation rate** across all four-year institutions in the U.S. stands at 62.2%, meaning nearly four out of every ten matriculated students leave without a degree. Meanwhile, the Federal Reserve’s 2023 Survey of Household Economics and Decisionmaking (SHED) reported that 36% of young adults aged 18–29 who attended college but did not complete a degree cited financial reasons as the primary cause. These two numbers—a 62.2% completion rate and a 36% dropout rate tied to financial pressure—form the factual foundation for a more honest assessment of university choice. The metrics that rarely make it onto glossy viewbooks—graduation rate, **retention** from first to second year, and median student debt upon exit—are far more predictive of a student’s actual outcome than the admissions rate ever was.

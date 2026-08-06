@@ -5,7 +5,7 @@ category: "compare"
 publishDate: "2026-05-15T09:10:00Z"
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/liberal-arts-vs-specialist-degrees-2026-1880x1111.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/liberal-arts-vs-specialist-degrees-2026-1880x1111.jpg"
 tags: ['留学', '大学选择', '海外升学']
 ---
 The liberal arts model (US): 4-year degree, 30–50% of courses in a chosen major, the remainder in general education (science, humanities, social sciences, writing). Designed to produce broadly educated graduates who specialise gradually.

@@ -7,7 +7,7 @@ publishDate: '2026-04-15T19:19:55Z'
 readingTime: 9
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/marketing-careers-should-you-major-in-marketing-or-psychology-with-data-analytic-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/marketing-careers-should-you-major-in-marketing-or-psychology-with-data-analytic-2026-1880x1253.jpg"
 ---
 
 The last time you scrolled through a brand’s Instagram feed and felt an urge to buy something you didn’t need, you were on the receiving end of a carefully engineered sequence of psychological triggers. That sequence, in its modern form, is what the U.S. Bureau of Labor Statistics (BLS) projects will grow by 10% between 2022 and 2032, adding nearly 58,000 new marketing jobs annually—a rate significantly faster than the average for all occupations ([BLS, 2024, Occupational Outlook Handbook]). But here is the tension that keeps high school seniors and first-year college students awake at night: the same corporations that hire those marketers are also spending heavily on behavioral data analysts. According to a 2023 LinkedIn Workforce Report, job postings for roles combining psychology with data analytics grew by 34% year-over-year, with the median salary for such hybrid positions reaching $86,000—roughly $14,000 higher than a traditional marketing generalist role. You are not just choosing between two majors; you are choosing between two different ways of understanding human behavior. One path teaches you how to craft a message; the other teaches you how to decode the person receiving it. The decision matters more than most advisors admit, because the first job you get out of college will likely define your salary trajectory for the next decade.

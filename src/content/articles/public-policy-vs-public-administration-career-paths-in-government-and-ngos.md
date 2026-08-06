@@ -8,7 +8,7 @@ readingTime: 11
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/public-policy-vs-public-administration-career-paths-in-government-and-ngos-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/public-policy-vs-public-administration-career-paths-in-government-and-ngos-2026-1880x1253.jpg"
 ---
 
 A few years ago, I sat in a graduate seminar listening to a former deputy secretary describe the difference between her two favorite graduate degrees. “Public policy,” she said, “is the art of deciding what to do. Public administration is the science of getting it done.” That distinction, neat as it sounds, masks a more complicated truth. In the United States alone, the federal government employed roughly 2.9 million civilians in 2023, according to the U.S. Office of Personnel Management, while the non-profit sector accounted for about 12.5 million jobs, per the Bureau of Labor Statistics. Choosing between public policy and public administration is not merely an academic decision; it is a fork in the road that determines whether you will spend your career designing interventions or managing the machinery that delivers them. For students applying to undergraduate or graduate programs, the choice often feels opaque because the two fields share core coursework—economics, statistics, ethics—yet lead to fundamentally different daily realities. This essay is an attempt to map that terrain, not with a single recommendation, but with a framework that lets you see where your own temperament, skills, and ambitions fit.

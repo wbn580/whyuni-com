@@ -8,7 +8,7 @@ readingTime: 10
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/business-school-rankings-decoded-ft-qs-and-economist-mba-rankings-compared-2026-1635x1300.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/business-school-rankings-decoded-ft-qs-and-economist-mba-rankings-compared-2026-1635x1300.jpg"
 ---
 
 A 22-year-old applicant staring at the *Financial Times* Global MBA Ranking 2024—where INSEAD holds the #2 spot, Wharton #1, and the average post-MBA salary for the top school hits $260,000—has roughly four minutes before her eyes glaze over. The same student, switching to the QS Global MBA Rankings 2025, sees Stanford GSB at #1 with a “Thought Leadership” score of 100, while the *Economist*’s 2023 ranking (its final edition before discontinuation) placed Chicago Booth at #3 with a “Personal Development and Educational Experience” score of 93.4. Three lists. Three different winners. The confusion is not just real—it’s structural. According to a 2023 study by the Graduate Management Admission Council (GMAC), 67% of prospective MBA students rank “ranking methodology” as their primary source of confusion during school selection, yet only 12% report understanding how any single ranking actually weights its criteria. This article decodes the three most influential MBA league tables—FT, QS, and the now-retired Economist—by dissecting what each actually measures, where they disagree, and how an 18- to 22-year-old can use the contradictions to make a smarter, more personal choice.

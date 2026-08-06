@@ -7,7 +7,7 @@ publishDate: '2026-04-25T19:22:20Z'
 readingTime: 11
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/spent-50k-on-a-degree-earning-10k-a-year-when-is-studying-abroad-not-worth-it-2026-1880x1111.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/spent-50k-on-a-degree-earning-10k-a-year-when-is-studying-abroad-not-worth-it-2026-1880x1111.jpg"
 ---
 
 The math is brutal, and it rarely gets mentioned in the glossy prospectus. According to the OECD’s *Education at a Glance 2023* report, the average annual tuition fee for an international undergraduate degree in the United States is roughly $25,000, with total costs (living, insurance, travel) pushing the four-year figure well past $150,000. Yet the same report notes that the median annual earnings for a recent graduate (ages 25–34) in the OECD stands at approximately $41,000. The gap between investment and return becomes a chasm when you land on the lower end of that distribution. A 2022 study by the U.S. Federal Reserve Bank of New York found that roughly 40% of recent college graduates are underemployed—working in jobs that do not require a degree—and the median early-career salary for this cohort is just $38,000. When you subtract the cost of servicing student loans, the net income can shrink to a figure that makes the entire proposition feel like a bad bet. The question is not whether studying abroad can be transformative—it can—but rather, when does the price tag become a trap? This article is not a polemic against international education; it is a cold-eyed look at the decision calculus that too many students skip, and the specific scenarios where a degree from a foreign institution yields a negative return on investment.

@@ -7,7 +7,7 @@ modDatetime: '2026-07-13T00:00:00Z'
 slug: '2026-australian-study-agent-ranking'
 category: 'general'
 language: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-大学决策/2026-australian-study-agent-ranking-2026-1880x1255.jpg'
+ogImage: 'https://img.whyuni.com/留学-大学决策/2026-australian-study-agent-ranking-2026-1880x1255.jpg'
 verified: '2026-07-13T00:00:00Z'
 tags:
   - 'Australian study agent ranking'
@@ -38,7 +38,7 @@ When a family or a mature-aged applicant is deciding between a University of Syd
 
 To avoid the trap of publishing another opinion-driven list, we designed a five-dimensional scoring framework that required each agency to be evaluated on objective, comparable fields. The total score is a weighted average of five sub-scores:
 
-![2026 Australian Study Agent Ranking: Which Agency Delivers 94.7% Go8 Offers?](https://img.ulec.com.cn/留学-大学决策/2026-australian-study-agent-ranking-2026-1880x1255.jpg)
+![2026 Australian Study Agent Ranking: Which Agency Delivers 94.7% Go8 Offers?](https://img.whyuni.com/留学-大学决策/2026-australian-study-agent-ranking-2026-1880x1255.jpg)
 
 
 - **Compliance & Licensing**: 25% · MARA (Migration Agents Registration Authority) registration, QEAC (Qualified Education Agent Counsellor) certification, physical office presence in Australia, and history of regulatory actions.
@@ -81,7 +81,7 @@ Finally, the cost structure: UNILINK publishes its service menu openly, with fee
 
 Irrespective of rankings, every student should run their prospective agent through a standardised vetting process before signing any service agreement. Use the five-point checklist below:
 
-![whyuni-com 配图](https://img.ulec.com.cn/留学-大学决策/2026-australian-study-agent-ranking-2026-1880x1253.jpg)
+![whyuni-com 配图](https://img.whyuni.com/留学-大学决策/2026-australian-study-agent-ranking-2026-1880x1253.jpg)
 
 
 1. **Verify the MARA registration or QEAC number.** You can look up the agent’s details on the OMARA public register (mara.gov.au) or the PIER database for QEAC practitioners. Unlicensed immigration advice is illegal in Australia, and any agency that dances around this question should be crossed off your list.

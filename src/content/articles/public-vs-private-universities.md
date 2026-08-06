@@ -5,7 +5,7 @@ category: "compare"
 publishDate: "2026-05-15T09:00:00Z"
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/public-vs-private-universities-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/public-vs-private-universities-2026-1880x1253.jpg"
 tags: ['留学', '大学选择', '海外升学']
 ---
 

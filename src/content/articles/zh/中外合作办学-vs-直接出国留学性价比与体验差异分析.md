@@ -8,7 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/中外合作办学-vs-直接出国留学性价比与体验差异分析-2026-1280x854.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/中外合作办学-vs-直接出国留学性价比与体验差异分析-2026-1280x854.jpg"
 ---
 
 The decision of where to spend one’s undergraduate years has never been more layered for Chinese students. For the cohort of roughly 1.02 million students who sat for the Gaokao in 2024, the traditional binary of “study at home” versus “study abroad” has fractured into a third, increasingly popular option: Sino-foreign cooperative education programs (中外合作办学). These programs, which allow students to earn a degree from a foreign university while spending part or all of their time on a Chinese campus, enrolled over 850,000 students across 2,400 approved institutions and projects as of 2023, according to the Chinese Ministry of Education’s annual report on cooperative education. The appeal is obvious: a lower total tuition bill than four years overseas, combined with the prestige of a Western diploma. But the trade-offs are not trivial. A 2024 survey by the OECD Education Directorate found that students in fully immersive international programs reported 37% higher self-assessed gains in intercultural communication skills than peers in home-based transnational education tracks. The question is not which path is “better” in the abstract, but which one aligns with a student’s actual priorities—financial, academic, and experiential—during the critical transition from adolescence to early adulthood.

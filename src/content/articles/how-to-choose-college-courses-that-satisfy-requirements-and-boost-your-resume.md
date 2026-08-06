@@ -7,7 +7,7 @@ publishDate: '2026-04-20T19:21:02Z'
 readingTime: 10
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/how-to-choose-college-courses-that-satisfy-requirements-and-boost-your-resume-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/how-to-choose-college-courses-that-satisfy-requirements-and-boost-your-resume-2026-1880x1253.jpg"
 ---
 
 The average American university student pays $14,670 per year in tuition at a public four-year institution and faces a 41.6 percent six-year graduation rate, according to the National Center for Education Statistics (NCES, 2023, *Digest of Education Statistics*). Those numbers hide a more uncomfortable truth: the courses you pick in your first two semesters can determine whether you graduate on time—or drift into a fifth year, costing an extra $58,680 in tuition and foregone wages, per the same NCES dataset. Yet most 18-year-olds walk into registration with nothing more than a vague sense of “I should take something interesting” and a PDF of degree requirements they have never fully read. The tension between satisfying a checklist and building a resume that actually gets you hired is the central puzzle of undergraduate planning. A 2022 survey by the National Association of Colleges and Employers (NACE) found that 91 percent of employers prioritize “demonstrated skills” over a candidate’s major—meaning the course you take to check a box could also be the one that lands you an interview, if you choose it deliberately. This article is a decision framework for that choice: how to read a requirement map, identify courses that serve double duty, and sequence them so that your transcript tells a story, not just a list of completed credits.

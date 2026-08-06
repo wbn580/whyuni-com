@@ -8,7 +8,7 @@ readingTime: 13
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/mining-university-websites-finding-critical-information-beyond-rankings-2026-1880x1111.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/mining-university-websites-finding-critical-information-beyond-rankings-2026-1880x1111.jpg"
 ---
 
 In 2024, the QS World University Rankings evaluated over 5,000 institutions to produce a list of just 1,500. A single position in the top 100 can shift a university’s international applicant pool by as much as 12% year-over-year, according to a 2023 analysis by the Institute of International Education (IIE). Yet for the 17-to-22-year-old student standing at the crossroads of this decision, the gap between University A at rank 45 and University B at rank 63 is often less meaningful than the difference between a 4:1 student-to-faculty ratio in engineering and a 30:1 lecture hall in introductory economics. Rankings compress complexity into a single integer, but the critical information that determines whether a student thrives—class size variability, internship placement rates, the actual curriculum of a second-year major—remains buried in the raw, unglamorous text of a university’s own website. A 2022 OECD report on higher education access noted that 73% of international students rely on university websites as their primary source of decision-making data, yet the same report found that fewer than one in five students systematically cross-checks that data against official government statistics. The gap between what rankings promise and what a website can reveal is precisely where the most consequential decisions are made.

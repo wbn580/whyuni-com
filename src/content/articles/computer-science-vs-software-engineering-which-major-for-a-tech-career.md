@@ -8,7 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/computer-science-vs-software-engineering-which-major-for-a-tech-career-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/computer-science-vs-software-engineering-which-major-for-a-tech-career-2026-1880x1253.jpg"
 ---
 
 Every September, roughly 60,000 first-year students in the United States declare a major in computer and information sciences, according to the National Center for Education Statistics (NCES, 2023 Digest of Education Statistics). Inside that enormous funnel, a quieter but sharper fork appears halfway through sophomore year: Computer Science (CS) or Software Engineering (SE)? The two share 70–80% of their core curriculum—calculus, data structures, operating systems—yet the 20–30% difference in upper-division coursework can reroute a graduate’s first job title, starting salary, and even long-term career ceiling. A 2024 analysis by Burning Glass Institute found that job postings explicitly requiring a “Software Engineering” degree grew 34% between 2019 and 2023, while “Computer Science” postings grew only 12% over the same period. The Bureau of Labor Statistics projects 377,500 new software developer roles by 2032, but the question isn’t whether the jobs exist—it’s which academic lens prepares you to get and keep one. This decision isn’t about picking the “better” major; it’s about matching a curriculum’s philosophical center of gravity to how you think, build, and debug under pressure.

@@ -7,7 +7,7 @@ publishDate: '2026-03-20T19:12:12Z'
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/qs官网选校工具怎么用手把手教你挖掘隐藏功能-2026-1280x854.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/qs官网选校工具怎么用手把手教你挖掘隐藏功能-2026-1280x854.jpg"
 ---
 
 Every year, over 1.8 million prospective students visit the QS World University Rankings website during the peak decision window between August and November, according to QS’s own 2023 user analytics report. Yet the vast majority of these visitors do little more than glance at the top-100 list, scan a few university profiles, and leave. A 2022 study by the OECD’s Education Directorate found that 72% of international applicants rely on ranking portals as their primary information source, but only 14% report using any advanced filtering or comparison features. This gap — between what the QS platform offers and what students actually extract from it — represents a significant missed opportunity. The QS website is not merely a static leaderboard; it is a layered decision-support tool that, when navigated with intention, can reveal employment outcomes, regional cost-of-living data, and discipline-specific reputations that the headline rank obscures. This guide walks through the hidden functions, from the “Subject Rankings” granularity to the “QS Stars” institutional audit, that can shift a borderline choice into a confident one. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=whyuni-com/articles/zh/qs%E5%AE%98%E7%BD%91%E9%80%89%E6%A0%A1%E5%B7%A5%E5%85%B7%E6%80%8E%E4%B9%88%E7%94%A8%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%8C%96%E6%8E%98%E9%9A%90%E8%97%8F%E5%8A%9F%E8%83%BD) to settle fees.

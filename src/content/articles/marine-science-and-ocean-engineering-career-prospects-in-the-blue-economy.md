@@ -7,7 +7,7 @@ publishDate: '2026-05-13T19:27:06Z'
 readingTime: 8
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/marine-science-and-ocean-engineering-career-prospects-in-the-blue-economy-2026-1880x1253.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/marine-science-and-ocean-engineering-career-prospects-in-the-blue-economy-2026-1880x1253.jpg"
 ---
 
 In 2022, the global ocean economy—often called the Blue Economy—was valued at roughly USD 2.5 trillion in annual gross value added, according to the OECD’s *Ocean Economy in 2030* projection, and is expected to double to nearly USD 5 trillion by 2050. That growth is not abstract. It translates directly into demand for graduates who understand marine science, ocean engineering, and the intersection of both. The World Bank estimates that over 600 million people worldwide depend on fisheries and aquaculture for their livelihoods, while offshore wind capacity alone grew by 21% year-on-year in 2023, according to the Global Wind Energy Council. For a 17- to 22-year-old weighing university options, this is not merely a niche academic interest—it is a career track backed by national policy frameworks, trillion-dollar infrastructure investments, and a structural shortage of skilled talent. The question is not whether the Blue Economy will grow, but whether you will have the right combination of scientific literacy and engineering competence to enter it.

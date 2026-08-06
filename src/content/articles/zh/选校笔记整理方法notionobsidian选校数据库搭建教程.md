@@ -7,7 +7,7 @@ publishDate: '2026-03-22T19:12:53Z'
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学决策/选校笔记整理方法notionobsidian选校数据库搭建教程-2026-1280x854.jpg"
+ogImage: "https://img.whyuni.com/留学/大学决策/选校笔记整理方法notionobsidian选校数据库搭建教程-2026-1280x854.jpg"
 ---
 
 The first time I tried to compare universities, I opened seventeen browser tabs, copied fragments from QS rankings into a Notes app, and emerged two hours later with a document that looked like a ransom note. I was not alone. A 2023 survey by the Institute of International Education found that 67% of international applicants reported feeling "overwhelmed" by the volume of unstructured information during the school selection phase, and the average applicant visits 14 different university websites before shortlisting just three schools. The problem is not a lack of data—the problem is the absence of a system. Every year, students spend hundreds of hours reading program brochures and tuition tables, only to realize six months into their first semester that they never compared the cost-of-living index in their chosen city, or that the course structure they assumed was "flexible" actually locks them into a narrow track from day one. This article is not about which university to choose. It is about how to build a personal decision database using tools like Notion and Obsidian—a method that turns scattered research into a structured, queryable, and portable archive. When you treat your college search as a data engineering problem rather than a soul-searching exercise, the choices that once felt paralyzing begin to sort themselves.
