@@ -12,6 +12,8 @@ export async function getStaticPaths() {
 
 const { article } = Astro.props;
 const { Content } = await render(article);
+const _ogImageProp = article.data?.ogImage || article.data?.heroImage || article.data?.featured_image || article.data?.featuredImage || article.data?.coverImage || article.data?.image || undefined; /* og-wiring */
+
 ---
 
 <ArticleLayout
@@ -20,7 +22,7 @@ const { Content } = await render(article);
   publishDate={article.data.publishDate}
   category={article.data.category}
   readingTime={article.data.readingTime}
-  ogImage={article.data.ogImage}
+  ogImage={_ogImageProp}
   sources={article.data.sources}
 >
   <Content />
