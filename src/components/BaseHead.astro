@@ -23,6 +23,9 @@ const pageTitle = title === SITE_NAME ? SITE_NAME : `${title} — ${SITE_NAME}`;
 
 // og:image must be absolute URL (not relative); social platforms require scheme+host
 const ogImageUrl = ogImage.startsWith('http') ? ogImage : `${BASE_URL}${ogImage}`;
+const _ogImageProp = (Astro.props as any).ogImage; /* og-wiring */
+const _ogImageResolved = new URL(String(_ogImageProp || "https://whyuni.com/og-image.png"), Astro.site ?? Astro.url).href;
+
 ---
 
 <meta charset="UTF-8" />
@@ -34,7 +37,7 @@ const ogImageUrl = ogImage.startsWith('http') ? ogImage : `${BASE_URL}${ogImage}
 
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content="https://whyuni.com/og-image.png" />
+<meta property="og:image" content={_ogImageResolved} />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content={SITE_NAME} />
 

@@ -13,6 +13,9 @@ const schema = {
   url: 'https://whyuni.com/',
   description,
 };
+const _ogImageProp = (Astro.props as any).ogImage; /* og-wiring */
+const _ogImageResolved = new URL(String(_ogImageProp || "https://whyuni.com/og-image.png"), Astro.site ?? Astro.url).href;
+
 ---
 <!doctype html>
 <html lang="en">
@@ -27,7 +30,7 @@ const schema = {
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://whyuni.com/" />
-    <meta property="og:image" content="https://whyuni.com/og-image.png" />
+    <meta property="og:image" content={_ogImageResolved} />
     <title>{title}</title>
     <script type="application/ld+json" set:html={JSON.stringify(schema)} />
   </head>
