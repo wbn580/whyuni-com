@@ -20,9 +20,10 @@ const aboutSchema = JSON.stringify({
   schema={aboutSchema}
 >
   <article class="max-w-editorial mx-auto px-6 py-12">
-    <h1 class="font-heading text-3xl md:text-4xl text-aus-ink font-bold mb-8">About Why This University</h1>
+    <h1 class="font-heading text-3xl md:text-4xl text-aus-ink font-bold mb-2">About Why This University</h1>
+    <p class="zh">用数据说话的选校对比，帮助你做出经得起推敲的决定。</p>
 
-    <div class="prose prose-lg max-w-none">
+    <div class="prose prose-lg max-w-none mt-8">
 <section class="mb-10">
         <h2 class="font-heading text-2xl text-aus-ink font-bold">Our Mission</h2>
         <p>
@@ -31,6 +32,7 @@ const aboutSchema = JSON.stringify({
         <p>
           We analyze admission data (acceptance rates, yield rates, test score ranges), program-specific comparisons (engineering at Imperial vs. Bristol vs. Southampton), career outcomes (starting salaries by major and institution), and student experience factors.
         </p>
+        <p class="zh">「该去哪所大学」看似简单，但排名只给出单一答案，而项目质量、费用、地点和就业出路往往另有一番故事。我们的使命是提供结构化、数据驱动的对比，帮助学生权衡真正重要的因素——包括招生数据（录取率、报到率、分数区间）、专业对比（如帝国理工 vs. 布里斯托 vs. 南安普顿的工程专业）、就业出路（按专业和院校划分的起薪）以及校园生活体验。</p>
       </section>
       <section class="mb-10">
         <h2 class="font-heading text-2xl text-aus-ink font-bold">What We Cover</h2>
@@ -41,13 +43,19 @@ const aboutSchema = JSON.stringify({
           <li>Cost of attendance comparisons including financial aid</li>
           <li>Campus culture and student life factors</li>
         </ul>
+        <p class="zh">我们覆盖：院校间专业对比、录取竞争力历史趋势分析、按院校和专业划分的毕业出路数据、含奖助学金的费用对比，以及校园文化与学生生活因素。</p>
       </section>
       <section class="mb-10">
         <h2 class="font-heading text-2xl text-aus-ink font-bold">Our Standards</h2>
         <p>
           All comparisons are based on publicly available data from university common data sets, government education statistics, and institutional reports. We present data as-is and let readers draw their own conclusions.
         </p>
+        <p class="zh">所有对比数据均来自院校官方数据集、政府教育统计和机构报告等公开信息，我们如实呈现数据，由读者自行判断。</p>
       </section>
     </div>
   </article>
 </BaseLayout>
+
+<style>
+  .zh { color: #8a7f68; font-size: 0.92em; line-height: 1.7; margin-top: 0.5em; }
+</style>
