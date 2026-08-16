@@ -4,11 +4,26 @@
   <a href="/#method" class="lk">Decision method</a>
   <a href="/about/" class="lk">About</a>
   <a href="/#notes" class="cta">Decision notes</a>
+  <button class="burger" id="burger" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
 </nav>
 
 <script>
   const nav = document.getElementById('nav');
   addEventListener('scroll', () => nav.classList.toggle('scrolled', scrollY > innerHeight * 0.7), { passive: true });
+
+  const burger = document.getElementById('burger');
+  if (burger) {
+    burger.addEventListener('click', () => {
+      const open = nav.classList.toggle('open');
+      burger.setAttribute('aria-expanded', String(open));
+    });
+    nav.querySelectorAll('a.lk, a.cta').forEach((a) =>
+      a.addEventListener('click', () => {
+        nav.classList.remove('open');
+        burger.setAttribute('aria-expanded', 'false');
+      })
+    );
+  }
 </script>
 
 <style>
