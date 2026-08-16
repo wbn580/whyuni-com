@@ -8,7 +8,7 @@ slug: 'whyuni-com-guide-2026-08-14-7c3e07ec3a'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-大学决策/whyuni-com-guide-2026-08-14-7c3e07ec3a-image-02-2026-1679x1300.jpg'
+ogImage: 'https://img.whyuni.com/留学-大学决策/whyuni-com-guide-2026-08-14-7c3e07ec3a-image-02-2026-1679x1300.jpg'
 verified: '2026-08-14T00:00:00Z'
 tags:
   - 'New Zealand universities'
@@ -40,7 +40,7 @@ New Zealand has eight publicly funded universities, each with its own strengths.
 
 **University of Auckland** offers a Bachelor of Fine Arts with a major in Film and Media. Entry is based on secondary school qualifications and often a portfolio. The Master of Fine Arts program typically requires a relevant undergraduate degree and a portfolio of work.
 
-![Agricultural land in New Zealand](https://img.ulec.com.cn/留学-大学决策/whyuni-com-guide-2026-08-14-7c3e07ec3a-image-02-2026-1679x1300.jpg)
+![Agricultural land in New Zealand](https://img.whyuni.com/留学-大学决策/whyuni-com-guide-2026-08-14-7c3e07ec3a-image-02-2026-1679x1300.jpg)
 
 
 **Massey University** provides a Bachelor of Communication with a focus on film and media production. Undergraduate entry is similar. The Master of Creative Writing or Master of Fine Arts may ask for a related degree and a creative submission.
