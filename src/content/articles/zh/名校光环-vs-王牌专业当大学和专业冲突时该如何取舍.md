@@ -6,8 +6,6 @@ pubDatetime: "2026-02-28T19:06:45Z"
 publishDate: '2026-02-28T19:06:45Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/名校光环-vs-王牌专业当大学和专业冲突时该如何取舍-2026-1280x854.jpg"
 ---
 

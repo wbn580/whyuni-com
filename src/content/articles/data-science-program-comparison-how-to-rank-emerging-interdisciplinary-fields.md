@@ -6,8 +6,6 @@ pubDatetime: "2026-04-12T19:19:08Z"
 publishDate: '2026-04-12T19:19:08Z'
 readingTime: 8
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/data-science-program-comparison-how-to-rank-emerging-interdisciplinary-fields-2026-1880x1299.jpg"
 ---
 

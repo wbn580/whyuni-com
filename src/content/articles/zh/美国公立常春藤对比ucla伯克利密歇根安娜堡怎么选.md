@@ -6,8 +6,6 @@ pubDatetime: "2026-04-03T19:16:12Z"
 publishDate: '2026-04-03T19:16:12Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/美国公立常春藤对比ucla伯克利密歇根安娜堡怎么选-2026-1280x854.jpg"
 ---
 

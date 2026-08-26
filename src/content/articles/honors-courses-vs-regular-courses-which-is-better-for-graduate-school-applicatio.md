@@ -6,8 +6,6 @@ pubDatetime: "2026-04-23T19:21:50Z"
 publishDate: '2026-04-23T19:21:50Z'
 readingTime: 10
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/honors-courses-vs-regular-courses-which-is-better-for-graduate-school-applicatio-2026-1880x1253.jpg"
 ---
 

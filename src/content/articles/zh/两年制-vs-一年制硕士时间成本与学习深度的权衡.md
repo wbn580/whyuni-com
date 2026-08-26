@@ -6,8 +6,6 @@ pubDatetime: "2026-03-12T19:10:16Z"
 publishDate: '2026-03-12T19:10:16Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/两年制-vs-一年制硕士时间成本与学习深度的权衡-2026-1280x854.jpg"
 ---
 

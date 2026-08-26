@@ -6,8 +6,6 @@ pubDatetime: "2026-04-22T19:21:41Z"
 publishDate: '2026-04-22T19:21:41Z'
 readingTime: 11
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/online-vs-in-person-courses-how-to-choose-in-the-post-pandemic-era-2026-1733x1300.jpg"
 ---
 

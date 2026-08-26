@@ -6,8 +6,6 @@ pubDatetime: "2026-03-06T19:08:28Z"
 publishDate: '2026-03-06T19:08:28Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/双专业-vs-主修加辅修学业负担与求职优势如何权衡-2026-1280x854.jpg"
 ---
 

@@ -6,8 +6,6 @@ pubDatetime: "2026-05-03T19:24:28Z"
 publishDate: '2026-05-03T19:24:28Z'
 readingTime: 9
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/how-to-create-a-multi-dimensional-university-comparison-spreadsheet-2026-1880x1253.jpg"
 ---
 

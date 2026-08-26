@@ -6,8 +6,6 @@ pubDatetime: "2026-04-28T19:23:12Z"
 publishDate: '2026-04-28T19:23:12Z'
 readingTime: 12
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/online-degrees-vs-traditional-study-abroad-quality-and-recognition-compared-2026-1733x1300.jpg"
 ---
 

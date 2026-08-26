@@ -6,8 +6,6 @@ pubDatetime: "2026-04-30T19:23:33Z"
 publishDate: '2026-04-30T19:23:33Z'
 readingTime: 10
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/comprehensive-universities-vs-liberal-arts-colleges-key-differences-for-undergra-2026-1880x1253.jpg"
 ---
 

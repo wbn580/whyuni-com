@@ -3,8 +3,6 @@ title: "Liberal Arts vs Specialist Degrees · Breadth vs Depth"
 description: "The choice between a broad liberal arts education and a specialised professional degree — US model vs UK/Australia model, career implications, and graduate satisfaction."
 category: "compare"
 publishDate: "2026-05-15T09:10:00Z"
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/liberal-arts-vs-specialist-degrees-2026-1880x1111.jpg"
 tags: ['留学', '大学选择', '海外升学']
 ---

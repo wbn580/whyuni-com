@@ -6,8 +6,6 @@ pubDatetime: "2026-05-17T19:27:59Z"
 publishDate: '2026-05-17T19:27:59Z'
 readingTime: 10
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/ivy-league-comparison-harvard-yale-and-princetonwhich-is-right-for-you-2026-1880x1253.jpg"
 ---
 

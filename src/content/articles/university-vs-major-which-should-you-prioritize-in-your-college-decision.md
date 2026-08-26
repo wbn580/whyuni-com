@@ -6,8 +6,6 @@ pubDatetime: "2026-04-14T19:19:32Z"
 publishDate: '2026-04-14T19:19:32Z'
 readingTime: 10
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/university-vs-major-which-should-you-prioritize-in-your-college-decision-2026-1880x1111.jpg"
 ---
 

@@ -6,8 +6,6 @@ pubDatetime: "2026-04-22T19:21:48Z"
 publishDate: '2026-04-22T19:21:48Z'
 readingTime: 9
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/are-summer-courses-worth-it-accelerated-graduation-vs-burnout-risk-2026-1880x1253.jpg"
 ---
 

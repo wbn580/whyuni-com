@@ -6,8 +6,6 @@ pubDatetime: "2026-03-16T19:11:06Z"
 publishDate: '2026-03-16T19:11:06Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/公立大学-vs-私立大学留学选校时如何抉择-2026-1280x854.jpg"
 ---
 

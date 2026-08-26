@@ -6,8 +6,6 @@ pubDatetime: "2026-05-07T19:25:33Z"
 publishDate: '2026-05-07T19:25:33Z'
 readingTime: 10
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/cost-benefit-analysis-tool-financial-comparison-spreadsheet-for-study-abroad-2026-1880x1253.jpg"
 ---
 

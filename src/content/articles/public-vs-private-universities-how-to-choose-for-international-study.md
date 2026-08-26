@@ -6,8 +6,6 @@ pubDatetime: "2026-04-30T19:23:37Z"
 publishDate: '2026-04-30T19:23:37Z'
 readingTime: 12
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/public-vs-private-universities-how-to-choose-for-international-study-2026-1880x1253.jpg"
 ---
 

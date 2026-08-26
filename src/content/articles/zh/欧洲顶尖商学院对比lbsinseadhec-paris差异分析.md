@@ -6,8 +6,6 @@ pubDatetime: "2026-04-05T19:16:58Z"
 publishDate: '2026-04-05T19:16:58Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/欧洲顶尖商学院对比lbsinseadhec-paris差异分析-2026-1280x854.jpg"
 ---
 

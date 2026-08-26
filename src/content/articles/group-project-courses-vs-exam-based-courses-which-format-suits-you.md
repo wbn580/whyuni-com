@@ -6,8 +6,6 @@ pubDatetime: "2026-04-24T19:22:07Z"
 publishDate: '2026-04-24T19:22:07Z'
 readingTime: 11
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/group-project-courses-vs-exam-based-courses-which-format-suits-you-2026-1880x1253.jpg"
 ---
 

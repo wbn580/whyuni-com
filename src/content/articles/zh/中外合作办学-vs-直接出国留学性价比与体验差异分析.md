@@ -6,8 +6,6 @@ pubDatetime: "2026-03-14T19:10:36Z"
 publishDate: '2026-03-14T19:10:36Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/中外合作办学-vs-直接出国留学性价比与体验差异分析-2026-1280x854.jpg"
 ---
 

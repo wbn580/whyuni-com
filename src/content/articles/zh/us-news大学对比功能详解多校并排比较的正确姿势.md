@@ -6,8 +6,6 @@ pubDatetime: "2026-03-20T19:12:18Z"
 publishDate: '2026-03-20T19:12:18Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/us-news大学对比功能详解多校并排比较的正确姿势-2026-1280x854.jpg"
 ---
 

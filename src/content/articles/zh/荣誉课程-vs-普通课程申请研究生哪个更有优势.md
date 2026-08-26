@@ -6,8 +6,6 @@ pubDatetime: "2026-03-08T19:09:03Z"
 publishDate: '2026-03-08T19:09:03Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/荣誉课程-vs-普通课程申请研究生哪个更有优势-2026-1280x854.jpg"
 ---
 

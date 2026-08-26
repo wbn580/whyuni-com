@@ -6,8 +6,6 @@ pubDatetime: "2026-03-16T19:11:10Z"
 publishDate: '2026-03-16T19:11:10Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/研究型大学-vs-教学型大学不同学习目标如何匹配-2026-1880x1254.jpg"
 ---
 

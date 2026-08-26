@@ -6,8 +6,6 @@ pubDatetime: "2026-05-01T19:23:57Z"
 publishDate: '2026-05-01T19:23:57Z'
 readingTime: 10
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/uk-university-location-london-vs-non-londonwhich-is-right-for-you-2026-1880x1253.jpg"
 ---
 

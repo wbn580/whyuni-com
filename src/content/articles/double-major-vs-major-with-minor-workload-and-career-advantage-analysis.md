@@ -6,8 +6,6 @@ pubDatetime: "2026-04-21T19:21:19Z"
 publishDate: '2026-04-21T19:21:19Z'
 readingTime: 13
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/double-major-vs-major-with-minor-workload-and-career-advantage-analysis-2026-1453x1300.jpg"
 ---
 

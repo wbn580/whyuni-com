@@ -6,8 +6,6 @@ pubDatetime: "2026-04-05T19:16:55Z"
 publishDate: '2026-04-05T19:16:55Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/加拿大u15研究型大学对比多伦多ubc麦吉尔选校分析-2026-1880x1253.jpg"
 ---
 

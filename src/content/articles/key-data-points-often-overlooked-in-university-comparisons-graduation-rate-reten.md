@@ -6,8 +6,6 @@ pubDatetime: "2026-05-05T19:25:02Z"
 publishDate: '2026-05-05T19:25:02Z'
 readingTime: 10
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/key-data-points-often-overlooked-in-university-comparisons-graduation-rate-reten-2026-1880x1299.jpg"
 ---
 

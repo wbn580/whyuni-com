@@ -6,8 +6,6 @@ pubDatetime: "2026-05-17T19:28:04Z"
 publishDate: '2026-05-17T19:28:04Z'
 readingTime: 10
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/oxford-vs-cambridge-a-comprehensive-comparison-of-the-uks-top-two-universities-2026-1880x1251.jpg"
 ---
 

@@ -3,8 +3,6 @@ title: "Public vs Private Universities · Cost, Quality, and Prestige"
 description: "Comparing public and private universities — cost differentials, teaching models, prestige, and outcomes across Australia, UK, US, and other systems."
 category: "compare"
 publishDate: "2026-05-15T09:00:00Z"
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/public-vs-private-universities-2026-1880x1253.jpg"
 tags: ['留学', '大学选择', '海外升学']
 ---

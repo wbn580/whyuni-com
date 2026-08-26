@@ -6,8 +6,6 @@ pubDatetime: "2026-03-09T19:09:16Z"
 publishDate: '2026-03-09T19:09:16Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/小组项目多的课程-vs-考试为主的课程怎么选-2026-1280x854.jpg"
 ---
 

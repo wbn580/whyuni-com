@@ -6,8 +6,6 @@ pubDatetime: "2026-03-21T19:12:41Z"
 publishDate: '2026-03-21T19:12:41Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/留学选校app推荐手机上的大学对比工具盘点-2026-1280x854.jpg"
 ---
 

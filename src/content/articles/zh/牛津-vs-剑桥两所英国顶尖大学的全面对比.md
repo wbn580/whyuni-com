@@ -6,8 +6,6 @@ pubDatetime: "2026-04-03T19:16:30Z"
 publishDate: '2026-04-03T19:16:30Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/牛津-vs-剑桥两所英国顶尖大学的全面对比-2026-1880x1251.jpg"
 ---
 

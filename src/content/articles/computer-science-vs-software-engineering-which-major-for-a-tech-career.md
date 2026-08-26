@@ -6,8 +6,6 @@ pubDatetime: "2026-04-16T19:20:05Z"
 publishDate: '2026-04-16T19:20:05Z'
 readingTime: 9
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/computer-science-vs-software-engineering-which-major-for-a-tech-career-2026-1880x1253.jpg"
 ---
 

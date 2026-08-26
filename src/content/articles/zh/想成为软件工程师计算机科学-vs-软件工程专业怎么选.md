@@ -6,8 +6,6 @@ pubDatetime: "2026-03-04T19:07:54Z"
 publishDate: '2026-03-04T19:07:54Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/想成为软件工程师计算机科学-vs-软件工程专业怎么选-2026-1280x854.jpg"
 ---
 

@@ -6,8 +6,6 @@ pubDatetime: "2026-05-04T19:24:32Z"
 publishDate: '2026-05-04T19:24:32Z'
 readingTime: 11
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/best-apps-for-comparing-universities-mobile-tools-for-study-abroad-research-2026-1880x1253.jpg"
 ---
 

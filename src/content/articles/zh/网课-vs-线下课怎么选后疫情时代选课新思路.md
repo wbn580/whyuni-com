@@ -6,8 +6,6 @@ pubDatetime: "2026-03-09T19:09:24Z"
 publishDate: '2026-03-09T19:09:24Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/网课-vs-线下课怎么选后疫情时代选课新思路-2026-1280x854.jpg"
 ---
 

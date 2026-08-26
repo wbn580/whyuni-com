@@ -6,8 +6,6 @@ pubDatetime: "2026-05-04T19:24:42Z"
 publishDate: '2026-05-04T19:24:42Z'
 readingTime: 12
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/us-news-college-comparison-tool-how-to-compare-schools-side-by-side-2026-1733x1300.jpg"
 ---
 

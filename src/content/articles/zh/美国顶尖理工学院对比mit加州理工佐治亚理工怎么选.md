@@ -6,8 +6,6 @@ pubDatetime: "2026-04-04T19:16:31Z"
 publishDate: '2026-04-04T19:16:31Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/美国顶尖理工学院对比mit加州理工佐治亚理工怎么选-2026-1880x1253.jpg"
 ---
 

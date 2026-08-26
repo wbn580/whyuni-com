@@ -6,8 +6,6 @@ pubDatetime: "2026-04-07T19:17:38Z"
 publishDate: '2026-04-07T19:17:38Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/全球顶尖传媒学院对比哥大南加大lse传媒专业分析-2026-1280x854.jpg"
 ---
 

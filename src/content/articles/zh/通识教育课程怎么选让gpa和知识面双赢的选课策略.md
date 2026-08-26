@@ -6,8 +6,6 @@ pubDatetime: "2026-03-07T19:08:29Z"
 publishDate: '2026-03-07T19:08:29Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/通识教育课程怎么选让gpa和知识面双赢的选课策略-2026-1280x854.jpg"
 ---
 

@@ -6,8 +6,6 @@ pubDatetime: "2026-03-16T19:11:09Z"
 publishDate: '2026-03-16T19:11:09Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/综合性大学-vs-文理学院本科留学选校的核心差异分析-2026-1280x854.jpg"
 ---
 

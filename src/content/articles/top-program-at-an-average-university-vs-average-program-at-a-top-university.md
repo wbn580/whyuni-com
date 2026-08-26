@@ -6,8 +6,6 @@ pubDatetime: "2026-04-17T19:20:23Z"
 publishDate: '2026-04-17T19:20:23Z'
 readingTime: 11
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/top-program-at-an-average-university-vs-average-program-at-a-top-university-2026-1880x1115.jpg"
 ---
 

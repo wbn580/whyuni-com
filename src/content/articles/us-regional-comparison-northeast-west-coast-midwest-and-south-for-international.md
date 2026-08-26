@@ -6,8 +6,6 @@ pubDatetime: "2026-04-30T19:23:44Z"
 publishDate: '2026-04-30T19:23:44Z'
 readingTime: 8
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/us-regional-comparison-northeast-west-coast-midwest-and-south-for-international-2026-1880x1253.jpg"
 ---
 

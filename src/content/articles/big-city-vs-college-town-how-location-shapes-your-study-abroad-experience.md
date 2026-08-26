@@ -6,8 +6,6 @@ pubDatetime: "2026-04-29T19:23:27Z"
 publishDate: '2026-04-29T19:23:27Z'
 readingTime: 11
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/big-city-vs-college-town-how-location-shapes-your-study-abroad-experience-2026-1880x1253.jpg"
 ---
 

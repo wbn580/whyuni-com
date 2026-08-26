@@ -6,8 +6,6 @@ pubDatetime: "2026-04-06T19:17:02Z"
 publishDate: '2026-04-06T19:17:02Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/世界顶尖教育学院对比ucl哈佛斯坦福教育学差异-2026-1733x1300.jpg"
 ---
 

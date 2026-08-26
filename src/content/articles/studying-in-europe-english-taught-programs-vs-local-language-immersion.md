@@ -6,8 +6,6 @@ pubDatetime: "2026-05-01T19:23:57Z"
 publishDate: '2026-05-01T19:23:57Z'
 readingTime: 8
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.whyuni.com/留学/大学决策/studying-in-europe-english-taught-programs-vs-local-language-immersion-2026-1880x1111.jpg"
 ---
 
