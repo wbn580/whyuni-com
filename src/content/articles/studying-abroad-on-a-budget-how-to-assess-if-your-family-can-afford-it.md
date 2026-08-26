@@ -3,6 +3,7 @@ title: "Studying Abroad on a Budget: How to Assess If Your Family Can Afford It"
 description: "The first question a family asks when a seventeen-year-old announces they want to study abroad is rarely about the quality of the university. It is about the…"
 category: "Studying"
 pubDatetime: "2026-04-23T19:21:52Z"
+modDatetime: '2026-08-26T08:26:42Z'
 publishDate: '2026-04-23T19:21:52Z'
 readingTime: 7
 tags: ["featured"]
@@ -32,7 +33,7 @@ For cross-border tuition payments, some international families use channels like
 
 ## Hidden Costs: Visa Fees, Flights, and Deposits
 
-The visa application itself carries a cost. The U.S. student visa (F-1) application fee is $160, plus a SEVIS fee of $350. The UK Student Visa costs £490 as of 2024. Australia charges AUD 710 for a student visa application. These are non-refundable. If the visa is denied, the family loses that money entirely. Flight tickets for a round-trip between Asia and North America averaged $1,200 to $1,800 in 2023, according to the International Air Transport Association (IATA). Many universities also require a **tuition deposit** of $1,000 to $5,000 to secure a spot, which is often non-refundable after a certain date. Families should set aside at least $3,000 in pure "logistics costs" before the student ever sets foot in a classroom.
+The visa application itself carries a cost. The U.S. student visa (F-1) application fee is $160, plus a SEVIS fee of $350. The UK Student Visa costs £490 as of 2024. Australia charges AUD 2,500 for a student visa application. These are non-refundable. If the visa is denied, the family loses that money entirely. Flight tickets for a round-trip between Asia and North America averaged $1,200 to $1,800 in 2023, according to the International Air Transport Association (IATA). Many universities also require a **tuition deposit** of $1,000 to $5,000 to secure a spot, which is often non-refundable after a certain date. Families should set aside at least $3,000 in pure "logistics costs" before the student ever sets foot in a classroom.
 
 ## Financial Aid and Scholarship Reality
 

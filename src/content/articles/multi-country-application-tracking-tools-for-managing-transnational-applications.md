@@ -3,6 +3,7 @@ title: "Multi-Country Application Tracking: Tools for Managing Transnational App
 description: "In 2023, 1.9 million students crossed borders for tertiary education, a number that the OECD projects will reach 8 million globally by 2025—a 50% increase fr…"
 category: "Multi-Country"
 pubDatetime: "2026-05-07T19:25:34Z"
+modDatetime: '2026-08-26T08:53:26Z'
 publishDate: '2026-05-07T19:25:34Z'
 readingTime: 9
 tags: ["featured"]
@@ -79,7 +80,7 @@ Take your test with an agency that offers **free score reporting to multiple ins
 
 ### Q3: How much should I budget for document processing across three countries?
 
-For three countries, budget **$600–$1,200** for document-related costs. This includes: credential evaluation (WES: $160–$220 per evaluation), certified translations ($50–$100 per page, typically 3–5 pages), notarization ($10–$30 per document), and apostille fees ($20–$50 per document). If you need rush services, add 50–100% to these figures. The Australian Department of Home Affairs charges AUD 1,600 for a Student Visa application (2024), and the UK Home Office charges £490 for a Student Visa—these are separate from document processing costs.
+For three countries, budget **$600–$1,200** for document-related costs. This includes: credential evaluation (WES: $160–$220 per evaluation), certified translations ($50–$100 per page, typically 3–5 pages), notarization ($10–$30 per document), and apostille fees ($20–$50 per document). If you need rush services, add 50–100% to these figures. The Australian Department of Home Affairs charges AUD 2,500 for a Student Visa application (2026), and the UK Home Office charges £490 for a Student Visa—these are separate from document processing costs.
 
 ## References
 
