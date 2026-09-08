@@ -1,7 +1,7 @@
 ---
 title: "Student Support Scores Vary by 20 Points Across Australian Universities"
 description: "QILT 2025 data shows undergraduate student support ratings range from 66.7 to 94.9 across Australian universities. Learn how to read the numbers and verify them on ComparED."
-category: "世界顶尖艺术学院对比：皇"
+category: "University"
 pubDatetime: "2026-09-08T07:32:11Z"
 publishDate: '2026-04-05T19:16:51Z'
 readingTime: 3
