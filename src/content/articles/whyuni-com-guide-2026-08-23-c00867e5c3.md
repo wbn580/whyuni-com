@@ -23,13 +23,13 @@ Based on recent acceptance data, Australia's Group of Eight universities can be 
 ## Business Programs: What Universities Look For
 For business programs, universities in the Group of Eight generally prefer applicants with strong academic records, particularly in mathematics and English. Many also require a personal statement or interview to assess motivation and leadership potential. Work experience or internships can strengthen an application, especially for postgraduate programs. Some universities give weight to extracurricular activities that demonstrate teamwork and communication skills.
 
-![Students walking on an Australian university campus](https://img.ulec.com.cn/留学-大学决策/whyuni-com-guide-2026-08-23-c00867e5c3-image-01-2026-1880x1253.jpg)
+![Students walking on an Australian university campus](https://img.whyuni.com/留学-大学决策/whyuni-com-guide-2026-08-23-c00867e5c3-image-01-2026-1880x1253.jpg)
 
 
 ## Computer Science Programs: Admission Preferences
 Computer science admissions typically emphasize mathematical aptitude and programming experience. High school subjects like advanced mathematics and computer science are advantageous. For international students, English language proficiency is crucial, with most universities requiring IELTS or TOEFL scores. Some institutions may consider participation in coding competitions or projects as evidence of practical skills.
 
-![Computer science classroom with coding screens](https://img.ulec.com.cn/留学-大学决策/whyuni-com-guide-2026-08-23-c00867e5c3-image-02-2026-1679x1300.jpg)
+![Computer science classroom with coding screens](https://img.whyuni.com/留学-大学决策/whyuni-com-guide-2026-08-23-c00867e5c3-image-02-2026-1679x1300.jpg)
 
 
 ## How to Approach Your Application

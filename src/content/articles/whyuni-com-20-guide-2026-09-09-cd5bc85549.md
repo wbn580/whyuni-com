@@ -25,7 +25,7 @@ Visa officers ask questions to assess whether you meet the requirements for an F
 ## 20 Common Questions and Answer Frameworks
 Here are 20 typical questions you may face, along with suggested frameworks for responding:
 
-![An applicant at a US consulate for a visa interview](https://img.ulec.com.cn/留学-大学决策/whyuni-com-20-guide-2026-09-09-cd5bc85549-image-03-2026-1733x1300.jpg)
+![An applicant at a US consulate for a visa interview](https://img.whyuni.com/留学-大学决策/whyuni-com-20-guide-2026-09-09-cd5bc85549-image-03-2026-1733x1300.jpg)
 
 
 ### 1. Why do you want to study in the United States?

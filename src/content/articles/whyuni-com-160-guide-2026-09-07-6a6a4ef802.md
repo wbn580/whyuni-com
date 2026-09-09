@@ -31,7 +31,7 @@ Certain professions are in high demand in New Zealand, and obtaining a qualifica
 
 When selecting a university, consider the quality of the program and whether it is recognized by New Zealand Qualifications Authority (NZQA). A qualification that is not recognized may not earn points. Also, look for opportunities for internships or work placements, as skilled employment is a high-value factor in the points system.
 
-![Students studying at a university in New Zealand](https://img.ulec.com.cn/留学-大学决策/whyuni-com-160-guide-2026-09-07-6a6a4ef802-image-02-2026-1880x1253.jpg)
+![Students studying at a university in New Zealand](https://img.whyuni.com/留学-大学决策/whyuni-com-160-guide-2026-09-07-6a6a4ef802-image-02-2026-1880x1253.jpg)
 
 
 ## Other Factors to Boost Your Score

@@ -24,7 +24,7 @@ The Group of Eight (Go8) universities in Australia are often categorized into di
 
 Among the Go8 universities, business and computer science programs are particularly popular. Admission preferences for these fields often reflect a combination of academic performance, standardized test scores, and sometimes interviews or portfolios. For business programs, universities may look for strong analytical and communication skills, while computer science programs often emphasize mathematical aptitude and programming experience.
 
-![Students walking on an Australian university campus](https://img.ulec.com.cn/留学-大学决策/whyuni-com-guide-2026-09-04-7d858e7f00-image-02-2026-1880x1253.jpg)
+![Students walking on an Australian university campus](https://img.whyuni.com/留学-大学决策/whyuni-com-guide-2026-09-04-7d858e7f00-image-02-2026-1880x1253.jpg)
 
 
 ## Which Universities Are Easiest to Get Into?
@@ -35,7 +35,7 @@ Based on recent data, the Go8 universities can be roughly divided into three tie
 
 Several factors contribute to the perceived difficulty of admission at each Go8 university. These include the university's overall reputation, location, and the specific program's demand. Additionally, international student quotas and visa regulations can affect the number of places available, influencing competition.
 
-![Students in a computer science classroom in Australia](https://img.ulec.com.cn/留学-大学决策/whyuni-com-guide-2026-09-04-7d858e7f00-image-03-2026-1880x1255.jpg)
+![Students in a computer science classroom in Australia](https://img.whyuni.com/留学-大学决策/whyuni-com-guide-2026-09-04-7d858e7f00-image-03-2026-1880x1255.jpg)
 
 
 ## Making an Informed Choice

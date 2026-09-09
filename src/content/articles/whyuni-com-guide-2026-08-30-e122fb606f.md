@@ -35,7 +35,7 @@ Before you submit your visa application, gather these essential documents:
 - Academic qualifications and English language test results (if required)
 - Any other documents specified in your CAS
 
-![A stack of documents for a UK student visa application, including a passport and financial statements.](https://img.ulec.com.cn/留学-大学决策/whyuni-com-guide-2026-08-30-e122fb606f-image-02-2026-1880x1253.jpg)
+![A stack of documents for a UK student visa application, including a passport and financial statements.](https://img.whyuni.com/留学-大学决策/whyuni-com-guide-2026-08-30-e122fb606f-image-02-2026-1880x1253.jpg)
 
 
 Make sure all documents are in the correct format and language. If any documents are not in English, you need a certified translation.
