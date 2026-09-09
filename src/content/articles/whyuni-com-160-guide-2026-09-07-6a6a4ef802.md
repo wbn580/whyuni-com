@@ -8,7 +8,7 @@ slug: 'whyuni-com-160-guide-2026-09-07-6a6a4ef802'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-大学决策/whyuni-com-160-guide-2026-09-07-6a6a4ef802-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.whyuni.com/留学-大学决策/whyuni-com-160-guide-2026-09-07-6a6a4ef802-image-01-2026-1880x1253.jpg"
 verified: '2026-09-07T00:00:00Z'
 tags:
   - 'skilled migration'

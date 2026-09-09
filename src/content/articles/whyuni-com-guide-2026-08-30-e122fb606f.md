@@ -8,7 +8,7 @@ slug: 'whyuni-com-guide-2026-08-30-e122fb606f'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-大学决策/whyuni-com-guide-2026-08-30-e122fb606f-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.whyuni.com/留学-大学决策/whyuni-com-guide-2026-08-30-e122fb606f-image-01-2026-1880x1253.jpg"
 verified: '2026-08-30T00:00:00Z'
 tags:
   - 'UK student visa'

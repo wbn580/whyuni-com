@@ -8,7 +8,7 @@ slug: 'whyuni-com-guide-2026-08-23-c00867e5c3'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-大学决策/whyuni-com-guide-2026-08-23-c00867e5c3-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.whyuni.com/留学-大学决策/whyuni-com-guide-2026-08-23-c00867e5c3-image-01-2026-1880x1253.jpg"
 verified: '2026-08-23T00:00:00Z'
 tags:
   - 'Australia'
